@@ -1,0 +1,15 @@
+{
+    "name": "RPrototypeT6",
+    "clone": true,
+    "clonePrefabName": "PrototypeT6",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+		"Obsidian:30:0:False",
+        "FineWood:30:10:False",
+        "BlackMetal:20:0:False",
+		"TrophyGoblinKing:1:0:False"		
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "RPrototypeT8",
+    "clone": true,
+    "clonePrefabName": "PrototypeT8",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+		"SurtlingCore:10:0:False",
+        "FrometalBar:20:0:False",
+        "FineWood:30:10:False",
+		"TrophyJotunn:1:0:False"
+    ]
+}

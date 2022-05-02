@@ -1,0 +1,7 @@
+{
+    "name": "SageRobeBlack",
+    "armor": 10.0,
+    "armorPerLevel": 3.0,
+    "movementModifier": 10.0,
+    "damageModifiers": []
+}

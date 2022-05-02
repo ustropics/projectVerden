@@ -1,0 +1,15 @@
+{
+    "name": "Rgoblin_drop",
+    "clone": true,
+    "clonePrefabName": "goblin_drop",
+    "craftingStation": "Inscription Table",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "ShardLegendary:10:0:False",
+		"DustLegendary:20:0:False",
+		"RunestoneEpic:30:0:False",
+		"ShardEpic:20:0:False"
+		]
+}

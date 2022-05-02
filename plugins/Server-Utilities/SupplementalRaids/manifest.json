@@ -1,0 +1,13 @@
+{
+    "name": "Supplemental_Raids",
+    "version_number": "0.2.2",
+    "website_url": "https://www.nexusmods.com/valheim/mods/988?tab=description",
+    "description": "Stack of Supplemental raids for use with Custom Raids, RRR_Npcs, RRR_Monsters, RRR_Betterraids",
+    "dependencies": [
+		"ASharpPen-Custom_Raids-1.4.0",
+        "neurodr0me-RRRBetterRaids-2.1.0",
+		"neurodr0me-RRRMonsters-2.2.1",
+		"neurodr0me-RRRNpcs-0.2.3",
+		"neurodr0me-RRRCore-2.9.0"
+    ]
+}
