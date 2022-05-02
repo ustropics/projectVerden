@@ -1,0 +1,9 @@
+{
+  "name": "Reely_SpecTackleLure",
+  "description": "Fishing skill, craftable gear, fishing tweaks, and ... danger?",
+  "version_number": "0.1.7",
+  "website_url": "https://www.nexusmods.com/valheim/mods/1655/",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1700"
+  ]
+}
