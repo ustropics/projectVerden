@@ -1,0 +1,1204 @@
+{
+
+  "LegendaryItems": [
+  
+  
+  
+  
+    {
+      "ID": "Dyrnwyn",
+      "Name": "<color=Red>$mod_epicloot_l_dyrnwyn</color>",
+      "Description": "$mod_epicloot_l_dyrnwyn_desc",
+      "IsSetItem": true, 
+      "EquipFx": "WhiteAura", 
+      "EquipFxMode": "EquipRoot", 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyDamage", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "SleipnirsHoof",
+      "Name": "<color=Red>$mod_epicloot_l_sleipnirshoof</color>",
+      "Description": "$mod_epicloot_l_sleipnirshoof_desc",
+      "IsSetItem": true, 
+      "EquipFx": "WhiteAura", 
+      "EquipFxMode": "EquipRoot", 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Clubs" ]
+      }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 15, "MaxValue": 20, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "Gungnir",
+      "Name": "<color=Red>$mod_epicloot_l_gungnir</color>",
+      "Description": "$mod_epicloot_l_gungnir_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Spears" ]
+      }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 15, "MaxValue": 20, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "Lindisfarne",
+      "Name": "<color=Red>$mod_epicloot_l_lind</color>",
+      "Description": "$mod_epicloot_l_lind_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Axes" ]
+      }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "Throwable" },
+        { "Type": "RecallWeapon" },
+        { "Type": "Opportunist", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
+        { "Type": "ModifyBackstab", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "Gram",
+      "Name": "<color=Red>$mod_epicloot_l_gram</color>",
+      "Description": "$mod_epicloot_l_gram_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyDamage", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+		{ "Type": "Executioner", "Values": { "MinValue" : 200, "MaxValue" : 400, "Increment" : 10 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "Angurvadal",
+      "Name": "<color=Red>$mod_epicloot_l_angurvadal</color>",
+      "Description": "$mod_epicloot_l_angurvadal_desc",
+      "IsSetItem": true, 
+      "EquipFx": "WhiteAura", 
+      "EquipFxMode" : "EquipRoot", 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "Glowing" },
+        { "Type": "RemoveSpeedPenalty" },
+        { "Type": "Opportunist", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
+        { "Type": "ModifyBackstab", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "NjordsFavor",
+      "Name": "<color=Red>$mod_epicloot_l_njord</color>",
+      "Description": "$mod_epicloot_l_njord_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Knives" ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 15, "MaxValue": 20, "Increment": 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 15, "MaxValue": 20, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "ValkyriesBlessing",
+      "Name": "<color=Red>$mod_epicloot_l_valk</color>",
+      "Description": "$mod_epicloot_l_valk_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Axes" ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
+        { "Type": "ModifyStaminaRegenLowHealth", "Values": { "MinValue" : 30, "MaxValue" : 50, "Increment" : 1 } },
+        { "Type": "ModifyDamageLowHealth", "Values": { "MinValue" : 50, "MaxValue" : 100, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeedLowHealth", "Values": { "MinValue" : 50, "MaxValue" : 100, "Increment" : 1 } },
+        { "Type": "AvoidDamageTakenLowHealth", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "Skofnung",
+      "Name": "<color=Red>$mod_epicloot_l_skofnung</color>",
+      "Description": "$mod_epicloot_l_skofnung_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 40, "MaxValue" : 50, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
+        { "Type": "Indestructible" }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "Hofund",
+      "Name": "<color=Red>$mod_epicloot_l_hofund</color>",
+      "Description": "$mod_epicloot_l_hofund_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "LifeSteal", "Values": { "MinValue" : 4, "MaxValue" : 4.5, "Increment" : 0.1 } },
+        { "Type": "Indestructible" }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "ShardMace",
+      "Name": "<color=Red>$mod_epicloot_l_shard</color>",
+      "Description": "$mod_epicloot_l_shard_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Clubs" ]
+      }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyDamage", "Values": { "MinValue": 20, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 40, "MaxValue" : 50, "Increment" : 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "Bloodmace",
+      "Name": "<color=Red>$mod_epicloot_l_bloodmace</color>",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Clubs" ]
+      }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyDamage", "Values": { "MinValue": 20, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "Lifesteal", "Values": { "MinValue" : 5, "MaxValue" : 5, "Increment" : 1 } },
+		{ "Type": "ModifyStaminaRegenLowHealthLowHealth", "Values": { "MinValue" : 40, "MaxValue" : 50, "Increment" : 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "GunnarsAtgeir",
+      "Name": "<color=Red>$mod_epicloot_l_gunnar</color>",
+      "Description": "$mod_epicloot_l_gunnar_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Polearms" ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyDamage", "Values": { "MinValue" : 20, "MaxValue" : 40, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 20, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 40, "MaxValue" : 50, "Increment" : 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "SkadiBow",
+      "Name": "<color=Red>$mod_epicloot_l_skadi</color>",
+      "Description": "$mod_epicloot_l_skadi_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "Bow" ],
+        "AllowedSkillTypes": [ "Bows" ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
+        { "Type": "RemoveSpeedPenalty" }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "UllrBow",
+      "Name": "<color=Red>$mod_epicloot_l_ullr</color>",
+      "Description": "$mod_epicloot_l_ullr_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "Bow" ],
+        "AllowedSkillTypes": [ "Bows" ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ExplosiveArrows", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
+        { "Type": "Indestructible" }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "EndlessBow",
+      "Name": "<color=Red>$mod_epicloot_l_endbow</color>",
+      "Description": "$mod_epicloot_l_endbow_desc",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "Bow" ],
+        "AllowedSkillTypes": [ "Bows" ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "QuickDraw", "Values": { "MinValue" : 25, "MaxValue" : 35, "Increment" : 1 } },
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 30, "MaxValue" : 40, "Increment" : 1 } },
+        { "Type": "Indestructible" }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "OffensiveRune",
+      "Name": "<color=Red>Unending Glyph</color>",
+      "Description": "",
+	  "IsSetItem": true,
+      "Requirements": {
+		  "AllowedItemTypes": [ "OneHandedWeapon" ],
+		  "ExcludedSkillTypes": [
+			  "Swords",
+			  "Axes",
+			  "Knives",
+			  "Clubs",
+			  "Spears"
+			],
+			"ItemHasPhysicalDamage" : true
+		  }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+		{ "Type": "QuickLearner", "Values": { "MinValue" : 10, "MaxValue" : 100, "Increment" : 1 } },
+        { "Type": "Indestructible" }
+      ]
+    },
+	
+	
+	
+	{
+      "ID": "UtilityRune",
+      "Name": "<color=Red>Unending Glyph</color>",
+      "Description": "",
+	  "IsSetItem": true,
+      "Requirements": {
+		  "AllowedItemTypes": [ "OneHandedWeapon" ],
+		  "ExcludedSkillTypes": [
+			  "Swords",
+			  "Axes",
+			  "Knives",
+			  "Clubs",
+			  "Spears"
+			],
+			"ItemHasPhysicalDamage" : false
+		  },
+		"GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+		{ "Type": "QuickLearner", "Values": { "MinValue" : 10, "MaxValue" : 100, "Increment" : 1 } },
+        { "Type": "Indestructible" }
+      ] 
+    },
+	
+	
+	
+	
+
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Legendary Set Items
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	
+	
+
+    // Heimdall
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	
+	
+    {
+      "ID": "HeimdallTowerShield",
+      "Name": "<color=Red>$mod_epicloot_l_heimdalltowershield</color>",
+      "Description": "$mod_epicloot_l_heimdalltowershield_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Shield"
+        ],
+        "ItemHasNoParryBonus": true
+      }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "Immovable" },
+		{ "Type": "IncreaseHealth", "Values": { "MinValue": 50, "MaxValue": 100, "Increment": 1 } }
+		
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "HeimdallHelmet",
+      "Name": "<color=Red>$mod_epicloot_l_heimdallhelmet</color>",
+      "Description": "$mod_epicloot_l_heimdallhelmet_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Helmet"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6,    
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyArmorLowHealth", "Values": { "MinValue": 80, "MaxValue": 100, "Increment": 1 } },
+        { "Type": "ModifyStaminaRegenLowHealth", "Values": { "MinValue": 50, "MaxValue": 100, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "HeimdallChest",
+      "Name": "<color=Red>$mod_epicloot_l_heimdallchest</color>",
+      "Description": "$mod_epicloot_l_heimdallchest_desc",
+      "TextureReplacements": [ { "ItemID": "ArmorPaddedCuirass", "MainTexture": "PaddedArmorMain_Heimdall", "ChestTex": "PaddedArmorChest_Heimdall" } ],
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Chest"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6,  
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyArmor", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "IncreaseStamina", "Values": { "MinValue": 20, "MaxValue": 40, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "HeimdallLegs",
+      "Name": "<color=Red>$mod_epicloot_l_heimdalllegs</color>",
+      "Description": "$mod_epicloot_l_heimdalllegs_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Legs"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } },
+        { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+	
+	// Loki
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	
+	
+	{
+      "ID": "LokiCape",
+      "Name": "<color=Red>Loki's Devious Cape</color>",
+      "Description": "Thin, almost invisible.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Shoulder"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 5, "MaxValue": 5, "Increment": 1 } },
+        { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "LokiHelm",
+      "Name": "<color=Red>Loki's Devious Helmet</color>",
+      "Description": "Two sharp horns stick out.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Helmet"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+        { "Type": "ModifySprintStaminaUse", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "LokiRing",
+      "Name": "<color=Red>Loki's Lucky Ring</color>",
+      "Description": "Luck out of this world.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames" : [
+          "Polished Silver Ring"
+        ]
+	  }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+        { "Type": "AddHealthRegen", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } },
+        { "Type": "ModifyStaminaRegenLowHealth", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "LokiDagger",
+      "Name": "<color=Red>Loki's Trusty Dagger</color>",
+      "Description": "Looks good as new.",
+	  "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Knives" ]
+      }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "Throwable" },
+        { "Type": "RecallWeapon" },
+        { "Type": "ModifyBackstab", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } }
+      ]
+    },
+	
+	
+	
+	
+
+	// Thor
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	
+	
+    {
+      "ID": "ThorCape",
+      "Name": "<color=Red>Thor's Mighty Cape</color>",
+      "Description": "Faint sparks can be seen at night.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Shoulder"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+        { "Type": "ModifySprintStaminaUse", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "IncreaseStamina", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "ThorHelm",
+      "Name": "<color=Red>Thor's Mighty Helm</color>",
+      "Description": "Shiniest Helmet in all of Asgard.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Helmet"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+        { "Type": "ModifyArmor", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "IncreaseStamina", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "ThorBelt",
+      "Name": "<color=Red>Thor's Mighty Belt</color>",
+      "Description": "Garb of the ultimate strongman.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames" : [
+          "Handcrafted Belt"
+        ]
+	  }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+        { "Type": "IncreaseHealth", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "AddCarryWeight", "Values": { "MinValue": 40, "MaxValue": 50, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "ThorWeapon",
+      "Name": "<color=Red>Mjolnir, Mighty Hammer of Thor</color>",
+      "Description": "Not for mere mortals.",
+	  "IsSetItem": true, 
+      "EquipFx": "LightningAuraSledge",
+      "EquipFxMode": "EquipRoot", 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon"],
+	  "AllowedSkillTypes": [ "Clubs" ]
+		}, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+		{ "Type": "AddLightningDamage", "Values": { "MinValue" : 5, "MaxValue" : 5, "Increment" : 1 } },
+		{ "Type": "ModifyStaggerDuration", "Values": { "MinValue" : 35, "MaxValue" : 40, "Increment" : 1 } },
+        { "Type": "Throwable" },
+        { "Type": "RecallWeapon" }
+      ]
+    },
+	
+	
+	
+
+	// Bear
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	
+	
+    {
+      "ID": "BearShield",
+      "Name": "<color=Red>Mysterious Bear Hide</color>",
+      "Description": "Fashioned into a crude but reliable shield.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Shield"
+        ],
+        "ItemHasNoParryBonus": true
+      }, 
+	  "GuaranteedEffectCount": 6,
+		"GuaranteedMagicEffects": [
+        { "Type": "IncreaseHealth", "Values": { "MinValue": 40, "MaxValue": 50, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "BearHelm",
+      "Name": "<color=Red>Mysterious Bear Head</color>",
+      "Description": "Holes poked in the right places.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Helmet"
+        ]
+      },  
+	  "GuaranteedEffectCount": 6,
+		"GuaranteedMagicEffects": [
+        { "Type": "IncreaseHealth", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "BearChest",
+      "Name": "<color=Red>Mysterious Bear Torso</color>",
+      "Description": "Hollow from within.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Chest"
+        ]
+	  },  
+	  "GuaranteedEffectCount": 6,
+		"GuaranteedMagicEffects": [
+        { "Type": "IncreaseHealth", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "BearLegs",
+      "Name": "<color=Red>Mysterious Bear Leggings</color>",
+      "Description": "Definitely warmest in all the realm.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Legs"
+        ]
+      },  
+	  "GuaranteedEffectCount": 6,
+		"GuaranteedMagicEffects": [
+        { "Type": "IncreaseHealth", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+
+	// Gladiator
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	
+	
+    {
+      "ID": "GladiatorShield",
+      "Name": "<color=Red>Gladiator's Trusty Shield</color>",
+      "Description": "Used in countless battles.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Shield"
+        ],
+        "ItemHasNoParryBonus": false
+      },  
+	  "GuaranteedEffectCount": 6,
+		"GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } },
+        { "Type": "IncreaseHealth", "Values": { "MinValue": 40, "MaxValue": 50, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "GladiatorSword",
+      "Name": "<color=Red>Gladiator's Trusty Sword</color>",
+      "Description": "Used in countless battles.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      },  
+	  "GuaranteedEffectCount": 6,
+		"GuaranteedMagicEffects": [
+        { "Type": "ModifyDamage", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "IncreaseStamina", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } }
+      ]
+    },
+
+
+
+
+	// Nomad
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	
+	
+    {
+      "ID": "NomadCape",
+      "Name": "<color=Red>Nomad's Cowl</color>",
+      "Description": "A cloak that floats freely in the wind.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Shoulder"
+        ]
+      },  
+	  "GuaranteedEffectCount": 6,
+		"GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } },
+        { "Type": "ModifyDiscoveryRadius", "Values": { "MinValue": 15, "MaxValue": 20, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "NomadBelt",
+      "Name": "<color=Red>Nomad's Belt</color>",
+      "Description": "As simple as can be.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames" : [
+          "Handcrafted Belt"
+        ]
+	  },  
+	  "GuaranteedEffectCount": 6,
+		"GuaranteedMagicEffects": [
+        { "Type": "IncreaseStamina", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "QuickLearner", "Values": { "MinValue": 15, "MaxValue": 20, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "NomadChest",
+      "Name": "<color=Red>Nomad's Tunic</color>",
+      "Description": "Very comfortable.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Chest"
+        ]
+	 },  
+	  "GuaranteedEffectCount": 6,
+		"GuaranteedMagicEffects": [
+        { "Type": "ModifyStaminaRegen", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "AvoidDamageTaken", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "NomadRing",
+      "Name": "<color=Red>Nomad's Ring</color>",
+      "Description": "A symbol of the nomad clan.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames" : [
+          "Polished Silver Ring"
+        ]
+	  },  
+	  "GuaranteedEffectCount": 6,
+		"GuaranteedMagicEffects": [
+        { "Type": "ModifySprintStaminaUse", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "AvoidDamageTakenLowHealth", "Values": { "MinValue": 15, "MaxValue": 25, "Increment": 1 } }
+      ]
+    },
+
+
+
+
+    // Ragnar
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	
+	
+    {
+      "ID": "RagnarBattleAxe",
+      "Name": "<color=Red>$mod_epicloot_l_ragnarbattleaxe</color>",
+      "Description": "$mod_epicloot_l_ragnarbattleaxe_desc",
+      "EquipFx": "FrostAuraBattleAxe",
+      "EquipFxMode": "EquipRoot", 
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ], 
+        "AllowedSkillTypes": [ "Axes" ]
+      }, 
+	  "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyDamage", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 15, "MaxValue": 20, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "RagnarCape",
+      "Name": "<color=Red>$mod_epicloot_l_ragnarcape</color>",
+      "Description": "$mod_epicloot_l_ragnarcape_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Shoulder"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+        { "Type": "IncreaseStamina", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "AvoidDamageTaken", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "RagnarChest",
+      "Name": "<color=Red>$mod_epicloot_l_ragnarchest</color>",
+      "Description": "$mod_epicloot_l_ragnarchest_desc",
+      "TextureReplacements": [ { "ItemID": "ArmorPaddedCuirass", "MainTexture": "paddedarmortest2_d", "ChestTex": "PaddedArmorChest2_d" } ],
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Chest"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+        { "Type": "StaggerOnDamageTaken", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } },
+        { "Type": "LifeSteal", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "RagnarLegs",
+      "Name": "<color=Red>$mod_epicloot_l_ragnarlegs</color>",
+      "Description": "$mod_epicloot_l_ragnarlegs_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Legs"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } },
+        { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } }
+      ]
+    },
+	
+	
+	
+	
+	// Conqueror
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+	
+	
+	{
+      "ID": "ConquerorsCloak",
+      "Name": "<color=Red>Conqueror's Cloak</color>",
+      "Description": "",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames": [
+          "Outworld Cape"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+      ]
+    },
+	
+	{
+      "ID": "ConquerorsHelm",
+      "Name": "<color=Red>Conqueror's Helmet</color>",
+      "Description": "",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames": [
+          "Outworld Helmet"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+      ]
+    },
+	
+	{
+      "ID": "ConquerorsChest",
+      "Name": "<color=Red>Conqueror's Breastplate</color>",
+      "Description": "",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames": [
+          "Outworld Chestplate"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+      ]
+    },
+	
+	{
+      "ID": "ConquerorsLegs",
+      "Name": "<color=Red>Conqueror's Leggings</color>",
+      "Description": "",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames": [
+          "Outworld Leggings"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+      ]
+    },
+	
+	{
+      "ID": "ConquerorsRing",
+      "Name": "<color=Red>Conqueror's Ring</color>",
+      "Description": "",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames": [
+          "Nobleborn Ring"
+        ]
+      }, 
+	  "GuaranteedEffectCount": 6, 
+		"GuaranteedMagicEffects": [
+      ]
+    }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  ],
+  
+  
+  
+
+  // Legendary Sets
+  ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+  
+  
+  
+  
+  "LegendarySets": [
+  
+  
+  
+  
+    {
+      "ID": "Heimdall",
+      "Name": "<color=Red>$mod_epicloot_set_heimdall</color>",
+      "LegendaryIDs": [
+        "HeimdallTowerShield",
+        "HeimdallHelmet",
+        "HeimdallChest",
+        "HeimdallLegs"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyBlockPower", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "Bulwark" } }
+      ]
+    },
+	
+	
+	
+	
+    {
+      "ID": "Ragnar",
+      "Name": "<color=Red>$mod_epicloot_set_ragnar</color>",
+      "LegendaryIDs": [
+        "RagnarBattleAxe",
+        "RagnarChest",
+        "RagnarLegs",
+        "RagnarCape"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddHealthRegen", "Values": { "MinValue": 2, "MaxValue": 2, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "ModifyHealthRegen", "Values": { "MinValue": 200, "MaxValue": 200, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "Berserker" } }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "Loki",
+      "Name": "<color=Red>Loki's Devious Garbs</color>",
+      "LegendaryIDs": [
+        "LokiDagger",
+        "LokiHelm",
+        "LokiCape",
+        "LokiRing"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyBackstab", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } }
+      ]
+     },
+	
+	
+	
+	
+	{
+      "ID": "Thor",
+      "Name": "<color=Red>Thor's Mighty Battlegear</color>",
+      "LegendaryIDs": [
+        "ThorWeapon",
+        "ThorHelm",
+        "ThorCape",
+        "ThorBelt"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 30, "MaxValue": 30, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "Berserker" } }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "Bear",
+      "Name": "<color=Red>Mysterious Bear Carcass</color>",
+      "LegendaryIDs": [
+        "BearShield",
+        "BearHelm",
+        "BearChest",
+        "BearLegs"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "IncreaseHealth", "Values": { "MinValue": 75, "MaxValue": 75, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyHealthRegen", "Values": { "MinValue": 200, "MaxValue": 200, "Increment": 1 } } }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "Gladiator",
+      "Name": "<color=Red>Gladiator's Might</color>",
+      "LegendaryIDs": [
+        "GladiatorSword",
+        "GladiatorShield"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 30, "MaxValue": 30, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "ModifyBlockPower", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "Nomad",
+      "Name": "<color=Red>Nomad's Peacekeeping Wear</color>",
+      "LegendaryIDs": [
+        "NomadCape",
+        "NomadChest",
+        "NomadBelt",
+        "NomadRing"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "IncreaseStamina", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AvoidDamageTakenLowHealth", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } }
+      ]
+    },
+	
+	
+	
+	
+	{
+      "ID": "Conqueror",
+      "Name": "<color=Red>Conqueror's Battlegear</color>",
+      "LegendaryIDs": [
+        "ConquerorsCloak",
+        "ConquerorsRing",
+        "ConquerorsChest",
+        "ConquerorsHelm",
+		"ConquerorsLegs"
+      ],
+      "SetBonuses": [
+        { "Count": 5, "Effect": { "Type": "Undying" } }
+      ]
+    }
+	
+	
+	
+	
+  ] 
+}

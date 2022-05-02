@@ -1,0 +1,8 @@
+Kraken animations. There are two Kraken prefabs. One is low definition valheim style "KrakenLD".
+
+attack1
+attack2
+attack3
+attack4
+taunt
+cast1 (not tested)

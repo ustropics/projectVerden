@@ -1,0 +1,14 @@
+{
+    "name": "RRT4",
+    "clone": true,
+    "clonePrefabName": "RT4",
+    "craftingStation": "Inscription Table",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "TrophyDragonQueen:1:0:False",
+        "moder_drop:10:0:False",
+		"ShardEpic:3:0:False"
+    ]
+}

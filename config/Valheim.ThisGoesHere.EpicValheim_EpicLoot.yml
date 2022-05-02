@@ -1,0 +1,15 @@
+﻿PrintComment: ThisGoesHere Updating & Replacing ***Epic Valheim*** configuration to version 3.6.4
+CopyFolderContent:
+- From: config/Epic_Valheim/config/
+  To: config/
+CopyFolder:
+- From: config/Epic_Valheim/CustomArmorStats/
+  To: plugins/NexusUploads-CustomArmorStats/
+- From: config/Epic_Valheim/RecipeCustomization/
+  To: plugins/NexusUploads-RecipeCustomization/
+- From: config/Epic_Valheim/OpenDatabase/
+  To: plugins/OdinPlus-OpenDatabase/
+- From: config/Epic_Valheim/RandyKnapp-EpicLoot/
+  To: plugins/
+- From: config/Epic_Valheim/WackyMole-WackysDatabase/
+  To: plugins/

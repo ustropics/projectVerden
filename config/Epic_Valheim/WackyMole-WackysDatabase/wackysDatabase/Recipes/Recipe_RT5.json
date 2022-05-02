@@ -1,0 +1,14 @@
+{
+    "name": "RRT5",
+    "clone": true,
+    "clonePrefabName": "RT5",
+    "craftingStation": "Inscription Table",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "TrophyGoblinKing:1:0:False",
+        "moder_drop:10:0:False",
+		"ShardEpic:3:0:False"
+    ]
+}

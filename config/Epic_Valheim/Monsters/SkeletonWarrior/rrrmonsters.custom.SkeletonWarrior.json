@@ -1,0 +1,480 @@
+{
+   "sOriginalPrefabName": "SkeletonWarrior",
+   "sNewPrefabName": "SkeletonWarrior",
+   "Category_Appearance": {
+      "vScale": {
+         "fX": 1.2,
+         "fY": 1.2,
+         "fZ": 1.2
+      },
+      "cTintColor": null,
+      "cTintItems": null,
+      "cBodySmoke": null,
+      "cBodyFlames": null,
+      "sCustomTexture": null
+   },
+   "Category_Character": {
+      "sName": "Skeleton Warrior",
+      "sFaction": "Undead",
+      "bBoss": false,
+      "sBossEvent": "",
+      "sDefeatSetGlobalKey": "",
+      "fMoveSpeedMulti": 1,
+      "bToleratesWater": true,
+      "bToleratesFire": false,
+      "bToleratesSmoke": true,
+      "fHealth": 80,
+      "dDamageTaken": {
+         "m_blunt": "Weak",
+         "m_slash": "Normal",
+         "m_pierce": "Resistant",
+         "m_chop": "Ignore",
+         "m_pickaxe": "Ignore",
+         "m_fire": "Normal",
+         "m_frost": "Normal",
+         "m_lightning": "Normal",
+         "m_poison": "Immune",
+         "m_spirit": "Normal"
+      }
+   },
+   "Category_Humanoid": {
+      "dtAttackDamageOverride": null,
+      "fAttackDamageTotalOverride": null,
+      "sAttackProjectileOverride": null,
+      "aDefaultItems": [
+         "troll_throw@attack@oozebomb_projectile@32",
+         "Greydwarf_shaman_heal@attack@@32",
+         "GoblinShaman_attack_protect@cast2@@32",
+         "CapeTrollHide",
+         "ArmorBronzeChest",
+         "ArmorBronzeLegs"
+      ],
+      "aRandomWeapon": [],
+      "aRandomArmor": [],
+      "aRandomShield": [],
+      "aaRandomSets": [
+         {
+            "aSetItems": [
+               "@1",
+               "@2"
+            ]
+         },
+         {
+            "aSetItems": [
+               "@3",
+               "ShieldBronzeBuckler"
+            ]
+         },
+         {
+            "aSetItems": [
+               "@4",
+               "@5",
+               "@6",
+               "@7",
+               "@8",
+               "@9",
+               "@10"
+            ]
+         }
+      ],
+      "aAdvancedCustomAttacks": [
+         // Bow x2
+         {
+            "sOriginalPrefabName": "skeleton_bow",
+            "sTargetAnim": "",
+            "fAIAttackInterval": 6,
+            "bAIPrioritized": null,
+            "dtAttackDamageOverride": {
+               "fDamage": 0,
+               "fBlunt": 0,
+               "fSlash": 0,
+               "fPierce": 40,
+               "fChop": 0,
+               "fPickaxe": 0,
+               "fFire": 0,
+               "fFrost": 0,
+               "fLightning": 0,
+               "fPoison": 20,
+               "fSpirit": 0
+            },
+            "fAttackDamageTotalOverride": null,
+            "sAttackProjectileOverride": "bow_projectile_poison",
+            "aStartEffects": null,
+            "aHitEffects": null,
+            "aTriggerEffects": null
+         },
+         {
+            "sOriginalPrefabName": "skeleton_bow",
+            "sTargetAnim": "",
+            "fAIAttackInterval": 18,
+            "bAIPrioritized": null,
+            "dtAttackDamageOverride": {
+               "fDamage": 0,
+               "fBlunt": 0,
+               "fSlash": 0,
+               "fPierce": 40,
+               "fChop": 0,
+               "fPickaxe": 0,
+               "fFire": 0,
+               "fFrost": 0,
+               "fLightning": 0,
+               "fPoison": 20,
+               "fSpirit": 0
+            },
+            "fAttackDamageTotalOverride": null,
+            "sAttackProjectileOverride": "bow_projectile_poison",
+            "aStartEffects": null,
+            "aHitEffects": null,
+            "aTriggerEffects": null
+         },
+         // Bronze Mace
+         {
+            "sOriginalPrefabName": "MaceBronze",
+            "sTargetAnim": "",
+            "fAIAttackInterval": 3,
+            "bAIPrioritized": true,
+            "dtAttackDamageOverride": {
+               "fDamage": 0,
+               "fBlunt": 40,
+               "fSlash": 0,
+               "fPierce": 0,
+               "fChop": 40,
+               "fPickaxe": 40,
+               "fFire": 0,
+               "fFrost": 0,
+               "fLightning": 0,
+               "fPoison": 0,
+               "fSpirit": 0
+            },
+            "fAttackDamageTotalOverride": null,
+            "sAttackProjectileOverride": null,
+            "aStartEffects": null,
+            "aHitEffects": null,
+            "aTriggerEffects": null
+         }, 
+         // Two-handed Hammer x7
+         {
+            "sOriginalPrefabName": "SledgeStagbreaker",
+            "sTargetAnim": "battleaxe_attack0",
+            "fAIAttackInterval": 16,
+            "bAIPrioritized": true,
+            "dtAttackDamageOverride": {
+               "fDamage": 0,
+               "fBlunt": 50,
+               "fSlash": 0,
+               "fPierce": 0,
+               "fChop": 50,
+               "fPickaxe": 50,
+               "fFire": 0,
+               "fFrost": 0,
+               "fLightning": 0,
+               "fPoison": 0,
+               "fSpirit": 0
+            },
+            "fAttackDamageTotalOverride": null,
+            "sAttackProjectileOverride": null,
+            "aStartEffects": [
+               "sfx_skeleton_attack",
+               "sfx_sledge_swing"
+            ],
+            "aHitEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit"
+            ],
+            "aTriggerEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit"
+            ]
+         },
+         {
+            "sOriginalPrefabName": "SledgeStagbreaker",
+            "sTargetAnim": "battleaxe_attack1",
+            "fAIAttackInterval": 16,
+            "bAIPrioritized": true,
+            "dtAttackDamageOverride": {
+               "fDamage": 0,
+               "fBlunt": 50,
+               "fSlash": 0,
+               "fPierce": 0,
+               "fChop": 50,
+               "fPickaxe": 50,
+               "fFire": 0,
+               "fFrost": 0,
+               "fLightning": 0,
+               "fPoison": 0,
+               "fSpirit": 0
+            },
+            "fAttackDamageTotalOverride": null,
+            "sAttackProjectileOverride": null,
+            "aStartEffects": [
+               "sfx_skeleton_attack",
+               "sfx_sledge_swing"
+            ],
+            "aHitEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit"
+            ],
+            "aTriggerEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit"
+            ]
+         },
+         {
+            "sOriginalPrefabName": "SledgeStagbreaker",
+            "sTargetAnim": "swing_sledge",
+            "fAIAttackInterval": 16,
+            "bAIPrioritized": true,
+            "dtAttackDamageOverride": {
+               "fDamage": 0,
+               "fBlunt": 60,
+               "fSlash": 0,
+               "fPierce": 0,
+               "fChop": 60,
+               "fPickaxe": 60,
+               "fFire": 0,
+               "fFrost": 0,
+               "fLightning": 0,
+               "fPoison": 0,
+               "fSpirit": 0
+            },
+            "fAttackDamageTotalOverride": null,
+            "sAttackProjectileOverride": null,
+            "aStartEffects": [
+               "sfx_skeleton_attack",
+               "sfx_sledge_swing"
+            ],
+            "aHitEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit",
+               "fx_dragon_land"
+            ],
+            "aTriggerEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit",
+               "fx_dragon_land"
+            ]
+         },
+         {
+            "sOriginalPrefabName": "SledgeStagbreaker",
+            "sTargetAnim": "jump_attack",
+            "fAIAttackInterval": 16,
+            "bAIPrioritized": true,
+            "dtAttackDamageOverride": {
+               "fDamage": 0,
+               "fBlunt": 60,
+               "fSlash": 0,
+               "fPierce": 0,
+               "fChop": 60,
+               "fPickaxe": 60,
+               "fFire": 0,
+               "fFrost": 0,
+               "fLightning": 0,
+               "fPoison": 0,
+               "fSpirit": 0
+            },
+            "fAttackDamageTotalOverride": null,
+            "sAttackProjectileOverride": null,
+            "aStartEffects": [
+               "sfx_skeleton_attack",
+               "sfx_sledge_swing"
+            ],
+            "aHitEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit",
+               "fx_dragon_land"
+            ],
+            "aTriggerEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit",
+               "fx_dragon_land"
+            ]
+         },
+         {
+            "sOriginalPrefabName": "SledgeStagbreaker",
+            "sTargetAnim": "rage",
+            "fAIAttackInterval": 16,
+            "bAIPrioritized": true,
+            "dtAttackDamageOverride": {
+               "fDamage": 0,
+               "fBlunt": 60,
+               "fSlash": 0,
+               "fPierce": 0,
+               "fChop": 60,
+               "fPickaxe": 60,
+               "fFire": 0,
+               "fFrost": 0,
+               "fLightning": 0,
+               "fPoison": 0,
+               "fSpirit": 0
+            },
+            "fAttackDamageTotalOverride": null,
+            "sAttackProjectileOverride": null,
+            "aStartEffects": [
+               "sfx_skeleton_attack",
+               "sfx_sledge_swing"
+            ],
+            "aHitEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit",
+               "fx_dragon_land"
+            ],
+            "aTriggerEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit",
+               "fx_dragon_land"
+            ]
+         },
+         {
+            "sOriginalPrefabName": "SledgeStagbreaker",
+            "sTargetAnim": "bash",
+            "fAIAttackInterval": 16,
+            "bAIPrioritized": true,
+            "dtAttackDamageOverride": {
+               "fDamage": 0,
+               "fBlunt": 50,
+               "fSlash": 0,
+               "fPierce": 0,
+               "fChop": 50,
+               "fPickaxe": 50,
+               "fFire": 0,
+               "fFrost": 0,
+               "fLightning": 0,
+               "fPoison": 0,
+               "fSpirit": 0
+            },
+            "fAttackDamageTotalOverride": null,
+            "sAttackProjectileOverride": null,
+            "aStartEffects": [
+               "sfx_skeleton_attack",
+               "sfx_sledge_swing"
+            ],
+            "aHitEffects": null,
+            "aTriggerEffects": [
+               "vfx_clubhit",
+               "sfx_sledge_hit"
+            ]
+         },
+         {
+            "sOriginalPrefabName": "SledgeStagbreaker",
+            "sTargetAnim": "kick",
+            "fAIAttackInterval": 4,
+            "bAIPrioritized": true,
+            "dtAttackDamageOverride": {
+               "fDamage": 0,
+               "fBlunt": 40,
+               "fSlash": 0,
+               "fPierce": 0,
+               "fChop": 0,
+               "fPickaxe": 0,
+               "fFire": 0,
+               "fFrost": 0,
+               "fLightning": 0,
+               "fPoison": 0,
+               "fSpirit": 0
+            },
+            "fAttackDamageTotalOverride": null,
+            "sAttackProjectileOverride": null,
+            "aStartEffects": [
+               "sfx_skeleton_attack",
+            ],
+            "aHitEffects": [],
+            "aTriggerEffects": []
+         }
+      ]
+   },
+   "Category_BaseAI": {
+      "fViewRange": 30,
+      "fViewAngle": 90,
+      "fHearRange": 9999,
+      "sPathAgentType": "HumanoidNoSwim",
+      "fRandomCircleInterval": 2,
+      "fRandomMoveInterval": 20,
+      "fRandomMoveRange": 10,
+      "bAvoidFire": false,
+      "bAfraidOfFire": false,
+      "bAvoidWater": true,
+      "sSpawnMessage": "",
+      "sDeathMessage": ""
+   },
+   "Category_MonsterAI": {
+      "fAlertRange": 20,
+      "bFleeIfHurtWhenTargetCantBeReached": true,
+      "bFleeIfNotAlerted": false,
+      "fFleeIfLowHealth": 0,
+      "bCirculateWhileCharging": false,
+      "bCirculateWhileChargingFlying": false,
+      "bEnableHuntPlayer": false,
+      "bAttackPlayerObjects": true,
+      "bAttackPlayerObjectsWhenAlerted": true,
+      "fInterceptTimeMax": 2,
+      "fInterceptTimeMin": 0,
+      "fMaxChaseDistance": 0,
+      "fMinAttackInterval": 0,
+      "fCircleTargetInterval": 0,
+      "fCircleTargetDuration": 2,
+      "fCircleTargetDistance": 4,
+      "aConsumeItems": [],
+      "fConsumeRange": 2,
+      "fConsumeSearchRange": 5,
+      "fConsumeSearchInterval": 10,
+      "fConsumeHeal": 0
+   },
+   "Category_CharacterDrop": {
+      "bReplaceOriginalDrops": true,
+      "drDrops": [
+         {
+            "sPrefabName": "TrophySkeleton",
+            "iAmountMin": 1,
+            "iAmountMax": 1,
+            "fChance": 0.1,
+            "bOnePerPlayer": false,
+            "bLevelMultiplier": false
+         },
+         {
+            "sPrefabName": "BoneFragments",
+            "iAmountMin": 1,
+            "iAmountMax": 1,
+            "fChance": 1,
+            "bOnePerPlayer": false,
+            "bLevelMultiplier": true
+         },
+		 {
+			"sPrefabName": "EssenceMagic",
+            "iAmountMin": 1,
+            "iAmountMax": 1,
+            "fChance": 0.1,
+            "bOnePerPlayer": false,
+            "bLevelMultiplier": false
+		 },
+		 {
+			"sPrefabName": "ReagentMagic",
+            "iAmountMin": 1,
+            "iAmountMax": 1,
+            "fChance": 0.1,
+            "bOnePerPlayer": false,
+            "bLevelMultiplier": false
+		 },
+		 {
+			"sPrefabName": "DustMagic",
+            "iAmountMin": 1,
+            "iAmountMax": 1,
+            "fChance": 0.1,
+            "bOnePerPlayer": false,
+            "bLevelMultiplier": false
+		 }
+      ]
+   },
+   "Category_Special": {
+      "bCanTame": false,
+      "bAlwaysTame": false,
+      "bCommandableWhenTame": false,
+      "bCanProcreateWhenTame": false,
+      "bFxNoTame": false,
+      "bSfxNoAlert": false,
+      "bSfxNoIdle": false,
+      "bSfxNoHit": false,
+      "bSfxNoDeath": false
+   },
+   "Category_NpcOnly": null,
+   "sConfigFormatVersion": "0.2.0"
+}

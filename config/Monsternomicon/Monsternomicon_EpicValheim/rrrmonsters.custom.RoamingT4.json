@@ -1,0 +1,171 @@
+{
+   "sOriginalPrefabName" : "Dragon",
+   "sNewPrefabName" : "RoamingT4",
+   "Category_Appearance" : {
+      "vScale" : {
+         "fX" : 1,
+         "fY" : 1,
+         "fZ" : 1
+      },
+      "cTintColor" : null,
+      "cTintItems" : null,
+      "cBodySmoke" : null,
+      "cBodyFlames" : null,
+      "sCustomTexture" : null
+   },
+   "Category_Character" : {
+      "sName" : "Dragon Queen the Returned",
+      "sFaction" : "Boss",
+      "bBoss" : true,
+      "sBossEvent" : "boss_moder",
+      "sDefeatSetGlobalKey" : "",
+      "fMoveSpeedMulti" : 1,
+      "bToleratesWater" : true,
+      "bToleratesFire" : false,
+      "bToleratesSmoke" : false,
+      "fHealth" : 40000,
+      "dDamageTaken" : {
+         "m_blunt" : "Normal",
+         "m_slash" : "Normal",
+         "m_pierce" : "Normal",
+         "m_chop" : "Ignore",
+         "m_pickaxe" : "Ignore",
+         "m_fire" : "Weak",
+         "m_frost" : "Immune",
+         "m_lightning" : "Normal",
+         "m_poison" : "Normal",
+         "m_spirit" : "Immune"
+      }
+   },
+   "Category_Humanoid" : {
+      "dtAttackDamageOverride" : {
+         "fDamage" : 0,
+         "fBlunt" : 70,
+         "fSlash" : 70,
+         "fPierce" : 70,
+         "fChop" : 70,
+         "fPickaxe" : 70,
+         "fFire" : 0,
+         "fFrost" : 95,
+         "fLightning" : 0,
+         "fPoison" : 0,
+         "fSpirit" : 0
+      },
+      "fAttackDamageTotalOverride" : null,
+      "sAttackProjectileOverride" : null,
+      "aDefaultItems" : [
+         "dragon_taunt",
+         "dragon_bite",
+         "dragon_claw_left",
+         "dragon_claw_right",
+         "dragon_spit_shotgun",
+         "dragon_coldbreath"
+      ],
+      "aRandomWeapon" : [
+         
+      ],
+      "aRandomArmor" : [
+         
+      ],
+      "aRandomShield" : [
+         
+      ],
+      "aaRandomSets" : [
+         
+      ],
+      "aHitEffects" : [
+         "sfx_dragon_hurt",
+         "vfx_dragon_hurt"
+      ],
+      "aDeathEffects" : [
+         "vfx_dragon_death",
+         "sfx_dragon_death"
+      ],
+      "aConsumeItemEffects" : [
+         
+      ],
+      "aAdvancedCustomAttacks" : null
+   },
+   "Category_BaseAI" : {
+      "fViewRange" : 60,
+      "fViewAngle" : 90,
+      "fHearRange" : 9999,
+      "aAlertedEffects" : [
+         "sfx_dragon_alerted"
+      ],
+      "aIdleEffects" : [
+         "sfx_dragon_idle"
+      ],
+      "fIdleEffectsInterval" : 5,
+      "fIdleEffectsChance" : 0.5,
+      "sPathAgentType" : "HugeSize",
+      "fRandomCircleInterval" : 5,
+      "fRandomMoveInterval" : 10,
+      "fRandomMoveRange" : 35,
+      "bRandomFly" : true,
+      "fChanceToTakeoff" : 1,
+      "fChanceToLand" : 1,
+      "fGroundDuration" : 60,
+      "fAirDuration" : 20,
+      "fMaxLandAltitude" : 12,
+      "fFlyAltitudeMin" : 10,
+      "fFlyAltitudeMax" : 20,
+      "fTakeoffTime" : 10,
+      "bAvoidFire" : false,
+      "bAfraidOfFire" : false,
+      "bAvoidWater" : true,
+      "sSpawnMessage" : "An old foe has returned to fight once more",
+      "sDeathMessage" : "An old foe rests again"
+   },
+   "Category_MonsterAI" : {
+      "fAlertRange" : 30,
+      "bFleeIfHurtWhenTargetCantBeReached" : false,
+      "bFleeIfNotAlerted" : false,
+      "fFleeIfLowHealth" : 0,
+      "bCirculateWhileCharging" : false,
+      "bCirculateWhileChargingFlying" : true,
+      "bEnableHuntPlayer" : true,
+      "bAttackPlayerObjects" : true,
+      "bAttackPlayerObjectsWhenAlerted" : null,
+      "fInterceptTimeMax" : 0,
+      "fInterceptTimeMin" : 0,
+      "fMaxChaseDistance" : 0,
+      "fMinAttackInterval" : 6,
+      "fCircleTargetInterval" : 0,
+      "fCircleTargetDuration" : 5,
+      "fCircleTargetDistance" : 10,
+      "bSleeping" : false,
+      "bNoiseWakeup" : false,
+      "fNoiseRangeScale" : null,
+      "fWakeupRange" : 5,
+      "aWakeupEffects" : [
+         
+      ],
+      "bAvoidLand" : false,
+      "aConsumeItems" : [
+         
+      ],
+      "fConsumeRange" : 2,
+      "fConsumeSearchRange" : 5,
+      "fConsumeSearchInterval" : 10,
+      "fConsumeHeal" : 0
+   },
+   "Category_CharacterDrop" : {
+      "bReplaceOriginalDrops" : true,
+      "drDrops" : [
+      ]
+   },
+   "Category_Special" : {
+      "bCanTame" : false,
+      "bAlwaysTame" : false,
+      "bCommandableWhenTame" : false,
+      "bCanProcreateWhenTame" : false,
+      "bFxNoTame" : false,
+      "bSfxNoAlert" : false,
+      "bSfxNoIdle" : false,
+      "bSfxNoHit" : false,
+      "bSfxNoDeath" : false
+   },
+   "Category_NpcOnly" : null,
+   "sConfigFormatVersion" : "0.2.0"
+}

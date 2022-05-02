@@ -1,0 +1,168 @@
+{
+   "sOriginalPrefabName" : "Bonemass",
+   "sNewPrefabName" : "RoamingT3",
+   "Category_Appearance" : {
+      "vScale" : {
+         "fX" : 1,
+         "fY" : 1,
+         "fZ" : 1
+      },
+      "cTintColor" : null,
+      "cTintItems" : null,
+      "cBodySmoke" : null,
+      "cBodyFlames" : null,
+      "sCustomTexture" : null
+   },
+   "Category_Character" : {
+      "sName" : "Bonemass the Returned",
+      "sFaction" : "Boss",
+      "bBoss" : true,
+      "sBossEvent" : "boss_bonemass",
+      "sDefeatSetGlobalKey" : "",
+      "fMoveSpeedMulti" : 1,
+      "bToleratesWater" : true,
+      "bToleratesFire" : false,
+      "bToleratesSmoke" : true,
+      "fHealth" : 40000,
+      "dDamageTaken" : {
+         "m_blunt" : "Weak",
+         "m_slash" : "Resistant",
+         "m_pierce" : "VeryResistant",
+         "m_chop" : "Ignore",
+         "m_pickaxe" : "Ignore",
+         "m_fire" : "VeryResistant",
+         "m_frost" : "Weak",
+         "m_lightning" : "Normal",
+         "m_poison" : "Immune",
+         "m_spirit" : "Normal"
+      }
+   },
+   "Category_Humanoid" : {
+      "dtAttackDamageOverride" : {
+         "fDamage" : 0,
+         "fBlunt" : 70,
+         "fSlash" : 70,
+         "fPierce" : 70,
+         "fChop" : 70,
+         "fPickaxe" : 90,
+         "fFire" : 0,
+         "fFrost" : 0,
+         "fLightning" : 0,
+         "fPoison" : 1000,
+         "fSpirit" : 0
+      },
+      "fAttackDamageTotalOverride" : null,
+      "sAttackProjectileOverride" : null,
+      "aDefaultItems" : [
+         "bonemass_attack_aoe",
+         "bonemass_attack_punch",
+         "bonemass_attack_throw"
+      ],
+      "aRandomWeapon" : [
+         
+      ],
+      "aRandomArmor" : [
+         
+      ],
+      "aRandomShield" : [
+         
+      ],
+      "aaRandomSets" : [
+         
+      ],
+      "aHitEffects" : [
+         "vfx_BonemassHit",
+         "sfx_Bonemass_Hit"
+      ],
+      "aDeathEffects" : [
+         "sfx_Bonemass_death",
+         "vfx_BonemassDeath"
+      ],
+      "aConsumeItemEffects" : [
+         
+      ],
+      "aAdvancedCustomAttacks" : null
+   },
+   "Category_BaseAI" : {
+      "fViewRange" : 50,
+      "fViewAngle" : 60,
+      "fHearRange" : 9999,
+      "aAlertedEffects" : [
+         "sfx_Bonemass_alert"
+      ],
+      "aIdleEffects" : [
+         "sfx_Bonemass_idle"
+      ],
+      "fIdleEffectsInterval" : 10,
+      "fIdleEffectsChance" : 0.5,
+      "sPathAgentType" : "HugeSize",
+      "fRandomCircleInterval" : 2,
+      "fRandomMoveInterval" : 10,
+      "fRandomMoveRange" : 15,
+      "bRandomFly" : false,
+      "fChanceToTakeoff" : 1,
+      "fChanceToLand" : 1,
+      "fGroundDuration" : 10,
+      "fAirDuration" : 10,
+      "fMaxLandAltitude" : 5,
+      "fFlyAltitudeMin" : 3,
+      "fFlyAltitudeMax" : 10,
+      "fTakeoffTime" : 5,
+      "bAvoidFire" : false,
+      "bAfraidOfFire" : false,
+      "bAvoidWater" : true,
+      "sSpawnMessage" : "An old foe has returned to fight once more",
+      "sDeathMessage" : "An old foe rests again"
+   },
+   "Category_MonsterAI" : {
+      "fAlertRange" : 9999,
+      "bFleeIfHurtWhenTargetCantBeReached" : false,
+      "bFleeIfNotAlerted" : false,
+      "fFleeIfLowHealth" : 0,
+      "bCirculateWhileCharging" : false,
+      "bCirculateWhileChargingFlying" : false,
+      "bEnableHuntPlayer" : true,
+      "bAttackPlayerObjects" : true,
+      "bAttackPlayerObjectsWhenAlerted" : null,
+      "fInterceptTimeMax" : 0,
+      "fInterceptTimeMin" : 0,
+      "fMaxChaseDistance" : 0,
+      "fMinAttackInterval" : 0,
+      "fCircleTargetInterval" : 0,
+      "fCircleTargetDuration" : 5,
+      "fCircleTargetDistance" : 10,
+      "bSleeping" : true,
+      "bNoiseWakeup" : false,
+      "fNoiseRangeScale" : null,
+      "fWakeupRange" : 5,
+      "aWakeupEffects" : [
+         
+      ],
+      "bAvoidLand" : false,
+      "aConsumeItems" : [
+         
+      ],
+      "fConsumeRange" : 2,
+      "fConsumeSearchRange" : 5,
+      "fConsumeSearchInterval" : 10,
+      "fConsumeHeal" : 0
+   },
+   "Category_CharacterDrop" : {
+      "bReplaceOriginalDrops" : true,
+      "drDrops" : [
+      ]
+   },
+   "Category_Special" : {
+      "bCanTame" : false,
+      "bAlwaysTame" : false,
+      "bCommandableWhenTame" : false,
+      "bCanProcreateWhenTame" : false,
+      "bFxNoTame" : false,
+      "bSfxNoAlert" : false,
+      "bSfxNoIdle" : false,
+      "bSfxNoHit" : false,
+      "bSfxNoDeath" : false
+   },
+   "Category_NpcOnly" : null,
+   "sConfigFormatVersion" : "0.2.0"
+}
