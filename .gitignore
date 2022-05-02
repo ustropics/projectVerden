@@ -4,4 +4,4 @@ plugins/Building-Cosmetics/OdinArchitect/OdinArchitect.dll
 plugins/Gameplay-Addition/Valweed.dll
 plugins/Main-Mods/EpicValheim/EpicValheimsAdditions.dll
 plugins/Main-Mods/MonsterLabZ/DYBAssets.dll
-/plugins/ADMIN/*
+plugins/ADMIN/*
