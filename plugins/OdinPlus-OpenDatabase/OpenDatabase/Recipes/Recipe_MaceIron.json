@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_MaceIron",
+	"result_item_id": "MaceIron",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 4,
+			"amountPerLevel": 0
+		},
+		{
+			"id": "Iron",
+			"amount": 20,
+			"amountPerLevel": 10
+		},
+		{
+			"id": "LeatherScraps",
+			"amount": 3,
+			"amountPerLevel": 0
+		}
+	]
+}

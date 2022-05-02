@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_KnifeButcher",
+	"result_item_id": "KnifeButcher",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 2,
+			"amountPerLevel": 0
+		},
+		{
+			"id": "Tin",
+			"amount": 4,
+			"amountPerLevel": 0
+		}
+	]
+}

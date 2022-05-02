@@ -1,0 +1,15 @@
+{
+    "name": "EliteChaosPlateArmor",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DeepAbyssEssence:2:2:True",
+		"Flametal:6:4:True",
+		"LinenThread:12:12:True",
+		"CapeLox:8:3:True"
+    ]
+}

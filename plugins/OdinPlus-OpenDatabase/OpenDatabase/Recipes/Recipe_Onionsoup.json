@@ -1,0 +1,14 @@
+{
+	"recipe_id": "Recipe_Onionsoup",
+	"result_item_id": "OnionSoup",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "Onion",
+			"amount": 3,
+			"amountPerLevel": 1
+		}
+	]
+}

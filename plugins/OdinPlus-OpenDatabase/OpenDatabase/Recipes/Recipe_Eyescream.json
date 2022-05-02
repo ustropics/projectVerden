@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_Eyescream",
+	"result_item_id": "Eyescream",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "GreydwarfEye",
+			"amount": 3,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "FreezeGland",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

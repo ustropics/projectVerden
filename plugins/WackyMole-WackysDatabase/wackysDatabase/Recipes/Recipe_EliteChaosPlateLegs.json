@@ -1,0 +1,15 @@
+{
+    "name": "EliteChaosPlateLegs",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DeepAbyssEssence:2:2:True",
+		"HeavymetalBar:8:4:True",
+		"LinenThread:10:10:True",
+		"CapeLox:6:2:True"
+    ]
+}

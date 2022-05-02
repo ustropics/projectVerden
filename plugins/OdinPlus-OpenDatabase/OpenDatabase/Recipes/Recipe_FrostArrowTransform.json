@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_FrostArrowTransform",
+	"result_item_id": "ArrowFrost",
+	"result_amount": 20,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "ArrowObsidian",
+			"amount": 20,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "FreezeGland",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

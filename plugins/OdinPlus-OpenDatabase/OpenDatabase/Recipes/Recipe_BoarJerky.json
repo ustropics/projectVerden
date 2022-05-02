@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_BoarJerky",
+	"result_item_id": "BoarJerky",
+	"result_amount": 2,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "RawMeat",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Honey",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

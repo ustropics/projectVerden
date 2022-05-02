@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_LeatherBelt",
+	"result_item_id": "LeatherBelt",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "LeatherScraps",
+			"amount": 10,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Amber",
+			"amount": 3,
+			"amountPerLevel": 1
+		}
+	]
+}

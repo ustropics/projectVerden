@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_LeatherQuiver",
+	"result_item_id": "LeatherQuiver",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "LeatherScraps",
+			"amount": 20,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "DeerHide",
+			"amount": 10,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "TrollHide",
+			"amount": 10,
+			"amountPerLevel": 1
+		}
+	]
+}

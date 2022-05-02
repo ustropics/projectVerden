@@ -1,0 +1,13 @@
+{
+	"recipe_id": "Recipe_ArrowWoodAnywhere",
+	"result_item_id": "ArrowWood",
+	"result_amount": 20,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 8,
+			"amountPerLevel": 1
+		}
+	]
+}

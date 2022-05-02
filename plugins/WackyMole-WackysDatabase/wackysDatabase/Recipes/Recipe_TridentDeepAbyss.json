@@ -1,0 +1,14 @@
+{
+    "name": "TridentDeepAbyss",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FrostInfusedDarkMetal:8:6:False",
+        "FrometalBar:12:8:False",
+        "BurningWorldTreeFragment:20:16:False"
+    ]
+}

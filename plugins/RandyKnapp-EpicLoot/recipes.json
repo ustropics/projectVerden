@@ -1,0 +1,114 @@
+{
+  "recipes": [
+  
+  
+    {
+      "name": "Recipe_LeatherBelt",
+      "item": "LeatherBelt",
+      "craftingStation": "piece_workbench",
+      "resources": [
+        { "item": "LeatherScraps", "amount": 10 },
+        { "item": "Amber", "amount": 3 }
+      ]
+    },
+	
+    {
+      "name": "Recipe_SilverRing",
+      "item": "SilverRing",
+      "craftingStation": "piece_forge",
+      "resources": [
+		{ "item": "Silver", "amount": 4 },
+        { "item": "Tin", "amount": 6 }
+      ]
+    },
+
+    {
+      "name": "Recipe_RunestoneRareUpgrade",
+      "item": "RunestoneRare",
+      "amount": 1,
+      "craftingStation": "piece_alchemystation",
+      "resources": [
+        { "item": "RunestoneMagic", "amount": 5 }
+      ]
+    },
+    {
+      "name": "Recipe_RunestoneEpicUpgrade",
+      "item": "RunestoneEpic",
+      "amount": 1,
+      "craftingStation": "piece_alchemystation",
+      "resources": [
+        { "item": "RunestoneRare", "amount": 5  }
+      ]
+    },
+	
+	
+	
+	{
+      "name": "Recipe_DustRareUpgrade",
+      "item": "DustRare",
+      "amount": 1,
+      "craftingStation": "piece_alchemystation",
+      "resources": [
+        { "item": "DustMagic", "amount": 3  },
+		{ "item": "EssenceRare", "amount": 1  }
+      ]
+    },
+    {
+      "name": "Recipe_DustEpicUpgrade",
+      "item": "DustEpic",
+      "amount": 1,
+      "craftingStation": "piece_alchemystation",
+      "resources": [
+        { "item": "DustRare", "amount": 3  },
+        { "item": "EssenceEpic",    "amount": 1 }
+      ]
+    },
+    {
+      "name": "Recipe_DustLegendaryUpgrade",
+      "item": "DustLegendary",
+      "amount": 1,
+      "craftingStation": "piece_alchemystation",
+      "resources": [
+        { "item": "DustEpic", "amount": 3  },
+        { "item": "EssenceLegendary",    "amount": 1 }
+      ]
+    },
+	
+	
+	
+	{
+      "name": "Recipe_ReagentRareUpgrade",
+      "item": "ReagentRare",
+      "amount": 5,
+      "craftingStation": "piece_alchemystation",
+      "resources": [
+        { "item": "ReagentMagic", "amount": 5 },
+        { "item": "EssenceRare", "amount": 1 }		
+      ]
+    },
+    {
+      "name": "Recipe_ReagentEpicUpgrade",
+      "item": "ReagentEpic",
+      "amount": 4,
+      "craftingStation": "piece_alchemystation",
+      "resources": [
+        { "item": "ReagentRare", "amount": 4 },
+        { "item": "EssenceEpic", "amount": 1 }		
+      ]
+    },
+    {
+      "name": "Recipe_ReagentLegendaryUpgrade",
+      "item": "ReagentLegendary",
+      "amount": 3,
+      "craftingStation": "piece_alchemystation",
+      "resources": [
+        { "item": "ReagentEpic", "amount": 3 },
+        { "item": "EssenceLegendary", "amount": 1 }		
+	  ]
+    },
+	
+	
+	
+	
+  ]
+}

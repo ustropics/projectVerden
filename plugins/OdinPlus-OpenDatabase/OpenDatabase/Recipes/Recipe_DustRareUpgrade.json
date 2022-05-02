@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_DustRareUpgrade",
+	"result_item_id": "DustRare",
+	"result_amount": 1,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "DustMagic",
+			"amount": 3,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "EssenceRare",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

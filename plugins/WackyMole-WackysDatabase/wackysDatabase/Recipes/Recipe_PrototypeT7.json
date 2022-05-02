@@ -1,0 +1,15 @@
+{
+    "name": "RPrototypeT7",
+    "clone": true,
+    "clonePrefabName": "PrototypeT7",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+		"FreezeGland:20:0:False",
+        "HeavymetalBar:20:0:False",
+        "FineWood:30:10:False",
+        "TrophySvartalfarQueen:1:0:False"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "EliteChaosPlateHelm",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DeepAbyssEssence:2:2:True",
+		"FrometalBar:6:3:True",
+		"LinenThread:8:8:True",
+		"CapeLox:4:1:True"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_Blacksoup",
+	"result_item_id": "BlackSoup",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "Bloodbag",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Honey",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Turnip",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

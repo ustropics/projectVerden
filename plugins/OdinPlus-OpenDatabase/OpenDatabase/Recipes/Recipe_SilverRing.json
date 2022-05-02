@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_SilverRing",
+	"result_item_id": "SilverRing",
+	"result_amount": 1,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Silver",
+			"amount": 4,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Tin",
+			"amount": 6,
+			"amountPerLevel": 1
+		}
+	]
+}

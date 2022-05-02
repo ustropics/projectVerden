@@ -1,0 +1,14 @@
+{
+    "name": "BowDeepAbyss",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FrostInfusedDarkMetal:6:4:False",
+        "FrometalBar:8:6:False",
+        "BurningWorldTreeFragment:16:12:False"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_Battleaxe_Crystal",
+	"result_item_id": "BattleaxeCrystal",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "ElderBark",
+			"amount": 40,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "Silver",
+			"amount": 30,
+			"amountPerLevel": 15
+		},
+		{
+			"id": "Crystal",
+			"amount": 10,
+			"amountPerLevel": 0
+		}
+	]
+}

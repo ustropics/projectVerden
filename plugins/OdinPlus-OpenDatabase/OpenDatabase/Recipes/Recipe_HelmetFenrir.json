@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_HelmetFenrir",
+	"result_item_id": "HelmetFenring",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "WolfHairBundle",
+			"amount": 20,
+			"amountPerLevel": 5
+		},
+		{
+			"id": "WolfPelt",
+			"amount": 2,
+			"amountPerLevel": 4
+		},
+		{
+			"id": "TrophyCultist",
+			"amount": 1,
+			"amountPerLevel": 0
+		}
+	]
+}

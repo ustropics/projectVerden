@@ -1,0 +1,15 @@
+{
+    "name": "ROutworldCape",
+    "clone": true,
+    "clonePrefabName": "OutworldCape",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DeepAbyssEssence:2:2:True",
+		"HeavymetalBar:6:3:True",
+		"LinenThread:8:8:True",
+		"CapeLox:4:1:True"
+    ]
+}

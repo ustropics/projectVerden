@@ -1,0 +1,23 @@
+{
+	"recipe_id": "Recipe_SilverArrowTransform",
+	"result_item_id": "ArrowSilver",
+	"result_amount": 20,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "ArrowWood",
+			"amount": 20,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Silver",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Feathers",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "RArrowNeedle2",
+    "clone": true,
+    "clonePrefabName": "ArrowNeedle2",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 10,
+    "disabled": false,
+    "reqs": [
+        "DeepAbyssEssence:3:1:True",
+        "Needle:10:1:True",
+        "Feathers:5:1:True"
+    ]
+}

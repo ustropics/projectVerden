@@ -1,0 +1,18 @@
+{
+	"recipe_id": "Recipe_PoisonArrowTransform",
+	"result_item_id": "ArrowPoison",
+	"result_amount": 20,
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "ArrowObsidian",
+			"amount": 20,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Ooze",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}
