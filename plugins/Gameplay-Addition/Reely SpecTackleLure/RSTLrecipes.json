@@ -1,0 +1,40 @@
+{
+  "RecipeList": [
+    {
+      "Name": "Recipe_FishingRod",
+	  "Amount": 1,
+	  "Enabled": true,
+	  "CraftingStation": "piece_workbench",
+	  "MinStationLevel": 2,
+      "Requirements": [
+        {
+          "Item": "LinenThread",
+          "Amount": 0,
+		  "AmountPerLevel": 10
+        },
+        {
+          "Item": "FineWood",
+          "Amount": 10,
+		  "AmountPerLevel": 5
+        }
+      ]
+    },
+    {
+      "Name": "Recipe_FishingBait",
+	  "Amount": 20,
+	  "Enabled": true,
+	  "CraftingStation": "piece_workbench",
+	  "MinStationLevel": 2,
+      "Requirements": [
+        {
+          "Item": "Entrails",
+          "Amount": 10
+        },
+        {
+          "Item": "Feathers",
+          "Amount": 5
+        }
+      ]
+    }
+  ]
+}

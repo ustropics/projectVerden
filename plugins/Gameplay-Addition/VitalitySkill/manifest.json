@@ -1,0 +1,9 @@
+﻿{
+  "name": "VitalitySkill",
+  "version_number": "1.5.8",
+  "website_url": "https://www.nexusmods.com/valheim/mods/691?tab=description",
+  "description": "Increase MaxHealth, MaxStamina, FoodTimeTicker, StaminaRegen, Runspeed, Walkspeed, CarryWeight in scale with the VitalitySkill, Have an Selfheal and reduce many stamina drains.",
+  "dependencies": [
+    "pipakin-SkillInjector-1.1.1"
+  ]
+}
