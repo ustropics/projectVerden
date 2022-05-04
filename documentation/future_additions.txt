@@ -5,6 +5,14 @@ CONFIG CHANGES
  - Fix valharvest text issues
  - Fix PlantAnything (plants not showing)
  - Remove stone from SmartContainers group
+ - Check if fire staff can scale off of fire skill
+ - test EpicLoot table for fire staff
+ - change durability on 1-hand tanking weapon
+ - fire staff (blunt damage 0 --> 40)
+ - healing staff (blunt damage 30 --> 5)
+
+TESTING
+ - Kitchen changes
 
 MATERIALS
  - Transmogrification
