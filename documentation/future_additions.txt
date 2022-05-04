@@ -1,2 +1,16 @@
 POTENTIAL ADDONS
- - Guild banners - https://www.nexusmods.com/valheim/mods/1729
+ - Guild banners - https://www.nexusmods.com/valheim/mods/1729\
+
+CONFIG CHANGES
+ - Fix valharvest text issues
+ - Fix PlantAnything (plants not showing)
+ - Remove stone from SmartContainers group
+
+MATERIALS
+ - Transmogrification
+ - Obliterator
+
+NEW MODS
+ - Test Transmogrification
+ - Test Themed Hammer
+ - Look for shooting downhill mod
