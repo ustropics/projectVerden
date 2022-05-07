@@ -1,0 +1,6 @@
+/plugins/Building-Cosmetics/Clutter/Clutter.dll filter=lfs diff=lfs merge=lfs -text
+/plugins/Building-Cosmetics/VALKEA/VALKEA.dll filter=lfs diff=lfs merge=lfs -text
+/plugins/Building-Cosmetics/OdinArchitect/OdinArchitect.dll filter=lfs diff=lfs merge=lfs -text
+/plugins/Gameplay-Addition/Valweed.dll filter=lfs diff=lfs merge=lfs -text
+/plugins/Main-Mods/EpicValheim/EpicValheimsAdditions.dll filter=lfs diff=lfs merge=lfs -text
+/plugins/Main-Mods/MonsterLabZ/DYBAssets.dll filter=lfs diff=lfs merge=lfs -text
