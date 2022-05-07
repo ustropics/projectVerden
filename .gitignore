@@ -1,7 +1,7 @@
-#plugins/Building-Cosmetics/Clutter/Clutter.dll
-#plugins/Building-Cosmetics/VALKEA/VALKEA.dll
-#plugins/Building-Cosmetics/OdinArchitect/OdinArchitect.dll
-#plugins/Gameplay-Addition/Valweed.dll
-#plugins/Main-Mods/EpicValheim/EpicValheimsAdditions.dll
-#plugins/Main-Mods/MonsterLabZ/DYBAssets.dll
+plugins/Building-Cosmetics/Clutter/Clutter.dll
+plugins/Building-Cosmetics/VALKEA/VALKEA.dll
+plugins/Building-Cosmetics/OdinArchitect/OdinArchitect.dll
+plugins/Gameplay-Addition/Valweed.dll
+plugins/Main-Mods/EpicValheim/EpicValheimsAdditions.dll
+plugins/Main-Mods/MonsterLabZ/DYBAssets.dll
 plugins/ADMIN/*
