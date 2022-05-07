@@ -1,7 +1,7 @@
 {
     "name": "SageRobeRed",
-    "armor": 26.0,
-    "armorPerLevel": 3.0,
-    "movementModifier": 0.0,
-    "damageModifiers": []
+    "armor": 10.0,
+    "armorPerLevel": 2.0,
+    "movementModifier": -10.0,
+    "damageModifiers": ["Fire:Weak"]
 }

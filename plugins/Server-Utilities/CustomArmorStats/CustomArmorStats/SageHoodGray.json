@@ -1,7 +1,7 @@
 {
-	"name": "SageHoodGray",
-	"armor": 10.0,
-	"armorPerLevel": 3.0,
-	"movementModifier": 0.0,
-	"damageModifiers": []
+    "name": "SageHoodGray",
+    "armor": 10.0,
+    "armorPerLevel": 3.0,
+    "movementModifier": 0.05,
+    "damageModifiers": ["Elemental:Weak"]
 }
