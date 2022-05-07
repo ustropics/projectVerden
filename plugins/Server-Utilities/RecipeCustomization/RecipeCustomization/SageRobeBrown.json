@@ -1,1 +1,1 @@
-{"name":"SageRobeBrown","craftingStation":"$piece_forge","minStationLevel":3,"amount":1,"disabled":true,"reqs":["LinenThread:10:5:False","TrollHide:30:10:False","GreydwarfEye:10:5:False"]}
+{"name":"SageRobeBrown","craftingStation":"Inscription Table","minStationLevel":1,"amount":1,"disabled":false,"reqs":["LeatherScraps:8:4:6:8:False","DeerHide:6:2:4:6:False","TrollHide:4:2:3:4:False","Honey:10:6:8:10:False"]}

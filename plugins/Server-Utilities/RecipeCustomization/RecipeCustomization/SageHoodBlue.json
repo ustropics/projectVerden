@@ -1,1 +1,1 @@
-{"name":"SageHoodBlue","craftingStation":"$piece_forge","minStationLevel":3,"amount":1,"disabled":true,"reqs":["LinenThread:10:5:False","TrollHide:30:10:False","GreydwarfEye:10:5:False"]}
+{"name":"SageHoodBlue","craftingStation":"Inscription Table","minStationLevel":1,"amount":1,"disabled":false,"reqs":["LeatherScraps:4:2:3:4:False","DeerHide:3:1:2:3:False","TrollHide:2:1:2:2:False","Blueberries:5:3:4:5:False"]}
