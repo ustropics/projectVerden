@@ -1,4 +1,4 @@
-[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (4/15/2022 11:07:27 PM)
+[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (11/14/2021 8:30:17 AM)
 [Info   :   BepInEx] Running under Unity v2019.4.31.12409535
 [Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
 [Info   :   BepInEx] Supports SRE: True
@@ -38,7 +38,9 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 82 plugins to load
+[Info   :   BepInEx] 102 plugins to load
+[Warning:   BepInEx] Skipping [Enable Console 0.1.0] because a newer version exists (Enable Console 0.1.0)
+[Warning:   BepInEx] Skipping [VNEI 0.6.3] because a newer version exists (VNEI 0.6.3)
 [Info   :   BepInEx] Loading [PlantEverything 1.10.1]
 [Info   :   BepInEx] Loading [Custom Armor Stats 0.3.0]
 [Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Humanoid and name DamageArmorDurability and parameters 
@@ -55,28 +57,28 @@
 [Info   :   BepInEx] Loading [Recipe Customization 0.5.2]
 [Info   :   BepInEx] Loading [Terrain Reset 0.7.0]
 [Info   :   BepInEx] Loading [VALKEA 1.0.0]
-[Info   : Unity Log] 05/02/2022 06:43:42: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:41:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:43:42: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:41:48: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:43:42: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:41:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:43:42: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:41:48: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Custom Raids 1.5.3]
 [Info   :Custom Raids] Loading configurations...
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.5]
-[Info   : Unity Log] 05/02/2022 06:43:42: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:41:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:43:42: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:41:48: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:43:42: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:41:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:43:42: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:41:48: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:43:43: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:41:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:43:43: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:41:48: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Project Auga 1.0.10]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
@@ -85,7 +87,7 @@
 [Info   : Unity Log] CustomArmorStats Adding frost immune and ignore
 [Info   :   BepInEx] Loading [Spawn That! 1.0.5]
 [Info   :   BepInEx] Loading [Drop That! 2.3.3]
-[Message:Drop That!] Loading general configuration from C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\drop_that.cfg.
+[Message:Drop That!] Loading general configuration from D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\drop_that.cfg.
 [Info   :   BepInEx] Loading [BalrondBarrell 1.0.1]
 [Info   :   BepInEx] Loading [BalrondShelf 1.0.0]
 [Info   :   BepInEx] Loading [BalrondWoodshed 1.0.0]
@@ -348,7 +350,7 @@
 [Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.14]
 [Info   :   BepInEx] Loading [Vitality Skill 1.5.0.7]
 [Info   :   BepInEx] Loading [ChaosArmor 9.0.6]
-[Warning: Unity Log] Localization file was not loaded: Could not find a part of the path "C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins\AeehyehssReeper-ChaosArmor\Localization.yml".
+[Warning: Unity Log] Localization file was not loaded: Could not find a part of the path "D:\SteamLibrary\steamapps\common\Valheim\BepInEx\plugins\AeehyehssReeper-ChaosArmor\Localization.yml".
 [Info   :   BepInEx] Loading [Skyheim 1.1.1]
 [Info   :   BepInEx] Loading [invishelm 1.1.3]
 [Info   :   BepInEx] Loading [Structure Damage Tweaks 1.0.0]
@@ -363,6 +365,42 @@
 [Info   : Unity Log] Void AbortEquipQueue()
 [Info   : Unity Log] Void StaminaBarNoStaminaFlash()
 [Info   :   BepInEx] Loading [TransmogrificationKG 1.5.0]
+[Info   :   BepInEx] Loading [Aceedia, Staff of Sloth 2.0]
+[Info   :ExampleRecipes.SlothStaff] Embedded resources: staffofsloth.slothstaff
+[Info   :   BepInEx] Loading [Corrupted Aceedia, Staff of Sloth 2.0]
+[Info   :ExampleRecipes.CorruptedSlothStaff] Embedded resources: staffofslothcorrupted.corruptedslothstaff
+[Info   :   BepInEx] Loading [Corrupted Avaritia, Dagger of Greed 2.0]
+[Info   :ExampleRecipes.CorruptedGreedDagger] Embedded resources: corrupteddaggerofgreed.corruptedgreeddagger
+[Info   :   BepInEx] Loading [Avaritia, Dagger of Greed 2.0]
+[Info   :ExampleRecipes.GreedDagger] Embedded resources: greeddagger.greeddagger
+[Info   :   BepInEx] Loading [Gula, Blade of Gluttony 2.0]
+[Info   :ExampleRecipes.GluttonyBlade] Embedded resources: bladeofgluttony.packages.config,bladeofgluttony.gluttonyblade
+[Info   :   BepInEx] Loading [Corrupted Gula, Blade of Gluttony 2.0]
+[Info   :ExampleRecipes.CorruptedGluttonyBlade] Embedded resources: corruptedgluttonyblade.corruptedgluttonyblade
+[Info   :   BepInEx] Loading [Harlequin, Shield of Sloth 3.0]
+[Info   :ExampleRecipes.SlothShield] Embedded resources: shieldofsloth.slothshield
+[Info   :   BepInEx] Loading [Corrupted Harlequin, Shield of Sloth 2.0]
+[Info   :ExampleRecipes.CorruptedSlothShield] Embedded resources: shieldofslothcorrupted.corruptedslothshield
+[Info   :   BepInEx] Loading [Invidia, Greataxe of Envy 2.0]
+[Info   :ExampleRecipes.EnvyGreataxe] Embedded resources: invidiagreatsword.envygreataxe
+[Info   :   BepInEx] Loading [Corrupted Invidia, Greataxe of Envy 2.0]
+[Info   :ExampleRecipes.CorruptedEnvyGreataxe] Embedded resources: corruptedaxeofenvy.corruptedenvygreataxe
+[Info   :   BepInEx] Loading [Ira, Greatsword of Wrath 2.0]
+[Info   :ExampleRecipes.WrathGreatsword] Embedded resources: Iragreatsword.wrathgreatsword
+[Info   :   BepInEx] Loading [Corrupted Ira, Greatsword of Wrath 2.0]
+[Info   :ExampleRecipes.CorruptedWrath] Embedded resources: corruptedswordwrath.corruptedwrath
+[Info   :   BepInEx] Loading [Luxuria, Scythe of Lust 2.0]
+[Info   :ExampleRecipes.LustScythe] Embedded resources: luxuriascythe.lustscythe
+[Info   :   BepInEx] Loading [Corrupted Luxuria, Scythe of Lust 2.0]
+[Info   :ExampleRecipes.CorruptedLust] Embedded resources: corruptedscytheoflust.corruptedlust
+[Info   :   BepInEx] Loading [Superbia, Sword of Pride 2.0]
+[Info   :ExampleRecipes.PrideSword] Embedded resources: swordofpride.pridesword
+[Info   :   BepInEx] Loading [Corrupted Superbia, Sword of Pride 2.0]
+[Info   :ExampleRecipes.CorruptedPrideSword] Embedded resources: corruptedswordofpride.corruptedpridesword
+[Info   :   BepInEx] Loading [Escanor, Shield of Vanity 2.0]
+[Info   :ExampleRecipes.VanityShield] Embedded resources: vanityshield.vanityshield
+[Info   :   BepInEx] Loading [Corrupted Escanor, Shield of Vanity 2.0]
+[Info   :ExampleRecipes.CorruptedVanityShield] Embedded resources: corruptedvanityshield.corruptedvanityshield
 [Info   :   BepInEx] Loading [WackysDatabase 1.1.8]
 [Info   : Unity Log] CustomArmorStats Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] CustomArmorStats Adding frost immune and ignore
@@ -371,7 +409,7 @@
 [Info   : Unity Log] WackysDatabase Loaded files
 [Info   :   BepInEx] Loading [MassFarming 1.0]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 05/02/2022 06:44:32: Starting to load scene:start
+[Info   : Unity Log] 05/06/2022 21:42:40: Starting to load scene:start
 
 [Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
 [Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
@@ -381,99 +419,99 @@
 [Info   :Smart Containers Mod] parsed items group 'ingots': [copper,bronze,flametal,iron,silver,tin,blackmetal] (7)
 [Info   :Smart Containers Mod] parsed items group 'mushrooms': [mushroom,mushroomblue,mushroomyellow,mushroomcommon] (4)
 [Info   :Smart Containers Mod] parsed items group 'ore': [copperore,flametalore,ironore,silverore,tinore,ironscrap,blackmetalscrap] (7)
-[Info   :Smart Containers Mod] parsed items group 'rock': [stone,flint,obsidian] (3)
+[Info   :Smart Containers Mod] parsed items group 'rock': [flint,obsidian] (2)
 [Info   :Smart Containers Mod] parsed items group 'valuables': [ruby,coins,amber,amberpearl] (4)
 [Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
 [Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:39: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:47: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:47: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:47: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:47: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:47: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:47: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:47: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:47: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:47: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:47: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Using steam_appid.txt
+[Info   : Unity Log] 05/06/2022 21:42:47: Using steam_appid.txt
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Using steam APPID:892970
+[Info   : Unity Log] 05/06/2022 21:42:47: Using steam APPID:892970
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 05/06/2022 21:42:47: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Steam initialized, persona:Phortwenty
+[Info   : Unity Log] 05/06/2022 21:42:47: Steam initialized, persona:Jetgorilla
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Using default prefs
+[Info   : Unity Log] 05/06/2022 21:42:47: Using default prefs
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Valheim version:0.208.1@0.9.9.8
+[Info   : Unity Log] 05/06/2022 21:42:47: Valheim version:0.208.1@0.9.9.8
 
 [Info   :Jotunn.Managers.CommandManager] Adding 3 commands to the Console
-[Info   : Unity Log] 05/02/2022 06:44:40: Render threading mode:MultiThreaded
+[Info   : Unity Log] 05/06/2022 21:42:47: Render threading mode:MultiThreaded
 
-[Warning: Unity Log] 05/02/2022 06:44:40: Missing audio clip in music respawn
+[Warning: Unity Log] 05/06/2022 21:42:47: Missing audio clip in music respawn
 
-[Info   : Unity Log] 05/02/2022 06:44:40: Checking for installed DLCs
+[Info   : Unity Log] 05/06/2022 21:42:47: Checking for installed DLCs
 
-[Info   : Unity Log] 05/02/2022 06:44:40: DLC:beta installed:False
+[Info   : Unity Log] 05/06/2022 21:42:47: DLC:beta installed:False
 
 [Info   : Unity Log] CustomTextures Clutter system awake
 [Info   : Unity Log] CustomTextures Checking 17 clutters
 [Info   : Unity Log] CustomTextures Clutter System RunTime 00:00:00.00
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 05/02/2022 06:44:41: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/06/2022 21:42:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/02/2022 06:44:41: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/06/2022 21:42:48: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Warning:RRRMonsters] True
@@ -517,7 +555,7 @@
 [Info   : Unity Log] Load vfx_SageTerra_hit
 [Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
 [Message:Boneappetit.BoneAppetit] Load Complete. Bone Appetit yall.
-[Info   :Jotunn.Managers.ItemManager] Adding 279 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 297 custom items to the ObjectDB
 [Warning:RRRMonsters] True
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
 [Warning: Unity Log] [PrefabCreator] Could not find crafting station (SilverRing): piece_forge
@@ -1011,6 +1049,24 @@
 [Info   : Unity Log] [Better Trader] Loaded conversion [Deep Abyss Trident]/[DeepAbyssTrident] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [Deep Abyss Bow]/[DeepAbyssBow] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [Deep Abyss Greatsword]/[DeepAbyssGreatsword] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Adding [606][AceediaStaffOfSloth] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [607][CorruptedAceediaStaffOfSloth] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [608][CorruptedAvaritiaDaggerOfGreed] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [609][AvaritiaDaggerOfGreed] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [610][GulaBladeOfGluttony] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [611][CorruptedGulaBladeOfGluttony] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [612][HarlequinShieldOfSloth] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [613][CorruptedHarlequinShieldOfSloth] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [614][InvidiaGreataxeOfEnvy] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [615][CorruptedInvidiaGreataxeOfEnvy] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [616][IraGreatswordOfWrath] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [617][CorruptedIraGreatswordOfWrath] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [618][LuxuriaScytheOfLust] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [619][CorruptedLuxuriaScytheOfLust] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [620][SuperbiaSwordOfPride] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [621][CorruptedSuperbiaSwordOfPride] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [622][EscanorShieldOfVanity] to ObjectDBCache!
+[Info   : Unity Log] [Better Trader] Adding [623][CorruptedEscanorShieldOfVanity] to ObjectDBCache!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$meatburrito_name]/[Meatburritoname] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$dragomellete_name]/[Dragomelletename] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$riceEgg_name]/[Riceeggname] and added it to ObjectDBCache!!
@@ -1191,54 +1247,70 @@
 [Info   : Unity Log] [Better Trader] Loaded conversion [Undying Devotion]/[UndyingDevotion] and added it to ObjectDBCache!!
 [Info   : Unity Log] CustomTextures SetupObjectDB postfix
 [Info   : Unity Log] CustomTextures got atlass at item: Acorn
-[Info   : Unity Log] CustomTextures Replacing textures for 1002 objects
-[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.22
+[Info   : Unity Log] CustomTextures Replacing textures for 1020 objects
+[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.30
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   : Unity Log] 05/02/2022 06:44:49: UI Group status changed Menu = False
+[Info   : Unity Log] 05/06/2022 21:42:55: UI Group status changed Menu = False
 
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   : Unity Log] 05/02/2022 06:44:49: Failed to find item prefab ArrowBone
+[Info   : Unity Log] 05/06/2022 21:42:59: UI Group status changed Menu = True
+
+[Info   : Unity Log] 05/06/2022 21:43:31: FOund selected StartGame
+
+[Info   : Unity Log] 05/06/2022 21:43:31: show character selection
 
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   : Unity Log] 05/02/2022 06:44:52: UI Group status changed Menu = True
+[Info   : Unity Log] 05/06/2022 21:43:43: Vis equip model set to 1
 
-[Info   : Unity Log] 05/02/2022 06:44:54: FOund selected StartGame
-
-[Info   : Unity Log] 05/02/2022 06:44:54: show character selection
+[Info   : Unity Log] 05/06/2022 21:43:46: Set hair 5
 
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   : Unity Log] 05/02/2022 06:44:57: OnCharacterStart
+[Info   : Unity Log] 05/06/2022 21:43:50: Vis equip model set to 1
+
+[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/06/2022 21:43:50: Vis equip model set to 1
+
+[Info   : Unity Log] 05/06/2022 21:43:50: UI Group status changed SelectCharacter = True
+
+[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/06/2022 21:43:50: Vis equip model set to 1
+
+[Info   : Unity Log] 05/06/2022 21:44:01: OnCharacterStart
+
+[Info   : Unity Log] 05/06/2022 21:44:04: UI Group status changed Panel = False
+
+[Info   : Unity Log] 05/06/2022 21:44:05: UI Group status changed Panel = True
+
+[Info   : Unity Log] 05/06/2022 21:44:06: UI Group status changed Panel = False
+
+[Info   : Unity Log] 05/06/2022 21:44:18: UI Group status changed Panel = True
 
 [Message:Spawn That!] Loading local spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.0180572
+[Message:Spawn That!] Config loading took: 00:00:00.0229822
 [Message:Spawn That!] Loading simple configurations
 [Message:Spawn That!] Loading world spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.2655708
-[Message:Drop That!] Loading general configuration from C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\drop_that.cfg.
+[Message:Spawn That!] Config loading took: 00:00:00.2246277
+[Message:Drop That!] Loading general configuration from D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\drop_that.cfg.
 [Message:Drop That!] Loading character drop lists
 [Message:Drop That!] Loading character drop configurations
 [Message:Drop That!] Loading drop table lists
 [Message:Drop That!] Loading drop table configurations
-[Info   : Unity Log] 05/02/2022 06:45:40: Steam initialized, persona:Phortwenty
+[Info   : Unity Log] 05/06/2022 21:45:03: Steam initialized, persona:Jetgorilla
 
-[Info   : Unity Log] 05/02/2022 06:45:40: Using default prefs
+[Info   : Unity Log] 05/06/2022 21:45:03: Using default prefs
 
 [Info   :Jotunn.Managers.CommandManager] Adding 3 commands to the Console
-[Info   : Unity Log] 05/02/2022 06:45:40: Loading player profile test
+[Info   : Unity Log] 05/06/2022 21:45:03: Loading player profile test
 
 [Info   : Unity Log] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
-[Info   : Unity Log] 05/02/2022 06:45:40: Zonesystem Awake 582
+[Info   : Unity Log] 05/06/2022 21:45:03: Zonesystem Awake 5097
 
-[Info   : Unity Log] 05/02/2022 06:45:40: DungeonDB Awake 582
+[Info   : Unity Log] 05/06/2022 21:45:03: DungeonDB Awake 5097
 
-[Info   : Unity Log] 05/02/2022 06:45:40: Steam initialized, persona:Phortwenty
+[Info   : Unity Log] 05/06/2022 21:45:03: Steam initialized, persona:Jetgorilla
+
+[Info   : Unity Log] 05/06/2022 21:45:03: Registering lobby
 
 [Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'asetia.VALKEA ConfigSync' RPC - waiting for incoming connections
@@ -1265,10 +1337,10 @@
 [Info   : Unity Log] Registered 'ReepusDeepusDelmeepus4902761.ChaosArmor ItemManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] CustomTextures ZNetScene awake
 [Info   : Unity Log] CustomTextures Checking 2525 prefabs
-[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:00.99
+[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:00.85
 [Info   : Unity Log] CustomTextures Reloading Environment textures
 [Info   : Unity Log] CustomTextures Reloading 9 Environment textures
-[Info   :Jotunn.Managers.PrefabManager] Adding 738 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.PrefabManager] Adding 756 custom prefabs to the ZNetScene
 [Info   :OpenDatabase] Loaded Item BlackSoup
 [Info   :OpenDatabase] Loaded Item BloodPudding
 [Info   :OpenDatabase] Loaded Item Blueberries
@@ -1411,14 +1483,68 @@
 [Info   :OpenDatabase] Loaded Item rune_travel
 [Info   :OpenDatabase] Loaded Item rune_warmth
 [Info   :OpenDatabase] Found 4 Crafting/Repair-Stations. [$piece_forge, $piece_workbench, $piece_cauldron, $piece_stonecutter]
-[Info   :Jotunn.Managers.ItemManager] Adding 279 custom items to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 227 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 297 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 245 custom recipes to the ObjectDB
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_fragmented_staff_sloth: System.Exception: Mock prefab 0 could not be resolved
+  at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x000a5] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00430] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in <695337fbfb66498483eb4b77bf292006>:0 
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_knife_corrupted_greed: System.Exception: Mock prefab  could not be resolved
+  at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x000a5] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00430] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in <695337fbfb66498483eb4b77bf292006>:0 
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_corrupted_blade_gluttony: System.Exception: Mock prefab  could not be resolved
+  at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x000a5] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00430] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in <695337fbfb66498483eb4b77bf292006>:0 
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_corrupted_sloth_shield: System.Exception: Mock prefab  could not be resolved
+  at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x000a5] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00430] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in <695337fbfb66498483eb4b77bf292006>:0 
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_corrupted_envy: System.Exception: Mock prefab  could not be resolved
+  at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x000a5] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00430] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in <695337fbfb66498483eb4b77bf292006>:0 
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_corrupted_wrath: System.Exception: Mock prefab  could not be resolved
+  at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x000a5] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00430] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in <695337fbfb66498483eb4b77bf292006>:0 
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_corrupted_lust: System.Exception: Mock prefab  could not be resolved
+  at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x000a5] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00430] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in <695337fbfb66498483eb4b77bf292006>:0 
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_corrupted_pride_sword: System.Exception: Mock prefab  could not be resolved
+  at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x000a5] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00430] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in <695337fbfb66498483eb4b77bf292006>:0 
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_corrupted_vanity_shield: System.Exception: Mock prefab 0 could not be resolved
+  at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x000a5] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00430] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in <695337fbfb66498483eb4b77bf292006>:0 
+  at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in <695337fbfb66498483eb4b77bf292006>:0 
 [Info   :Jotunn.Managers.ItemManager] Adding 4 custom status effects to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 8 custom item conversions
 [Warning:RRRMonsters] True
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
 [Warning: Unity Log] [PrefabCreator] Could not find crafting station (SilverRing): piece_forge
-[Info   : Unity Log] [PrefabCreator] Available Stations: forge, piece_workbench, piece_cauldron, piece_stonecutter, rk_prep, opalchemy, piece_thorsforge, piece_alchemystation, rk_grill, rk_griddle
+[Info   : Unity Log] [PrefabCreator] Available Stations: forge, piece_workbench, piece_cauldron, piece_stonecutter, rk_prep, opalchemy, piece_thorsforge, piece_alchemystation, piece_artisanstation, rk_grill, rk_griddle
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
@@ -1435,134 +1561,134 @@
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
-[Info   :   RRRNpcs] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit1.json
-[Info   :   RRRNpcs] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit2.json
-[Info   :   RRRNpcs] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit3.json
-[Info   :   RRRNpcs] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit1.json
-[Info   :   RRRNpcs] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit2.json
-[Info   :   RRRNpcs] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit3.json
-[Info   :   RRRNpcs] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit1.json
-[Info   :   RRRNpcs] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit2.json
-[Info   :   RRRNpcs] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit3.json
-[Info   :   RRRNpcs] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit4giant.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\BlackSpider\rrrmonsters.custom.BlackSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\BrownSpider\rrrmonsters.custom.BrownSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\ForestSpider\rrrmonsters.custom.ForestSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\FrigidSpider\rrrmonsters.custom.FrigidSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\FrostSpider\rrrmonsters.custom.FrostSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\GhostWarrior\rrrmonsters.custom.GhostWarrior.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\GreenSpider\rrrmonsters.custom.GreenSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\IceGolem\rrrmonsters.custom.IceGolem.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\SkeletonWarrior\rrrmonsters.custom.SkeletonWarrior.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\SkeletonWarriorFire\rrrmonsters.custom.SkeletonWarriorFire.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\SkeletonWarriorIce\rrrmonsters.custom.SkeletonWarriorIce.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\TanSpider\rrrmonsters.custom.TanSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\TreeSpider\rrrmonsters.custom.TreeSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshBlobTar.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshBlobTarBig.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshBlobTarBurning.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshDragon.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshDragonFather.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshGolem.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshHatchling.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshMosquito.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshNeck.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshNeckSmall.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshSurtling.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingBones.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingDamnedOne.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BurnedBones.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.DamnedOne.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.ElderSurtling.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SmallAshNeck.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SwollenBody.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngryFrozenCorpse.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngrySpirit.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.CalmSpirit.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DevourerFenring.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Dvergr.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DvergrEvent.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.ForgottenOne.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.FrostSquito.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.FrozenCorpse.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Jotunn.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenring.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenringAmbush.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenringDevourer.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarGolem.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarLox.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarLoxSmall.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarSerpentSmall.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarUlv.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SilverGolem.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmallPolarLox.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmalPolarSerpent.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_EpicValheim\rrrmonsters.custom.RoamingT1.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_EpicValheim\rrrmonsters.custom.RoamingT2.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_EpicValheim\rrrmonsters.custom.RoamingT3.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_EpicValheim\rrrmonsters.custom.RoamingT4.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_EpicValheim\rrrmonsters.custom.RoamingT5.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkBat.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkMosquito.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkMoth.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkProtector.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpiderMother.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpiderPoison.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpiderSmall.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkWorm.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.MotherDarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.PoisonDarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.ShadowUlv.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SmallDarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.Svartalfr.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrAll.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrArcher.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrBrigade.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrHeavy.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrMage.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrQueen.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrWarrior.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.AggressiveSerpent.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.DrownedSoul.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.OceanKraken.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.OceanMosquito.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.OceanMoth.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.StormHatchling.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormFenring.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormWolf.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.DeathsquitoT1.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrBoar.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrLox.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeck.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT3M.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT3R.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT4.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrWolf.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDBurningTorch.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDElderBrute.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDTosser.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDVileHand.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT1M.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT1R.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT2Elite.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT3Elite.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT4Elite.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadHrungnir.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT1.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT2M.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT2R.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3Captain.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3M.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3R.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4Captain.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4M.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4MageFire.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4MageIce.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT5M.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT1.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT2.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT3.json
+[Info   :   RRRNpcs] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit1.json
+[Info   :   RRRNpcs] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit2.json
+[Info   :   RRRNpcs] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit3.json
+[Info   :   RRRNpcs] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit1.json
+[Info   :   RRRNpcs] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit2.json
+[Info   :   RRRNpcs] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit3.json
+[Info   :   RRRNpcs] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit1.json
+[Info   :   RRRNpcs] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit2.json
+[Info   :   RRRNpcs] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit3.json
+[Info   :   RRRNpcs] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit4giant.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\BlackSpider\rrrmonsters.custom.BlackSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\BrownSpider\rrrmonsters.custom.BrownSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\ForestSpider\rrrmonsters.custom.ForestSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\FrigidSpider\rrrmonsters.custom.FrigidSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\FrostSpider\rrrmonsters.custom.FrostSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\GhostWarrior\rrrmonsters.custom.GhostWarrior.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\GreenSpider\rrrmonsters.custom.GreenSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\IceGolem\rrrmonsters.custom.IceGolem.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\SkeletonWarrior\rrrmonsters.custom.SkeletonWarrior.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\SkeletonWarriorFire\rrrmonsters.custom.SkeletonWarriorFire.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\SkeletonWarriorIce\rrrmonsters.custom.SkeletonWarriorIce.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\TanSpider\rrrmonsters.custom.TanSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Epic_Valheim\Monsters\TreeSpider\rrrmonsters.custom.TreeSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshBlobTar.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshBlobTarBig.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshBlobTarBurning.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshDragon.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshDragonFather.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshGolem.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshHatchling.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshMosquito.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshNeck.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshNeckSmall.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshSurtling.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingBones.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingDamnedOne.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BurnedBones.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.DamnedOne.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.ElderSurtling.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SmallAshNeck.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SwollenBody.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngryFrozenCorpse.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngrySpirit.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.CalmSpirit.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DevourerFenring.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Dvergr.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DvergrEvent.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.ForgottenOne.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.FrostSquito.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.FrozenCorpse.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Jotunn.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenring.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenringAmbush.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenringDevourer.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarGolem.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarLox.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarLoxSmall.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarSerpentSmall.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarUlv.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SilverGolem.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmallPolarLox.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmalPolarSerpent.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_EpicValheim\rrrmonsters.custom.RoamingT1.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_EpicValheim\rrrmonsters.custom.RoamingT2.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_EpicValheim\rrrmonsters.custom.RoamingT3.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_EpicValheim\rrrmonsters.custom.RoamingT4.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_EpicValheim\rrrmonsters.custom.RoamingT5.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkBat.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkMosquito.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkMoth.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkProtector.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpiderMother.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpiderPoison.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpiderSmall.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkWorm.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.MotherDarkSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.PoisonDarkSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.ShadowUlv.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SmallDarkSpider.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.Svartalfr.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrAll.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrArcher.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrBrigade.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrHeavy.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrMage.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrQueen.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrWarrior.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.AggressiveSerpent.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.DrownedSoul.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.OceanKraken.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.OceanMosquito.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.OceanMoth.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.StormHatchling.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormFenring.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormWolf.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.DeathsquitoT1.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrBoar.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrLox.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeck.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT3M.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT3R.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT4.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrWolf.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDBurningTorch.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDElderBrute.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDTosser.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDVileHand.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT1M.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT1R.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT2Elite.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT3Elite.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT4Elite.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadHrungnir.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT1.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT2M.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT2R.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3Captain.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3M.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3R.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4Captain.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4M.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4MageFire.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4MageIce.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT5M.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT1.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT2.json
+[Info   :RRRMonsters] Loading: D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT3.json
 [Info   : Unity Log] [Better Trader] Loaded conversion [discard_this_item]/[Discardthisitem] and added it to ObjectDBCache!!
 [Info   : Unity Log] Skipping Borked Tank
 [Info   : Unity Log] [Better Trader] Loaded conversion [The Tesseract]/[TheTesseract] and added it to ObjectDBCache!!
@@ -1947,14 +2073,14 @@
 [Info   : Unity Log] [Better Trader] Loaded conversion [RRRN_wildbanditgiant@ArmorLeatherLegs@@@]/[Rrrnwildbanditgiantarmorleatherlegs] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [RRRN_wildbanditgiant@ArmorLeatherChest@@@]/[Rrrnwildbanditgiantarmorleatherchest] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [RRRN_wildbanditgiant@npcunarmed@@@]/[Rrrnwildbanditgiantnpcunarmed] and added it to ObjectDBCache!!
-[Info   : Unity Log] 05/02/2022 06:45:50: Audioman already exist, destroying self
+[Info   : Unity Log] 05/06/2022 21:45:15: Audioman already exist, destroying self
 
-[Info   : Unity Log] 05/02/2022 06:45:50: Checking for installed DLCs
+[Info   : Unity Log] 05/06/2022 21:45:15: Checking for installed DLCs
 
-[Info   : Unity Log] 05/02/2022 06:45:50: DLC:beta installed:False
+[Info   : Unity Log] 05/06/2022 21:45:15: DLC:beta installed:False
 
 [Info   : Unity Log] [Better Trader] Initializing UI!
-[Info   : Unity Log] [Better Trader] Trader's coins were loaded from Player Prefs with a value of 5000
+[Info   : Unity Log] [Better Trader] Trader's coins were loaded from Player Prefs with a value of 0
 [Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
 Stack trace:
 ProfessionPanel.Awake () (at <2214935d09144691b218a9e42c3195c4>:0)
@@ -1971,12 +2097,12 @@ InstantiatePrefab:Awake()
 [Info   :Smart Containers Mod] Cleaned up UI extensions.
 [Info   : Unity Log] CustomTextures Starting ZoneSystem Location prefab replacement
 [Info   : Unity Log] CustomTextures ZoneSystem Locations RunTime 00:00:00.00
-[Info   : Unity Log] 05/02/2022 06:45:54: Zonesystem Start 582
+[Info   : Unity Log] 05/06/2022 21:45:21: Zonesystem Start 5097
 
-[Message:Custom Raids] Writing random events (raids) for specific locations, eg. caves, to file C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\Debug\default_location_random_events.txt.
-[Info   : Unity Log] 05/02/2022 06:45:54: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+[Message:Custom Raids] Writing random events (raids) for specific locations, eg. caves, to file D:\SteamLibrary\steamapps\common\Valheim\BepInEx\Debug\default_location_random_events.txt.
+[Info   : Unity Log] 05/06/2022 21:45:22: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
 
-[Info   : Unity Log] 05/02/2022 06:45:54: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+[Info   : Unity Log] 05/06/2022 21:45:22: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
 
 [Warning:Jotunn.Managers.PrefabManager] Prefab 'Pickable_Pepper' already exists
 [Warning:Jotunn.Managers.PrefabManager] Prefab 'Pickable_Bell_Pepper' already exists
@@ -2001,17 +2127,21 @@ InstantiatePrefab:Awake()
 [Info   :jtv_biomes.jtv_biomes] Adding Locations
 [Info   :Jotunn.Managers.ZoneManager] Injecting 36 custom locations
 [Info   :Jotunn.Managers.ZoneManager] Injecting 19 custom vegetation
-[Info   : Unity Log] 05/02/2022 06:45:55: DungeonDB Start 582
+[Info   : Unity Log] 05/06/2022 21:45:22: DungeonDB Start 5097
 
-[Info   : Unity Log] 05/02/2022 06:45:55: Load world DevServer
+[Info   : Unity Log] 05/06/2022 21:45:22: Load world TestWorld
 
-[Info   : Unity Log] 05/02/2022 06:45:55: Loading 13643 zdos , my id 1459716322 data version:28
+[Info   : Unity Log] 05/06/2022 21:45:22:   missing C:/Users/Broc Roberts/AppData/LocalLow/IronGate/Valheim/worlds/TestWorld.db
 
-[Info   : Unity Log] 05/02/2022 06:45:55: Loaded 130 dead zdos
+[Info   : Unity Log] 05/06/2022 21:45:22: Generating locations
 
-[Info   : Unity Log] 05/02/2022 06:45:55: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 05/06/2022 21:45:22: Checking for location duplicates
 
-[Info   : Unity Log] 05/02/2022 06:45:55: Loaded 8820 locations
+[Warning: Unity Log] 05/06/2022 21:45:51: Failed to place all TarPit1, placed 96 out of 100
+
+[Warning: Unity Log] 05/06/2022 21:45:53: Failed to place all TarPit2, placed 13 out of 100
+
+[Info   : Unity Log] 05/06/2022 21:46:01:  Done generating locations, duration:38847.9964 ms
 
 [Error  : Unity Log] Exception: Could not find child objects for KeyHints
 Stack trace:
@@ -2019,11 +2149,15 @@ Jotunn.Managers.KeyHintManager.GetBaseGameObjects (KeyHints self) (at <695337fbf
 Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at <695337fbfb66498483eb4b77bf292006>:0)
 (wrapper dynamic-method) KeyHints.DMD<KeyHints::Start>(KeyHints)
 
-[Info   : Unity Log] 05/02/2022 06:45:56: Starting respawn
+[Info   : Unity Log] 05/06/2022 21:46:02: Starting respawn
 
-[Info   : Unity Log] 05/02/2022 06:46:05: Unpacking compressed mapdata 8228
+[Info   : Unity Log] 05/06/2022 21:46:02: Lobby was created k_EResultOK  109775242433535561  error:False
 
-[Info   : Unity Log] 05/02/2022 06:46:05: tip:$loadscreen_tip03
+[Info   : Unity Log] 05/06/2022 21:46:02: Got requested lobby data
+
+[Info   : Unity Log] 05/06/2022 21:46:10: tip:$loadscreen_tip23
+
+[Info   : Unity Log] 05/06/2022 21:46:11: Got requested lobby data
 
 [Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
 [Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
@@ -2286,6 +2420,8 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
 [Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
 [Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_forge
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_forge
 [Info   : Unity Log] RecipeCustomization Removing recipe for YmirsSoulEssence from the game
 [Warning:WackysDatabase] You Will be kicked from Multiplayer Servers! 0.0.1
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for ArrowFire2 
@@ -2345,53 +2481,1052 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Info   : Unity Log] WackysDatabase Setting Recipe for EliteChaosPlateHelm
 [Info   : Unity Log] WackysDatabase Setting Recipe for EliteChaosPlateLegs
 [Info   : Unity Log] WackysDatabase Setting Recipe for TridentDeepAbyss
-[Info   : Unity Log] 05/02/2022 06:46:14: Spawned after 8.019994
+[Info   : Unity Log] 05/06/2022 21:46:12: Force generaeting hmap (0.0, 0.0, 0.0)
+
+[Info   : Unity Log] 05/06/2022 21:46:12: Placed locations in zone 0,0  duration 13.6795 ms
 
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/06/2022 21:46:12: Vis equip model set to 1
+
+[Info   : Unity Log] 05/06/2022 21:46:12: Queue unlock msg:$msg_newrecipe:$item_fishingrod
+
+[Info   : Unity Log] 05/06/2022 21:46:12: Queue unlock msg:$msg_newrecipe:$item_fishingbait
+
+[Info   : Unity Log] 05/06/2022 21:46:12: Setting up valkyrie 
+
+[Info   : Unity Log] 05/06/2022 21:46:12: Show intro 5112
+
+[Info   : Unity Log] 05/06/2022 21:46:12: Show text YOU DIED:Long ago, the Allfather Odin united the worlds. He threw down his foes and cast them into the tenth world, then split the boughs that held their prison to the World-Tree, and left it to drift unanchored, a place of exile…
+
+
+
+For centuries, this world slumbered uneasily. But it did not die... As glacial ages passed, kingdoms rose and fell out of sight of the gods.
+
+
+
+When Odin heard his enemies were growing once again in strength, he looked to Midgard and sent his Valkyries to scour the battlefields for the greatest of their warriors. Dead to the world, they would be born again…
+
+
+
+…in VALHEIM!
+
+[Info   : Unity Log] 05/06/2022 21:46:12: World pos (-596.1, 190.0, 538.8)   (-595.8, 189.4, 538.6)
+
 [Info   :      VNEI] Index prefabs
 [Info   :      VNEI] Index recipes
 [Info   :      VNEI] Index prefabs recipes
-[Info   :      VNEI] Loaded 2379 items
-[Info   : Unity Log] 05/02/2022 06:46:15: Minimap: Adding unique location (-122.7, 47.8, 5.1)
+[Info   :      VNEI] Loaded 2397 items
+[Info   : Unity Log] 05/06/2022 21:46:17: Minimap: Adding unique location (-4.5, 71.3, 0.2)
 
-[Info   : Unity Log] 05/02/2022 06:46:17: Resumed music meadows at 0
+[Info   : Unity Log] 05/06/2022 21:46:18: Loading dungeon
 
-[Info   : Unity Log] 05/02/2022 06:46:24: Setting selected recipe 0
+[Info   : Unity Log] 05/06/2022 21:46:18: Dungeon loaded 0
 
-[Info   : Unity Log] 05/02/2022 06:46:24: UI Group status changed root = True
+[Info   : Unity Log] 05/06/2022 21:46:18: Dungeon load time 2.0267 ms
 
-[Info   : Unity Log] 05/02/2022 06:46:24: UI Group status changed Player = True
+[Info   : Unity Log] 05/06/2022 21:46:18: Generating DG_ForestCrypt(Clone), Seed: -1298339362, Bounds diff: (-28.4, -32.0, -40.2) / (35.6, 32.0, 23.8)
 
-[Info   : Unity Log] 05/02/2022 06:46:24: UI Group status changed QuickSlotGrid = False
+[Info   : Unity Log] 05/06/2022 21:46:18: Available rooms:18
 
-[Info   : Unity Log] 05/02/2022 06:46:24: UI Group status changed EquipmentSlotGrid = False
+[Info   : Unity Log] 05/06/2022 21:46:18: To place:40
 
-[Info   : Unity Log] 05/02/2022 06:48:39: UI Group status changed MenuRoot = True
+[Info   : Unity Log] 05/06/2022 21:46:18: Connections 4
 
-[Info   : Unity Log] 05/02/2022 06:48:40: UI Group status changed MenuRoot = False
+[Info   : Unity Log] 05/06/2022 21:46:18: placed 6 doors
 
-[Info   : Unity Log] 05/02/2022 06:48:41: Game - OnApplicationQuit
+[Info   : Unity Log] 05/06/2022 21:46:18: Placed 23 rooms
 
-[Info   : Unity Log] 05/02/2022 06:48:41: Shuting down
+[Info   : Unity Log] 05/06/2022 21:46:18: Dungeon generated with seed -1298339362 and hash -829367238
 
-[Info   : Unity Log] 05/02/2022 06:48:41: Uncompressed size 8388617
+[Info   : Unity Log] 05/06/2022 21:46:18: Placed locations in zone -11,6  duration 49.6538 ms
 
-[Info   : Unity Log] 05/02/2022 06:48:41: Compressed size 8228
+[Info   : Unity Log] 05/06/2022 21:46:18: Placed locations in zone -10,10  duration 29.8928 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:19: Placed locations in zone -10,11  duration 12.6672 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:19: Force generaeting hmap (-512.0, 0.0, 640.0)
+
+[Info   : Unity Log] 05/06/2022 21:46:19: Placed locations in zone -8,10  duration 4.5601 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:20: Placed locations in zone -9,7  duration 23.3067 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Force generaeting hmap (-704.0, 0.0, 512.0)
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Placed locations in zone -11,8  duration 6.5863 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Loading dungeon
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Dungeon loaded 0
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Dungeon load time 1.5201 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Generating DG_ForestCrypt(Clone), Seed: -1298652269, Bounds diff: (-40.4, -32.0, -38.3) / (23.6, 32.0, 25.7)
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Available rooms:18
+
+[Info   : Unity Log] 05/06/2022 21:46:21: To place:40
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Connections 4
+
+[Info   : Unity Log] 05/06/2022 21:46:21: placed 8 doors
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Placed 27 rooms
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Dungeon generated with seed -1298652269 and hash -1992704019
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Placed locations in zone -11,9  duration 39.5198 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Placed locations in zone -9,9  duration 6.0801 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Force generaeting hmap (-704.0, 0.0, 640.0)
+
+[Info   : Unity Log] 05/06/2022 21:46:21: Placed locations in zone -11,10  duration 4.5597 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:22: Placed locations in zone -7,10  duration 31.9199 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:22: Force generaeting hmap (-448.0, 0.0, 640.0)
+
+[Info   : Unity Log] 05/06/2022 21:46:22: Placed locations in zone -13,4  duration 4.5604 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:22: Placed locations in zone -12,5  duration 2.5336 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:23: Placed locations in zone -13,6  duration 3.0402 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:23: Placed locations in zone -12,6  duration 2.0265 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Loading dungeon
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Dungeon loaded 0
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Dungeon load time 1.52 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Generating DG_ForestCrypt(Clone), Seed: -1297844138, Bounds diff: (-31.6, -32.0, -27.6) / (32.4, 32.0, 36.4)
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Available rooms:18
+
+[Info   : Unity Log] 05/06/2022 21:46:24: To place:40
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Connections 4
+
+[Info   : Unity Log] 05/06/2022 21:46:24: placed 9 doors
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Placed 34 rooms
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Dungeon generated with seed -1297844138 and hash 847609998
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Placed locations in zone -13,8  duration 38.5069 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Placed locations in zone -13,10  duration 1.5202 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:24: Placed locations in zone -12,8  duration 3.5469 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Placed locations in zone -13,12  duration 18.2399 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Placed locations in zone -12,10  duration 12.1596 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Loading dungeon
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Dungeon loaded 0
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Dungeon load time 2.0263 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Generating DG_ForestCrypt(Clone), Seed: -1298485930, Bounds diff: (-27.2, -32.0, -42.1) / (36.8, 32.0, 21.9)
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Available rooms:18
+
+[Info   : Unity Log] 05/06/2022 21:46:25: To place:40
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Connections 4
+
+[Info   : Unity Log] 05/06/2022 21:46:25: placed 8 doors
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Placed 27 rooms
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Dungeon generated with seed -1298485930 and hash -1421713407
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Placed locations in zone -12,11  duration 33.9467 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Loading dungeon
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Dungeon loaded 0
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Dungeon load time 1.5202 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Generating DG_ForestCrypt(Clone), Seed: -1299386339, Bounds diff: (-33.9, -32.0, -22.1) / (30.1, 32.0, 41.9)
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Available rooms:18
+
+[Info   : Unity Log] 05/06/2022 21:46:25: To place:40
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Connections 4
+
+[Info   : Unity Log] 05/06/2022 21:46:25: placed 7 doors
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Placed 30 rooms
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Dungeon generated with seed -1299386339 and hash -2142941359
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Placed locations in zone -9,11  duration 23.3065 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:25: Placed locations in zone -7,11  duration 8.1061 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Placed locations in zone -12,12  duration 2.0266 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Loading dungeon
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Dungeon loaded 0
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Dungeon load time 1.5201 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Generating DG_ForestCrypt(Clone), Seed: -1298840485, Bounds diff: (-23.4, -32.0, -27.0) / (40.6, 32.0, 37.0)
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Available rooms:18
+
+[Info   : Unity Log] 05/06/2022 21:46:26: To place:40
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Connections 4
+
+[Info   : Unity Log] 05/06/2022 21:46:26: All required rooms have been placed, stopping generation
+
+[Info   : Unity Log] 05/06/2022 21:46:26: placed 9 doors
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Placed 35 rooms
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Dungeon generated with seed -1298840485 and hash 1781082514
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Placed locations in zone -11,12  duration 49.6533 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Placed locations in zone -9,12  duration 4.56 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Placed locations in zone -8,12  duration 0 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Placed locations in zone -7,12  duration 5.5734 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:26: Placed locations in zone -6,12  duration 3.5471 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:27: Loading dungeon
+
+[Info   : Unity Log] 05/06/2022 21:46:27: Dungeon loaded 0
+
+[Info   : Unity Log] 05/06/2022 21:46:27: Dungeon load time 1.5199 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:27: Generating DG_MeadowsFarm(Clone), Seed: -1346747119, Bounds diff: (-32.0, -32.0, -32.0) / (32.0, 32.0, 32.0)
+
+[Info   : Unity Log] 05/06/2022 21:46:27: Available rooms:13
+
+[Info   : Unity Log] 05/06/2022 21:46:27: To place:30
+
+[Info   : Unity Log] 05/06/2022 21:46:27: Placed 11 rooms
+
+[Info   : Unity Log] 05/06/2022 21:46:27: Dungeon generated with seed -1346747119 and hash -1255064125
+
+[Info   : Unity Log] 05/06/2022 21:46:27: Force generaeting hmap (-320.0, 0.0, 768.0)
+
+[Info   : Unity Log] 05/06/2022 21:46:27: Placed locations in zone -5,12  duration 110.96 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned Deer x 3
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned Deer x 1
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned Seagal x 1
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned Fish2 x 2
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned Fish2 x 2
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned Greydwarf x 3
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned Greydwarf x 3
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/06/2022 21:46:28: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/06/2022 21:46:37: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 05/06/2022 21:46:40: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 05/06/2022 21:46:41: Saying Normal  \
+
+[Info   : Unity Log] 05/06/2022 21:46:42: Saying Normal  \
+
+[Info   : Unity Log] 05/06/2022 21:46:58: Placed locations in zone -13,13  duration 5.067 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:58: Placed locations in zone -11,13  duration 2.0267 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Loading dungeon
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Dungeon loaded 0
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Dungeon load time 1.52 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Generating DG_MeadowsFarm(Clone), Seed: -1345704346, Bounds diff: (-32.0, -32.0, -32.0) / (32.0, 32.0, 32.0)
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Available rooms:13
+
+[Info   : Unity Log] 05/06/2022 21:46:59: To place:30
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Placed 15 rooms
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Dungeon generated with seed -1345704346 and hash 572506827
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Placed locations in zone -9,13  duration 208.2398 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Placed locations in zone -7,13  duration 12.1603 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Placed locations in zone -6,13  duration 0 ms
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Spawned Seagal x 2
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Spawned Fish1 x 5
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Spawned Fish3 x 2
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Spawned Greydwarf x 2
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Loading dungeon
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Dungeon loaded 30
+
+[Info   : Unity Log] 05/06/2022 21:46:59: Dungeon load time 11.653 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:03: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 05/06/2022 21:47:06: Placed locations in zone -4,4  duration 12.1597 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:08: Placed locations in zone -3,4  duration 12.667 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:09: Placed locations in zone -3,6  duration 0 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:09: Placed locations in zone -3,7  duration 11.6532 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:09: Loading dungeon
+
+[Info   : Unity Log] 05/06/2022 21:47:09: Dungeon loaded 0
+
+[Info   : Unity Log] 05/06/2022 21:47:09: Dungeon load time 1.5202 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:09: Generating DG_MeadowsFarm(Clone), Seed: -1346710213, Bounds diff: (-32.0, -32.0, -32.0) / (32.0, 32.0, 32.0)
+
+[Info   : Unity Log] 05/06/2022 21:47:09: Available rooms:13
+
+[Info   : Unity Log] 05/06/2022 21:47:09: To place:30
+
+[Info   : Unity Log] 05/06/2022 21:47:09: Placed 5 rooms
+
+[Info   : Unity Log] 05/06/2022 21:47:09: Dungeon generated with seed -1346710213 and hash -411040322
+
+[Info   : Unity Log] 05/06/2022 21:47:09: Placed locations in zone -3,8  duration 89.6804 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:11: Placed locations in zone -5,3  duration 11.1472 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:11: Placed locations in zone -3,3  duration 0.5069 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:12: Saying Normal  hello
+
+[Info   : Unity Log] 05/06/2022 21:47:14: Placed locations in zone -4,2  duration 10.6398 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:14: Placed locations in zone -3,2  duration 0.5069 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:15: Saying Normal  shalom
+
+[Info   : Unity Log] 05/06/2022 21:47:18: Saying Normal  can you hear me?
+
+[Info   : Unity Log] 05/06/2022 21:47:20: Saying Normal  test
+
+[Info   : Unity Log] 05/06/2022 21:47:21: Placed locations in zone -4,0  duration 0 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:22: Placed locations in zone -2,1  duration 0.5065 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:22: Placed locations in zone -2,2  duration 9.6268 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:22: Placed locations in zone -2,4  duration 13.6799 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:22: Placed locations in zone -2,5  duration 4.56 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:22: Placed locations in zone -2,6  duration 10.1332 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:23: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 05/06/2022 21:47:24: Placed locations in zone -5,-1  duration 0.5069 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:24: Placed locations in zone -2,-1  duration 0.5066 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:25: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 05/06/2022 21:47:27: Placed locations in zone -5,-2  duration 0.5069 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:27: Placed locations in zone -4,-2  duration 2.0265 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:27: Placed locations in zone -3,-2  duration 9.6266 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:28: Placed locations in zone -2,-2  duration 9.6267 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:31: Placed locations in zone -3,-3  duration 0 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:31: Placed locations in zone -2,-3  duration 5.0667 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:31: Starting descent
+
+[Info   : Unity Log] 05/06/2022 21:47:33: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 05/06/2022 21:47:34: Placed locations in zone -1,-4  duration 17.2269 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:35: Placed locations in zone -3,-4  duration 0 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:35: Placed locations in zone -2,-4  duration 0.5066 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:35: Placed locations in zone -1,-1  duration 0 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:35: Placed locations in zone -1,2  duration 0.507 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:35: Placed locations in zone -1,3  duration 2.0266 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:37: Saying Normal  god
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Force generaeting hmap (-192.0, 0.0, -64.0)
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Force generaeting hmap (-128.0, 0.0, -64.0)
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Placed locations in zone 0,-4  duration 9.1201 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Deer x 2
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Boar x 3
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Neck x 2
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Neck x 4
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Neck x 2
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Seagal x 2
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Fish1 x 2
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Fish1 x 3
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Fish2 x 2
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Fish2 x 2
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Spawned Greyling x 1
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Force generaeting hmap (-128.0, 0.0, -128.0)
+
+[Info   : Unity Log] 05/06/2022 21:47:38: Placed locations in zone 0,-1  duration 6.08 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:39: Placed locations in zone 0,4  duration 0 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:41: Placed locations in zone 1,-4  duration 3.5449 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:41: Placed locations in zone 1,-3  duration 0 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:41: Placed locations in zone 1,-1  duration 10.1329 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:41: Force generaeting hmap (-64.0, 0.0, 128.0)
+
+[Info   : Unity Log] 05/06/2022 21:47:42: Placed locations in zone 1,1  duration 11.6535 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:42: Placed locations in zone 1,2  duration 4.0535 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:48: Placed locations in zone 3,-1  duration 0.5071 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:48: Placed locations in zone 3,0  duration 7.0932 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:48: Placed locations in zone 3,2  duration 0 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:48: Placed locations in zone 3,4  duration 6.5867 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:51: Placed locations in zone 4,-3  duration 0.507 ms
+
+[Info   : Unity Log] 05/06/2022 21:47:51: We are here
+
+[Info   : Unity Log] 05/06/2022 21:47:51: We are here
+
+[Info   : Unity Log] 05/06/2022 21:47:58: Spawned Deer x 1
+
+[Info   : Unity Log] 05/06/2022 21:47:58: Spawned Deer x 2
+
+[Info   : Unity Log] 05/06/2022 21:47:58: Spawned Boar x 3
+
+[Info   : Unity Log] 05/06/2022 21:47:58: Spawned Boar x 1
+
+[Info   : Unity Log] 05/06/2022 21:47:58: Spawned Greyling x 1
+
+[Info   : Unity Log] 05/06/2022 21:48:00: Destroying valkyrie
+
+[Info   : Unity Log] 05/06/2022 21:48:16: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 05/06/2022 21:48:18: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 05/06/2022 21:48:22: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 05/06/2022 21:48:26: Resumed music meadows at 0
+
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] 05/06/2022 21:50:49: Spawn time :1.52 ms
+
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] 05/06/2022 21:51:43: Setting selected recipe -1
+
+[Info   : Unity Log] 05/06/2022 21:51:43: UI Group status changed root = True
+
+[Info   : Unity Log] 05/06/2022 21:51:43: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/06/2022 21:51:43: UI Group status changed QuickSlotGrid = False
+
+[Info   : Unity Log] 05/06/2022 21:51:43: UI Group status changed EquipmentSlotGrid = False
+
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] 05/06/2022 21:52:05: Queue unlock msg:$msg_newitem:$item_torch
+
+[Info   : Unity Log] 05/06/2022 21:52:05: Queue unlock msg:$msg_newmaterial:$item_coins
+
+[Info   : Unity Log] 05/06/2022 21:52:10: Queue unlock msg:$msg_newmaterial:$item_stone
+
+[Info   : Unity Log] 05/06/2022 21:52:11: Queue unlock msg:$msg_newmaterial:$item_wood
+
+[Info   : Unity Log] 05/06/2022 21:52:11: Queue unlock msg:$msg_newrecipe:$item_axe_stone
+
+[Info   : Unity Log] 05/06/2022 21:52:11: Queue unlock msg:$msg_newrecipe:$item_club
+
+[Info   : Unity Log] 05/06/2022 21:52:11: Queue unlock msg:$msg_newrecipe:$item_hammer
+
+[Info   : Unity Log] 05/06/2022 21:52:11: Queue unlock msg:$msg_newrecipe:$item_tbphammer_tp
+
+[Info   : Unity Log] 05/06/2022 21:52:11: Queue unlock msg:$msg_newrecipe:$item_arrow_wood
+
+[Info   : Unity Log] 05/06/2022 21:52:44: Spawn time :0.5066 ms
+
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] 05/06/2022 21:53:19: Spawn time :1.52 ms
+
+[Info   : Unity Log] 05/06/2022 21:53:21: Queue unlock msg:$msg_newmaterial:Magic $mod_epicloot_assets_dust
+
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] 05/06/2022 21:54:30: Setting selected recipe 0
+
+[Info   : Unity Log] 05/06/2022 21:54:30: Setting selected recipe 0
+
+[Info   : Unity Log] 05/06/2022 21:54:30: UI Group status changed root = True
+
+[Info   : Unity Log] 05/06/2022 21:54:30: UI Group status changed Player = True
+
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] 05/06/2022 21:54:39: Queue unlock msg:$msg_newitem:$item_bow_huntsman
+
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] 05/06/2022 21:54:41: Setting selected recipe 0
+
+[Info   : Unity Log] 05/06/2022 21:54:41: UI Group status changed root = True
+
+[Info   : Unity Log] 05/06/2022 21:54:41: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/06/2022 21:54:44: Queue unlock msg:$msg_newitem:$item_arrow_silver
+
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] 05/06/2022 21:54:51: Setting selected recipe 0
+
+[Info   : Unity Log] 05/06/2022 21:54:51: UI Group status changed root = True
+
+[Info   : Unity Log] 05/06/2022 21:54:51: UI Group status changed Player = True
+
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] 05/06/2022 21:55:15: Setting selected recipe 0
+
+[Info   : Unity Log] 05/06/2022 21:55:15: UI Group status changed root = True
+
+[Info   : Unity Log] 05/06/2022 21:55:15: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/06/2022 21:55:19: Setting selected recipe 0
+
+[Info   : Unity Log] 05/06/2022 21:55:19: UI Group status changed root = True
+
+[Info   : Unity Log] 05/06/2022 21:55:19: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/06/2022 21:55:38: Queue unlock msg:$msg_newitem:Cheat sword
+
+[Info   : Unity Log] CustomWeaponStats pre damage 10000
+[Info   : Unity Log] CustomWeaponStats post damage 10000
+[Info   : Unity Log] CustomWeaponStats pre damage 10000
+[Info   : Unity Log] CustomWeaponStats post damage 10000
+[Info   : Unity Log] CustomWeaponStats pre damage 10000
+[Info   : Unity Log] CustomWeaponStats post damage 10000
+[Info   : Unity Log] CustomWeaponStats pre damage 10000
+[Info   : Unity Log] CustomWeaponStats post damage 10000
+[Info   : Unity Log] 05/06/2022 21:55:45: Setting selected recipe 0
+
+[Info   : Unity Log] 05/06/2022 21:55:45: UI Group status changed root = True
+
+[Info   : Unity Log] 05/06/2022 21:55:45: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/06/2022 21:56:18: Setting selected recipe 0
+
+[Info   : Unity Log] 05/06/2022 21:56:18: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/06/2022 21:56:18: UI Group status changed root = True
+
+[Info   : Unity Log] 05/06/2022 21:56:18: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/06/2022 21:56:19: Setting selected recipe 0
+
+[Info   : Unity Log] 05/06/2022 21:56:19: UI Group status changed root = True
+
+[Info   : Unity Log] 05/06/2022 21:56:19: UI Group status changed Player = True
+
+[Info   : Unity Log] RecipeCustomization Recipe not found for item Cheat sword!
+[Info   : Unity Log] RecipeCustomization Recipe not found for item $item_axe1h_01_fa!
+[Info   : Unity Log] 05/06/2022 21:58:11: Spawned Greyling x 1
+
+[Info   : Unity Log] RecipeCustomization Recipe not found for item RRRN_SvartalfrArcher_Custom_SwordIron_1!
+[Info   : Unity Log] RecipeCustomization Recipe not found for item <color=Yellow>Forgedscale</color>!
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Item FlametalBar not found!
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $pp_alchemy_table
+[Info   : Unity Log] RecipeCustomization got crafting station $pp_alchemy_table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $pp_alchemy_table
+[Info   : Unity Log] RecipeCustomization got crafting station $pp_alchemy_table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $pp_alchemy_table
+[Info   : Unity Log] RecipeCustomization got crafting station $pp_alchemy_table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Item opcauldron not found!
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Griddle
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_cauldron
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_cauldron
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_workbench
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Item rk_griddle not found!
+[Info   : Unity Log] RecipeCustomization Item rk_grill not found!
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Item rk_oven not found!
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
+[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_forge
+[Info   : Unity Log] RecipeCustomization got crafting station $piece_forge
+[Info   : Unity Log] RecipeCustomization Recipe not found for item <color=Yellow>Forgedscale</color>!
+[Info   : Unity Log] 05/06/2022 22:06:22: Uncompressed size 8388617
+
+[Info   : Unity Log] 05/06/2022 22:06:22: Compressed size 8366
+
+[Info   : Unity Log] 05/06/2022 22:06:22: clone 38
+
+[Info   : Unity Log] 05/06/2022 22:07:55: Stopped music meadows at 3002439
+
+[Info   : Unity Log] 05/06/2022 22:10:36: Spawned Deer x 1
+
+[Info   : Unity Log] 05/06/2022 22:12:21: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 05/06/2022 22:12:22: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 05/06/2022 22:12:23: Game - OnApplicationQuit
+
+[Info   : Unity Log] 05/06/2022 22:12:23: Shuting down
+
+[Info   : Unity Log] 05/06/2022 22:12:23: Uncompressed size 8388617
+
+[Info   : Unity Log] 05/06/2022 22:12:23: Compressed size 8366
 
 [Warning:WackysDatabase] Logoff? So reset - character will look empty if using clone gear
 [Info   : Unity Log] WackysDatabase All cloned Objects destoryed
-[Info   : Unity Log] 05/02/2022 06:48:41: ZNet Shutdown
+[Info   : Unity Log] 05/06/2022 22:12:23: ZNet Shutdown
 
-[Info   : Unity Log] 05/02/2022 06:48:41: clone 16
+[Info   : Unity Log] 05/06/2022 22:12:23: clone 30
 
-[Info   : Unity Log] 05/02/2022 06:48:41: Sending disconnect msg
+[Info   : Unity Log] 05/06/2022 22:12:23: Sending disconnect msg
 
-[Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 5000
-[Info   : Unity Log] 05/02/2022 06:48:44: ZNet OnDestroy
+[Info   : Unity Log] 05/06/2022 22:12:23: Disposing socket
 
-[Info   : Unity Log] 05/02/2022 06:48:44: Net scene destroyed
+[Info   : Unity Log] 05/06/2022 22:12:23: Stopping listening socket
 
-[Warning: Unity Log] 05/02/2022 06:48:45: Local player destroyed
+[Info   : Unity Log] 05/06/2022 22:12:23: Last socket, unregistering callback
+
+[Info   : Unity Log] 05/06/2022 22:12:23: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 0
+[Info   : Unity Log] 05/06/2022 22:12:26: Steam manager on destroy
+
+[Info   : Unity Log] 05/06/2022 22:12:27: ZNet OnDestroy
+
+[Info   : Unity Log] 05/06/2022 22:12:27: Net scene destroyed
+
+[Warning: Unity Log] 05/06/2022 22:12:27: Local player destroyed
 
 [Info   : Unity Log] CustomArmorStats Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] CustomArmorStats Adding frost immune and ignore
@@ -2414,3 +3549,4 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
 [Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
+[Warning:WackysDatabase] Calling the Destoryer of Worlds -End Game
