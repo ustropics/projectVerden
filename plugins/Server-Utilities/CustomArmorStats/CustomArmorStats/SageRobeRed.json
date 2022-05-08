@@ -2,6 +2,6 @@
     "name": "SageRobeRed",
     "armor": 10.0,
     "armorPerLevel": 2.0,
-    "movementModifier": -10.0,
+    "movementModifier": 0.1,
     "damageModifiers": ["Fire:Resistant"]
 }

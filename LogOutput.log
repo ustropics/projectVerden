@@ -57,28 +57,28 @@
 [Info   :   BepInEx] Loading [Recipe Customization 0.5.2]
 [Info   :   BepInEx] Loading [Terrain Reset 0.7.0]
 [Info   :   BepInEx] Loading [VALKEA 1.0.0]
-[Info   : Unity Log] 05/08/2022 05:54:01: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:01:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:54:01: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:01:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:54:01: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:01:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:54:01: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:01:42: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Custom Raids 1.5.3]
 [Info   :Custom Raids] Loading configurations...
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.5]
-[Info   : Unity Log] 05/08/2022 05:54:01: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:01:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:54:01: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:01:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:54:01: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:01:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:54:01: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:01:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:54:01: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:01:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:54:01: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:01:43: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Project Auga 1.0.10]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
@@ -413,7 +413,7 @@
 [Info   : Unity Log] WackysDatabase Loaded files
 [Info   :   BepInEx] Loading [MassFarming 1.0]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 05/08/2022 05:55:05: Starting to load scene:start
+[Info   : Unity Log] 05/08/2022 06:02:47: Starting to load scene:start
 
 [Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
 [Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
@@ -428,94 +428,94 @@
 [Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
 [Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:54: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:55: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Using steam_appid.txt
+[Info   : Unity Log] 05/08/2022 06:02:55: Using steam_appid.txt
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Using steam APPID:892970
+[Info   : Unity Log] 05/08/2022 06:02:55: Using steam APPID:892970
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 05/08/2022 06:02:56: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Steam initialized, persona:Phortwenty
+[Info   : Unity Log] 05/08/2022 06:02:56: Steam initialized, persona:Phortwenty
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Using default prefs
+[Info   : Unity Log] 05/08/2022 06:02:56: Using default prefs
 
-[Info   : Unity Log] 05/08/2022 05:55:15: Valheim version:0.208.1@0.9.9.8
+[Info   : Unity Log] 05/08/2022 06:02:56: Valheim version:0.208.1@0.9.9.8
 
 [Info   :Jotunn.Managers.CommandManager] Adding 3 commands to the Console
-[Info   : Unity Log] 05/08/2022 05:55:15: Render threading mode:MultiThreaded
+[Info   : Unity Log] 05/08/2022 06:02:56: Render threading mode:MultiThreaded
 
-[Warning: Unity Log] 05/08/2022 05:55:16: Missing audio clip in music respawn
+[Warning: Unity Log] 05/08/2022 06:02:56: Missing audio clip in music respawn
 
-[Info   : Unity Log] 05/08/2022 05:55:16: Checking for installed DLCs
+[Info   : Unity Log] 05/08/2022 06:02:56: Checking for installed DLCs
 
-[Info   : Unity Log] 05/08/2022 05:55:16: DLC:beta installed:False
+[Info   : Unity Log] 05/08/2022 06:02:56: DLC:beta installed:False
 
 [Info   : Unity Log] CustomTextures Clutter system awake
 [Info   : Unity Log] CustomTextures Checking 17 clutters
 [Info   : Unity Log] CustomTextures Clutter System RunTime 00:00:00.00
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 05/08/2022 05:55:18: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/08/2022 06:02:58: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/08/2022 05:55:18: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/08/2022 06:02:58: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Warning:RRRMonsters] True
@@ -1255,51 +1255,55 @@
 [Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.70
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   : Unity Log] 05/08/2022 05:55:28: UI Group status changed Menu = True
+[Info   : Unity Log] 05/08/2022 06:03:08: UI Group status changed Menu = False
 
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   : Unity Log] 05/08/2022 05:55:29: Failed to find item prefab ArrowBone
+[Info   : Unity Log] 05/08/2022 06:03:09: Failed to find item prefab ArrowBone
 
-[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   : Unity Log] 05/08/2022 05:55:31: UI Group status changed Menu = True
+[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/08/2022 06:03:12: UI Group status changed Menu = True
 
-[Info   : Unity Log] 05/08/2022 05:55:32: FOund selected StartGame
+[Info   : Unity Log] 05/08/2022 06:05:53: FOund selected StartGame
 
-[Info   : Unity Log] 05/08/2022 05:55:32: show character selection
+[Info   : Unity Log] 05/08/2022 06:05:53: show character selection
 
-[Info   : Unity Log] 05/08/2022 05:55:34: OnCharacterStart
+[Info   : Unity Log] 05/08/2022 06:05:56: OnCharacterStart
 
-[Warning: Unity Log] 05/08/2022 05:55:35: Censored server name 'Vikingsandshit' -> 'Vikingsand****'
+[Warning: Unity Log] 05/08/2022 06:05:57: Censored server name 'SHITCAN' -> '****CAN'
 
-[Warning: Unity Log] 05/08/2022 05:55:35: Censored server name 'Westwatch' -> 'Wes****ch'
+[Warning: Unity Log] 05/08/2022 06:05:57: Censored server name 'Vikingsandshit' -> 'Vikingsand****'
 
-[Info   : Unity Log] 05/08/2022 05:55:36: UI Group status changed Panel = False
+[Warning: Unity Log] 05/08/2022 06:05:58: Censored server name 'Westwatch' -> 'Wes****ch'
 
-[Info   : Unity Log] 05/08/2022 05:55:37: connect to ip:104.223.101.56 port:27090
+[Info   : Unity Log] 05/08/2022 06:05:58: UI Group status changed Panel = False
 
-[Info   : Unity Log] 05/08/2022 05:55:39: Steam initialized, persona:Phortwenty
+[Info   : Unity Log] 05/08/2022 06:05:58: connect to ip:104.223.101.56 port:27090
 
-[Info   : Unity Log] 05/08/2022 05:55:39: Using default prefs
+[Info   : Unity Log] 05/08/2022 06:05:58: Serverlist does not contain selected server, clearing
+
+[Info   : Unity Log] 05/08/2022 06:06:00: Steam initialized, persona:Phortwenty
+
+[Info   : Unity Log] 05/08/2022 06:06:00: Using default prefs
 
 [Info   :Jotunn.Managers.CommandManager] Adding 3 commands to the Console
-[Info   : Unity Log] 05/08/2022 05:55:39: Loading player profile phort
+[Info   : Unity Log] 05/08/2022 06:06:00: Loading player profile phort
 
 [Info   : Unity Log] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
-[Info   : Unity Log] 05/08/2022 05:55:39: Zonesystem Awake 532
+[Info   : Unity Log] 05/08/2022 06:06:00: Zonesystem Awake 10116
 
-[Info   : Unity Log] 05/08/2022 05:55:39: DungeonDB Awake 532
+[Info   : Unity Log] 05/08/2022 06:06:00: DungeonDB Awake 10116
 
-[Info   : Unity Log] 05/08/2022 05:55:39: Steam initialized, persona:Phortwenty
+[Info   : Unity Log] 05/08/2022 06:06:00: Steam initialized, persona:Phortwenty
 
 [Info   : Unity Log] CustomTextures ZNetScene awake
 [Info   : Unity Log] CustomTextures Checking 2526 prefabs
-[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:01.81
+[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:01.94
 [Info   : Unity Log] CustomTextures Reloading Environment textures
 [Info   : Unity Log] CustomTextures Reloading 9 Environment textures
 [Info   :Jotunn.Managers.PrefabManager] Adding 756 custom prefabs to the ZNetScene
@@ -2320,11 +2324,11 @@
 [Info   : Unity Log] [Better Trader] Loaded conversion [<color=Yellow>Rune of Recall</color>]/[ColoryellowruneOfRecallcolor] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [<color=Yellow>Rune of Travel</color>]/[ColoryellowruneOfTravelcolor] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [<color=Yellow>Rune of Warmth</color>]/[ColoryellowruneOfWarmthcolor] and added it to ObjectDBCache!!
-[Info   : Unity Log] 05/08/2022 05:55:48: Audioman already exist, destroying self
+[Info   : Unity Log] 05/08/2022 06:06:08: Audioman already exist, destroying self
 
-[Info   : Unity Log] 05/08/2022 05:55:48: Checking for installed DLCs
+[Info   : Unity Log] 05/08/2022 06:06:08: Checking for installed DLCs
 
-[Info   : Unity Log] 05/08/2022 05:55:48: DLC:beta installed:False
+[Info   : Unity Log] 05/08/2022 06:06:08: DLC:beta installed:False
 
 [Info   : Unity Log] [Better Trader] Initializing UI!
 [Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
@@ -2343,12 +2347,12 @@ InstantiatePrefab:Awake()
 [Info   :Smart Containers Mod] Cleaned up UI extensions.
 [Info   : Unity Log] CustomTextures Starting ZoneSystem Location prefab replacement
 [Info   : Unity Log] CustomTextures ZoneSystem Locations RunTime 00:00:00.00
-[Info   : Unity Log] 05/08/2022 05:55:52: Zonesystem Start 532
+[Info   : Unity Log] 05/08/2022 06:06:12: Zonesystem Start 10116
 
 [Message:Custom Raids] Writing random events (raids) for specific locations, eg. caves, to file C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\Debug\default_location_random_events.txt.
-[Info   : Unity Log] 05/08/2022 05:55:52: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+[Info   : Unity Log] 05/08/2022 06:06:12: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
 
-[Info   : Unity Log] 05/08/2022 05:55:52: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+[Info   : Unity Log] 05/08/2022 06:06:12: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
 
 [Warning:Jotunn.Managers.PrefabManager] Prefab 'Pickable_Pepper' already exists
 [Warning:Jotunn.Managers.PrefabManager] Prefab 'Pickable_Bell_Pepper' already exists
@@ -2373,12 +2377,12 @@ InstantiatePrefab:Awake()
 [Info   :jtv_biomes.jtv_biomes] Adding Locations
 [Info   :Jotunn.Managers.ZoneManager] Injecting 36 custom locations
 [Info   :Jotunn.Managers.ZoneManager] Injecting 19 custom vegetation
-[Info   : Unity Log] 05/08/2022 05:55:53: DungeonDB Start 532
+[Info   : Unity Log] 05/08/2022 06:06:13: DungeonDB Start 10116
 
-[Info   : Unity Log] 05/08/2022 05:55:53: Connecting to server 104.223.101.56:27090
+[Info   : Unity Log] 05/08/2022 06:06:13: Connecting to server 104.223.101.56:27090
 
 [Message:Better Networking] Setting SendBufferSize to 5242880 (dedicated:False)
-[Info   : Unity Log] 05/08/2022 05:55:53: Starting to connect to 104.223.101.56:27090
+[Info   : Unity Log] 05/08/2022 06:06:13: Starting to connect to 104.223.101.56:27090
 
 [Info   : Unity Log] [Better Trader] Writing EE600D948EA2063568F1C96BA4584F5C to zPackage
 [Info   :WackysDatabase] Invoking version check
@@ -2395,15 +2399,15 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Message:Better Networking] Compression: Version received from [server]: 2
 [Message:Better Networking] Compression: Compression compatible with [server] (2)
 [Message:Better Networking] Compression: Sending [server] our compression status: (1)
-[Info   : Unity Log] 05/08/2022 05:55:54: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[Info   : Unity Log] 05/08/2022 06:06:14: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
 
-[Info   : Unity Log] 05/08/2022 05:55:54: New connection
+[Info   : Unity Log] 05/08/2022 06:06:14: New connection
 
-[Info   : Unity Log] 05/08/2022 05:55:54: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+[Info   : Unity Log] 05/08/2022 06:06:14: Got status changed msg k_ESteamNetworkingConnectionState_Connected
 
-[Info   : Unity Log] 05/08/2022 05:55:54: Connected
+[Info   : Unity Log] 05/08/2022 06:06:14: Connected
 
-[Info   : Unity Log] 05/08/2022 05:55:54: Got connection SteamID 90158888358678530
+[Info   : Unity Log] 05/08/2022 06:06:14: Got connection SteamID 90158888358678530
 
 [Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
 [Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
@@ -9389,7 +9393,7 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Info   : Unity Log] [Better Trader] [Rrrnwildbanditgiantarmorleatherchest]
 [Info   : Unity Log] [Better Trader] 
 [Info   : Unity Log] [Better Trader] [Rrrnwildbanditgiantarmorleatherchest] missing! You're either missing a mod or this item wasn't added to Better Trader's ObjectDBCache properly!
-[Info   : Unity Log] 05/08/2022 05:56:05: Exception in ZRpc::HandlePackage: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.EndOfStreamException: Unable to read beyond the end of the stream.
+[Info   : Unity Log] 05/08/2022 06:06:27: Exception in ZRpc::HandlePackage: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.EndOfStreamException: Unable to read beyond the end of the stream.
   at System.IO.__Error.EndOfFile () [0x0000a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
   at System.IO.BinaryReader.ReadString () [0x000a2] in <eae584ce26bc40229c1b1aa476bfa589>:0 
   at ZPackage.ReadString () [0x00000] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
@@ -9502,24 +9506,18 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Info   : Unity Log] WackysDatabase Setting Recipe for TridentDeepAbyss
 [Info   : Unity Log] Received 3 configs and 1 custom values from the server for mod WackysDatabase
 [Info   : Unity Log] Received 29 configs and 1 custom values from the server for mod RRRCore
-[Info   : Unity Log] 05/08/2022 05:56:05: VERSION check their:0.208.1@0.9.9.8  mine:0.208.1@0.9.9.8
+[Info   : Unity Log] 05/08/2022 06:06:27: VERSION check their:0.208.1@0.9.9.8  mine:0.208.1@0.9.9.8
 
-[Info   : Unity Log] 05/08/2022 05:56:10: -------------------- SENDING VPLUGCONFIGSYNC REQUEST
+[Info   : Unity Log] 05/08/2022 06:06:32: -------------------- SENDING VPLUGCONFIGSYNC REQUEST
 
-[Info   : Unity Log] 05/08/2022 05:56:10: client got keys 8
+[Info   : Unity Log] 05/08/2022 06:06:32: client got keys 8
 
-[Info   : Unity Log] 05/08/2022 05:56:10: client got location icons
+[Info   : Unity Log] 05/08/2022 06:06:32: client got location icons
 
-[Info   : Unity Log] 05/08/2022 05:56:10: Icons:2
+[Info   : Unity Log] 05/08/2022 06:06:32: Icons:2
 
 [Info   :Jotunn.Managers.SynchronizationManager+<AdminRPC_OnClientReceive>d__30] Received admin status from server: No Admin
 [Message:Boneappetit.BoneAppetit] Initial Config sync event received
-[Info   : Unity Log] 05/08/2022 05:56:10: Session auth respons callback
-
-[Info   : Unity Log] 05/08/2022 05:56:22: Unpacking compressed mapdata 11443
-
-[Info   : Unity Log] 05/08/2022 05:56:25: Starting respawn
-
 [Info   : Unity Log] Loading config section AdvancedBuildingMode
 [Info   : Unity Log]  Loading key enterAdvancedBuildingMode
 [Warning: Unity Log]  Could not load data of type UnityEngine.KeyCode for key enterAdvancedBuildingMode
@@ -9748,80 +9746,847 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Chat
 [Info   : Unity Log]  Section not enabled
-[Info   : Unity Log] 05/08/2022 05:56:27: Successfully synced VPlus configuration from server.
+[Info   : Unity Log] 05/08/2022 06:06:34: Successfully synced VPlus configuration from server.
 
-[Info   : Unity Log] 05/08/2022 05:56:27: tip:$loadscreen_tip13
+[Info   : Unity Log] 05/08/2022 06:06:34: Session auth respons callback
 
-[Info   : Unity Log] 05/08/2022 05:56:30: Random event set:RRR_EvGhosts_T3
+[Info   : Unity Log] 05/08/2022 06:06:46: Unpacking compressed mapdata 11443
 
-[Info   : Unity Log] 05/08/2022 05:56:34: Force generaeting hmap (1600.0, 0.0, -2368.0)
+[Info   : Unity Log] 05/08/2022 06:06:49: Starting respawn
 
-[Info   : Unity Log] 05/08/2022 05:56:34: Force generaeting hmap (1344.0, 0.0, -2304.0)
+[Info   : Unity Log] 05/08/2022 06:06:49: tip:$loadscreen_tip07
 
-[Info   : Unity Log] 05/08/2022 05:56:34: Force generaeting hmap (1408.0, 0.0, -2304.0)
+[Info   : Unity Log] 05/08/2022 06:06:53: Random event set:RRR_EvGhosts_T3
 
-[Info   : Unity Log] 05/08/2022 05:56:34: Force generaeting hmap (1600.0, 0.0, -2304.0)
+[Info   : Unity Log] 05/08/2022 06:06:55: Force generaeting hmap (1600.0, 0.0, -2368.0)
 
-[Info   : Unity Log] 05/08/2022 05:56:35: Spawned after 8.019994
+[Info   : Unity Log] 05/08/2022 06:06:55: Force generaeting hmap (1344.0, 0.0, -2304.0)
+
+[Info   : Unity Log] 05/08/2022 06:06:55: Force generaeting hmap (1408.0, 0.0, -2304.0)
+
+[Info   : Unity Log] 05/08/2022 06:06:55: Force generaeting hmap (1472.0, 0.0, -2304.0)
+
+[Info   : Unity Log] 05/08/2022 06:06:55: Force generaeting hmap (1600.0, 0.0, -2304.0)
+
+[Info   : Unity Log] 05/08/2022 06:06:57: Spawned after 8.019994
 
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :      VNEI] Index prefabs
 [Info   :      VNEI] Index recipes
 [Info   :      VNEI] Index prefabs recipes
 [Info   :      VNEI] Loaded 2398 items
-[Info   : Unity Log] 05/08/2022 05:56:36: Minimap: Adding unique location (63.1, 34.2, -186.6)
+[Info   : Unity Log] 05/08/2022 06:06:58: Minimap: Adding unique location (63.1, 34.2, -186.6)
 
-[Info   : Unity Log] 05/08/2022 05:56:36: Minimap: Adding unique location (-752.4, 31.7, 1586.1)
+[Info   : Unity Log] 05/08/2022 06:06:58: Minimap: Adding unique location (-752.4, 31.7, 1586.1)
 
-[Info   : Unity Log] 05/08/2022 05:56:37: Added 1 fuel($item_wood) in $piece_fire
+[Info   : Unity Log] 05/08/2022 06:06:58: Added 1 fuel($item_wood) in $piece_fire
 
-[Info   : Unity Log] 05/08/2022 05:56:38: Resumed music meadows at 0
+[Info   : Unity Log] 05/08/2022 06:07:00: Resumed music meadows at 0
 
-[Info   : Unity Log] 05/08/2022 05:56:42: client got keys 8
+[Info   : Unity Log] 05/08/2022 06:07:04: client got keys 8
 
-[Info   : Unity Log] 05/08/2022 05:56:48: Setting selected recipe 0
+[Info   : Unity Log] 05/08/2022 06:07:16: Stopped music meadows at 711943
 
-[Info   : Unity Log] 05/08/2022 05:56:48: Setting selected recipe 0
+[Info   : Unity Log] 05/08/2022 06:07:17: Resumed music blackforest at 0
 
-[Info   : Unity Log] 05/08/2022 05:56:48: UI Group status changed root = True
+[Info   : Unity Log] 05/08/2022 06:07:33: Stopped music blackforest at 709984
 
-[Info   : Unity Log] 05/08/2022 05:56:49: UI Group status changed Player = True
+[Info   : Unity Log] 05/08/2022 06:07:33: Resumed music meadows at 711943
 
-[Info   : Unity Log] 05/08/2022 05:56:49: UI Group status changed QuickSlotGrid = False
+[Info   : Unity Log] 05/08/2022 06:07:47: Stopped music meadows at 1347793
 
-[Info   : Unity Log] 05/08/2022 05:56:49: UI Group status changed EquipmentSlotGrid = False
+[Info   : Unity Log] 05/08/2022 06:07:59: Setting selected recipe 0
 
-[Info   : Unity Log] 05/08/2022 05:56:51: Stopped music meadows at 533547
+[Info   : Unity Log] 05/08/2022 06:07:59: UI Group status changed root = True
 
-[Info   : Unity Log] 05/08/2022 05:56:51: Resumed music blackforest at 0
+[Info   : Unity Log] 05/08/2022 06:07:59: UI Group status changed Player = True
 
-[Info   : Unity Log] 05/08/2022 05:56:53: Setting selected recipe 18
+[Info   : Unity Log] 05/08/2022 06:07:59: UI Group status changed QuickSlotGrid = False
 
-[Info   : Unity Log] 05/08/2022 05:56:58: Setting selected recipe 20
+[Info   : Unity Log] 05/08/2022 06:07:59: UI Group status changed EquipmentSlotGrid = False
 
-[Info   : Unity Log] 05/08/2022 05:57:05: Queue unlock msg:$msg_newitem:<color=Yellow>Rune of Travel</color>
+[Info   : Unity Log] 05/08/2022 06:08:05: Setting selected recipe 0
 
-[Info   : Unity Log] 05/08/2022 05:57:05: Setting selected recipe 20
+[Info   : Unity Log] 05/08/2022 06:08:05: UI Group status changed root = True
 
-[Info   : Unity Log] 05/08/2022 05:57:07: Item is not in this container
+[Info   : Unity Log] 05/08/2022 06:08:05: Player 1647686443 wants to open OH_Seedbag(Clone)   im: 1647686443
 
-[Info   : Unity Log] 05/08/2022 05:57:07: Item is not in this container
+[Info   : Unity Log] 05/08/2022 06:08:05: Setting selected recipe 0
 
-[Info   : Unity Log] 05/08/2022 05:57:07: Item is not in this container
+[Error  :Smart Containers Mod] Failed to properly patch GUI with additional buttons: System.NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at SmartContainers.GuiFactory.AddContainerGuiButton (System.String btnObjName, System.String text, UnityEngine.Vector2 size, UnityEngine.Vector2 pos) [0x00007] in <68d173bddc1e444dbece2cc9a69b04fb>:0 
+  at SmartContainers.Gui_Patch.AddCreateGroupBtn (InventoryGui __instance) [0x00030] in <68d173bddc1e444dbece2cc9a69b04fb>:0 
+  at SmartContainers.Gui_Patch.InitButtons (InventoryGui __instance) [0x00038] in <68d173bddc1e444dbece2cc9a69b04fb>:0 
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Info   :Smart Containers Mod] Initialized UI extensions.
+[Info   : Unity Log] 05/08/2022 06:08:05: UI Group status changed Player = True
 
-[Info   : Unity Log] 05/08/2022 05:57:07: Setting selected recipe 20
+[Info   : Unity Log] 05/08/2022 06:08:06: Queue unlock msg:$item_stone:Routed to another Chest
 
-[Info   : Unity Log] 05/08/2022 05:57:20: Added 1 fuel($item_wood) in $piece_fire
+[Info   : Unity Log] 05/08/2022 06:08:07: Queue unlock msg:$item_stone:Routed to another Chest
 
-[Info   : Unity Log] 05/08/2022 05:57:29: Setting selected recipe 20
+[Info   : Unity Log] 05/08/2022 06:08:08: Queue unlock msg:$salt_name:Routed to another Chest
 
-[Info   : Unity Log] 05/08/2022 05:57:29: UI Group status changed root = True
+[Info   : Unity Log] 05/08/2022 06:08:10: UI Group status changed root = False
 
-[Info   : Unity Log] 05/08/2022 05:57:30: UI Group status changed Player = True
+[Info   : Unity Log] 05/08/2022 06:08:10: UI Group status changed Player = False
 
-[Info   : Unity Log] 05/08/2022 05:57:48: Stopped music blackforest at 2505337
+[Info   : Unity Log] 05/08/2022 06:08:12: Spawned FireFlies x 1
 
-[Info   : Unity Log] 05/08/2022 05:57:48: Resumed music meadows at 533547
+[Info   : Unity Log] 05/08/2022 06:08:15: UI Group status changed root = True
 
-[Info   : Unity Log] 05/08/2022 05:59:54: client got keys 8
+[Info   : Unity Log] 05/08/2022 06:08:15: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/08/2022 06:08:15: Setting selected recipe 0
+
+[Info   : Unity Log] 05/08/2022 06:08:16: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 05/08/2022 06:08:20: Spawned Greydwarf x 2
+
+[Info   : Unity Log] 05/08/2022 06:08:20: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/08/2022 06:08:20: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/08/2022 06:08:20: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/08/2022 06:08:23: Loading dungeon
+
+[Info   : Unity Log] 05/08/2022 06:08:23: Dungeon loaded 28
+
+[Info   : Unity Log] 05/08/2022 06:08:23: Dungeon load time 27.6066 ms
+
+[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/08/2022 06:08:28: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] 05/08/2022 06:08:33: Resumed music blackforest at 709984
+
+[Info   : Unity Log] 05/08/2022 06:08:43: Player 1509251777 wants to open piece_chest_wood(Clone)   im: 1647686443
+
+[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/08/2022 06:09:03: Player 1509251777 wants to open woodShed(Clone)   im: 1647686443
+
+[Info   : Unity Log] 05/08/2022 06:09:14: Player 1509251777 wants to open woodShed(Clone)   im: 1647686443
+
+[Info   : Unity Log] 05/08/2022 06:09:22: Loading dungeon
+
+[Info   : Unity Log] 05/08/2022 06:09:22: Dungeon loaded 28
+
+[Info   : Unity Log] 05/08/2022 06:09:22: Dungeon load time 25.0281 ms
+
+[Info   : Unity Log] 05/08/2022 06:09:25: Loading dungeon
+
+[Info   : Unity Log] 05/08/2022 06:09:25: Dungeon loaded 28
+
+[Info   : Unity Log] 05/08/2022 06:09:25: Dungeon load time 24.3514 ms
+
+[Info   : Unity Log] 05/08/2022 06:09:47: Loading dungeon
+
+[Info   : Unity Log] 05/08/2022 06:09:47: Dungeon loaded 28
+
+[Info   : Unity Log] 05/08/2022 06:09:47: Dungeon load time 24.5442 ms
+
+[Info   : Unity Log] 05/08/2022 06:09:52: Added 1 fuel($item_wood) in $piece_fire
+
+[Info   : Unity Log] 05/08/2022 06:10:21: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 05/08/2022 06:10:21: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/08/2022 06:10:21: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/08/2022 06:10:21: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/08/2022 06:11:15: Exception in ZRpc::HandlePackage: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.EndOfStreamException: Unable to read beyond the end of the stream.
+  at System.IO.__Error.EndOfFile () [0x0000a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.IO.MemoryStream.InternalReadInt32 () [0x00034] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.MemoryStream.InternalReadInt32()
+  at System.IO.BinaryReader.ReadInt32 () [0x00015] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at ZPackage.ReadInt () [0x00000] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+  at EpicLoot.PlayerKnown.PlayerKnownManager.LoadKnownMats (System.Int64 sender, ZPackage pkg, System.Collections.Generic.Dictionary`2[TKey,TValue] outDict) [0x0000e] in <c721b9fc860a402996cf4fc2e73a48de>:0 
+  at EpicLoot.PlayerKnown.PlayerKnownManager.LoadServerKnownMats (System.Collections.Generic.Dictionary`2[TKey,TValue] dict, ZPackage pkg) [0x0001b] in <c721b9fc860a402996cf4fc2e73a48de>:0 
+  at EpicLoot.PlayerKnown.PlayerKnownManager.RPC_ServerKnownMats (System.Int64 sender, ZPackage pkg) [0x00001] in <c721b9fc860a402996cf4fc2e73a48de>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at RoutedMethod`1[T].Invoke (System.Int64 rpc, ZPackage pkg) [0x0001d] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+  at ZRoutedRpc.HandleRoutedRPC (ZRoutedRpc+RoutedRPCData data) [0x00022] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+  at ZRoutedRpc.RPC_RoutedRPC (ZRpc rpc, ZPackage pkg) [0x00023] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at ZRpc+RpcMethod`1[T].Invoke (ZRpc rpc, ZPackage pkg) [0x0001d] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+  at (wrapper dynamic-method) ZRpc.DMD<ZRpc::HandlePackage>(ZRpc,ZPackage)
+  at ZRpc.Update (System.Single dt) [0x0003e] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+
+[Info   : Unity Log] 05/08/2022 06:11:15: Exception in ZRpc::HandlePackage: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.EndOfStreamException: Unable to read beyond the end of the stream.
+  at System.IO.__Error.EndOfFile () [0x0000a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.IO.MemoryStream.InternalReadInt32 () [0x00034] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.MemoryStream.InternalReadInt32()
+  at System.IO.BinaryReader.ReadInt32 () [0x00015] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at ZPackage.ReadInt () [0x00000] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+  at EpicLoot.PlayerKnown.PlayerKnownManager.LoadKnownRecipes (System.Int64 sender, ZPackage pkg, System.Collections.Generic.Dictionary`2[TKey,TValue] outDict) [0x0000e] in <c721b9fc860a402996cf4fc2e73a48de>:0 
+  at EpicLoot.PlayerKnown.PlayerKnownManager.LoadServerKnownRecipes (System.Collections.Generic.Dictionary`2[TKey,TValue] dict, ZPackage pkg) [0x0001b] in <c721b9fc860a402996cf4fc2e73a48de>:0 
+  at EpicLoot.PlayerKnown.PlayerKnownManager.RPC_ServerKnownRecipes (System.Int64 sender, ZPackage pkg) [0x00001] in <c721b9fc860a402996cf4fc2e73a48de>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at RoutedMethod`1[T].Invoke (System.Int64 rpc, ZPackage pkg) [0x0001d] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+  at ZRoutedRpc.HandleRoutedRPC (ZRoutedRpc+RoutedRPCData data) [0x00022] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+  at ZRoutedRpc.RPC_RoutedRPC (ZRpc rpc, ZPackage pkg) [0x00023] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at ZRpc+RpcMethod`1[T].Invoke (ZRpc rpc, ZPackage pkg) [0x0001d] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+  at (wrapper dynamic-method) ZRpc.DMD<ZRpc::HandlePackage>(ZRpc,ZPackage)
+  at ZRpc.Update (System.Single dt) [0x0003e] in <843a49d5cb48439fa5a62a7bcd81c2a9>:0 
+
+[Info   : Unity Log] 05/08/2022 06:11:49: Stopped music blackforest at 266952
+
+[Info   : Unity Log] 05/08/2022 06:11:49: Resumed music blackforest at 266952
+
+[Info   : Unity Log] 05/08/2022 06:11:53: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/08/2022 06:11:57: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 05/08/2022 06:11:57: client got keys 8
+
+[Info   : Unity Log] 05/08/2022 06:11:57: Loading dungeon
+
+[Info   : Unity Log] 05/08/2022 06:11:57: Dungeon loaded 28
+
+[Info   : Unity Log] 05/08/2022 06:11:57: Dungeon load time 24.6782 ms
+
+[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/08/2022 06:12:01: Loading dungeon
+
+[Info   : Unity Log] 05/08/2022 06:12:01: Dungeon loaded 28
+
+[Info   : Unity Log] 05/08/2022 06:12:01: Dungeon load time 26.4423 ms
+
+[Info   : Unity Log] 05/08/2022 06:12:15: Loading dungeon
+
+[Info   : Unity Log] 05/08/2022 06:12:15: Dungeon loaded 28
+
+[Info   : Unity Log] 05/08/2022 06:12:15: Dungeon load time 23.71 ms
+
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 14
+[Info   : Unity Log] CustomWeaponStats post damage 14
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] 05/08/2022 06:16:53: Stopped music blackforest at 4629696
+
+[Info   : Unity Log] 05/08/2022 06:17:14: Loading dungeon
+
+[Info   : Unity Log] 05/08/2022 06:17:14: Dungeon loaded 28
+
+[Info   : Unity Log] 05/08/2022 06:17:14: Dungeon load time 27.9419 ms
+
+[Info   : Unity Log] 05/08/2022 06:17:18: Loading dungeon
+
+[Info   : Unity Log] 05/08/2022 06:17:19: Dungeon loaded 28
+
+[Info   : Unity Log] 05/08/2022 06:17:19: Dungeon load time 26.7013 ms
+
+[Info   : Unity Log] 05/08/2022 06:17:27: Resumed music blackforest at 4629696
+
+[Info   : Unity Log] 05/08/2022 06:17:49: Setting selected recipe 0
+
+[Info   : Unity Log] 05/08/2022 06:17:50: UI Group status changed root = True
+
+[Info   : Unity Log] 05/08/2022 06:17:50: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/08/2022 06:17:53: Setting selected recipe 14
+
+[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/08/2022 06:18:24: Setting selected recipe 0
+
+[Info   : Unity Log] 05/08/2022 06:18:25: UI Group status changed root = True
+
+[Info   : Unity Log] 05/08/2022 06:18:25: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/08/2022 06:19:51: Setting selected recipe 0
+
+[Info   : Unity Log] 05/08/2022 06:19:51: UI Group status changed root = True
+
+[Info   : Unity Log] 05/08/2022 06:19:51: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/08/2022 06:19:54: Setting selected recipe 5
+
+[Info   : Unity Log] 05/08/2022 06:19:58: Queue unlock msg:$msg_newitem:Sage Robe Red
+
+[Info   : Unity Log] 05/08/2022 06:19:58: Setting selected recipe 5
+
+[Info   : Unity Log] 05/08/2022 06:20:02: client got keys 8
+
+[Info   : Unity Log] 05/08/2022 06:20:13: Loading dungeon
+
+[Info   : Unity Log] 05/08/2022 06:20:14: Dungeon loaded 28
+
+[Info   : Unity Log] 05/08/2022 06:20:14: Dungeon load time 30.2241 ms
+
+[Info   : Unity Log] 05/08/2022 06:20:15: Player 354137214 wants to pickup Blueberries(Clone)   im: 1647686443
+
+[Info   : Unity Log] 05/08/2022 06:20:15: Player 354137214 wants to pickup Blueberries(Clone)   im: 1647686443
+
+[Info   : Unity Log] 05/08/2022 06:20:15:   but im not the owner
+
+[Info   : Unity Log] 05/08/2022 06:20:15: Player 354137214 wants to pickup Blueberries(Clone)   im: 1647686443
+
+[Info   : Unity Log] 05/08/2022 06:20:15:   but im not the owner
+
+[Info   : Unity Log] 05/08/2022 06:20:16: Setting selected recipe 0
+
+[Info   : Unity Log] 05/08/2022 06:20:16: UI Group status changed root = True
+
+[Info   : Unity Log] 05/08/2022 06:20:16: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/08/2022 06:20:30: Setting selected recipe 0
+
+[Info   : Unity Log] 05/08/2022 06:20:31: UI Group status changed root = True
+
+[Info   : Unity Log] 05/08/2022 06:20:31: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/08/2022 06:21:07: Setting selected recipe 0
+
+[Info   : Unity Log] 05/08/2022 06:21:07: UI Group status changed root = True
+
+[Info   : Unity Log] 05/08/2022 06:21:07: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/08/2022 06:21:09: Queue unlock msg:$msg_newitem:Sage Pants
+
+[Info   : Unity Log] 05/08/2022 06:21:09: Setting selected recipe 0
+
+[Info   : Unity Log] 05/08/2022 06:21:09: UI Group status changed root = True
+
+[Info   : Unity Log] 05/08/2022 06:21:09: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/08/2022 06:21:10: Stopped music blackforest at 5413414
+
+[Info   : Unity Log] 05/08/2022 06:21:10: Resumed music blackforest at 5413414
+
+[Info   : Unity Log] 05/08/2022 06:21:21: drop all 1  1
+
+[Info   : Unity Log] 05/08/2022 06:21:22: Player 354137214 wants to pickup SagePants(Clone)   im: 1647686443
+
+[Info   : Unity Log] 05/08/2022 06:21:22: Player 354137214 wants to pickup SagePants(Clone)   im: 1647686443
+
+[Info   : Unity Log] 05/08/2022 06:21:22:   but im not the owner
+
+[Info   : Unity Log] 05/08/2022 06:21:22: Player 354137214 wants to pickup SagePants(Clone)   im: 1647686443
+
+[Info   : Unity Log] 05/08/2022 06:21:22:   but im not the owner
+
+[Info   : Unity Log] 05/08/2022 06:21:58: Setting selected recipe 0
+
+[Info   : Unity Log] 05/08/2022 06:21:59: UI Group status changed root = True
+
+[Info   : Unity Log] 05/08/2022 06:21:59: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/08/2022 06:22:13: Setting selected recipe 0
+
+[Info   : Unity Log] 05/08/2022 06:22:13: UI Group status changed root = True
+
+[Info   : Unity Log] 05/08/2022 06:22:13: UI Group status changed Player = True
+
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] 05/08/2022 06:22:47: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 05/08/2022 06:22:48: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 05/08/2022 06:22:49: Game - OnApplicationQuit
+
+[Info   : Unity Log] 05/08/2022 06:22:49: Shuting down
+
+[Info   : Unity Log] 05/08/2022 06:22:50: Uncompressed size 8389678
+
+[Info   : Unity Log] 05/08/2022 06:22:50: Compressed size 11443
+
+[Warning:WackysDatabase] Logoff? So reset - character will look empty if using clone gear
+[Info   : Unity Log] WackysDatabase All cloned Objects destoryed
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Loading key enterAdvancedBuildingMode
+[Info   : Unity Log]  Loading key exitAdvancedBuildingMode
+[Info   : Unity Log]  Loading key copyObjectRotation
+[Info   : Unity Log]  Loading key pasteObjectRotation
+[Info   : Unity Log]  Loading key increaseScrollSpeed
+[Info   : Unity Log]  Loading key decreaseScrollSpeed
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] 05/08/2022 06:22:52: ZNet Shutdown
+
+[Info   : Unity Log] 05/08/2022 06:22:52: Sending disconnect msg
+
+[Info   : Unity Log] 05/08/2022 06:22:52: Sent to 90158888358678530
+
+[Info   : Unity Log] 05/08/2022 06:22:52: Released session ticket
+
+[Info   : Unity Log] 05/08/2022 06:22:52: Disposing socket
+
+[Info   : Unity Log] 05/08/2022 06:22:52: Closing socket 90158888358678530
+
+[Info   : Unity Log] 05/08/2022 06:22:52:   send queue size:0
+
+[Info   : Unity Log] 05/08/2022 06:22:52: Last socket, unregistering callback
+
+[Info   : Unity Log] 05/08/2022 06:22:52: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 05/08/2022 06:22:52: Disposing socket
+
+[Info   : Unity Log] 05/08/2022 06:22:52: Last socket, unregistering callback
+
+[Info   : Unity Log] 05/08/2022 06:22:52: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LeatherBelt): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Warning: Unity Log] [PrefabCreator] Could not find crafting station (SilverRing): piece_forge
+[Info   : Unity Log] [PrefabCreator] Available Stations: piece_alchemystation, forge, piece_workbench, piece_cauldron, piece_stonecutter, piece_thorsforge, rk_prep, opalchemy, piece_artisanstation, rk_grill, rk_griddle
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_SilverRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] WackysDatabase  No More Loading was true
+[Warning:WackysDatabase] Warning any ServerFiles will see be On Your Local Games Until Restart! 
+[Info   : Unity Log] 05/08/2022 06:22:55: Steam manager on destroy
+
+[Warning: Unity Log] 05/08/2022 06:22:55: Local player destroyed
+
+[Info   : Unity Log] CustomArmorStats Transpiling UpdateEnvStatusEffects
+[Info   : Unity Log] CustomArmorStats Adding frost immune and ignore
+[Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
+[Info   : Unity Log] WackysDatabase Adding frost immune and ignore
+[Info   : Unity Log] CustomArmorStats Transpiling UpdateEnvStatusEffects
+[Info   : Unity Log] CustomArmorStats Adding frost immune and ignore
+[Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
+[Info   : Unity Log] WackysDatabase Adding frost immune and ignore
+[Info   :Valharvest.Main] Valharvest: OnDestroy
+[Info   :Smart Containers Mod] Cleaned up UI extensions.
+[Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
+[Info   : Unity Log] CustomArmorStats Transpiling UpdateEnvStatusEffects
+[Info   : Unity Log] CustomArmorStats Adding frost immune and ignore
+[Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
+[Info   : Unity Log] WackysDatabase Adding frost immune and ignore
+[Info   : Unity Log] CustomArmorStats Transpiling UpdateEnvStatusEffects
+[Info   : Unity Log] CustomArmorStats Adding frost immune and ignore
+[Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
+[Info   : Unity Log] WackysDatabase Adding frost immune and ignore
+[Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
+[Info   : Unity Log] WackysDatabase Adding frost immune and ignore
+[Warning:WackysDatabase] Calling the Destoryer of Worlds -End Game
+[Info   : Unity Log] 05/08/2022 06:23:11: ZNet OnDestroy
+
+[Info   : Unity Log] 05/08/2022 06:23:11: Net scene destroyed
 
