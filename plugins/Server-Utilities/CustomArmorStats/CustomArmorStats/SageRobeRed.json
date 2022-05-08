@@ -3,5 +3,5 @@
     "armor": 10.0,
     "armorPerLevel": 2.0,
     "movementModifier": -10.0,
-    "damageModifiers": ["Fire:Weak"]
+    "damageModifiers": ["Fire:Resistant"]
 }

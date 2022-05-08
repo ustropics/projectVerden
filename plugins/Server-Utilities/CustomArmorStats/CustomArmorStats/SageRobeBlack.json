@@ -3,5 +3,5 @@
     "armor": 10.0,
     "armorPerLevel": 3.0,
     "movementModifier": 0.1,
-    "damageModifiers": ["Spirit:Weak"]
+    "damageModifiers": ["Spirit:Resistant"]
 }

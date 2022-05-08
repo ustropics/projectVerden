@@ -3,5 +3,5 @@
     "armor": 10.0,
     "armorPerLevel": 3.0,
     "movementModifier": 0.05,
-    "damageModifiers": ["Poison:Weak"]
+    "damageModifiers": ["Poison:Resistant"]
 }

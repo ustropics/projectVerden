@@ -2,6 +2,6 @@
     "name": "SagePants",
     "armor": 10.0,
     "armorPerLevel": 3.0,
-    "movementModifier": -0.1,
-    "damageModifiers": ["Physical:Weak"]
+    "movementModifier": 0.05,
+    "damageModifiers": ["Physical:Resistant"]
 }
