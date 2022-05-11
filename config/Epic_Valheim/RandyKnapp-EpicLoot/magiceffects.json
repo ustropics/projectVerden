@@ -73,6 +73,7 @@
           "TwoHandedWeapon",
           "Bow",
           "Torch",
+          "Staff",
           "Shield",
           "Tool",
           "Helmet",
@@ -267,7 +268,8 @@
           "Legs",
           "Shoulder",
           "Utility",
-          "Tool"
+          "Tool",
+          "Staff"
         ]
       },
       "ValuesPerRarity" : {
@@ -299,7 +301,8 @@
           "Chest",
           "Legs",
           "Shoulder",
-          "Utility"
+          "Utility",
+          "Staff"
         ]
       },
       "ValuesPerRarity" : {
@@ -536,7 +539,8 @@
           "Chest",
           "Legs",
           "Shoulder",
-		  "Utility"
+		      "Utility",
+          "Staff"
         ]
       },
       "ValuesPerRarity" : {
@@ -629,7 +633,8 @@
           "TwoHandedWeapon",
           "Bow",
           "Torch",
-          "Tool"
+          "Tool",
+          "Staff"
         ],
 		"ItemHasPhysicalDamage" : true
       },
@@ -692,12 +697,13 @@
           "Axes",
           "Knives",
           "Clubs",
-          "Spears"
+          "Spears",
+          "Staffs"
         ],
 		"AllowedItemTypes" : [
           "Helmet",
           "Chest",
-		  "Shield",
+		      "Shield",
           "Legs",
           "Shoulder",
           "Utility"
@@ -788,7 +794,8 @@
           "OneHandedWeapon",
           "TwoHandedWeapon",
           "Bow",
-          "Tool"
+          "Tool",
+          "Staff"
         ],
 		"ItemHasPhysicalDamage" : true
       },
@@ -975,7 +982,8 @@
           "Chest",
           "Legs",
           "Shoulder",
-          "Utility"
+          "Utility",
+          "Staffs"
         ]
       },
       "ValuesPerRarity" : {

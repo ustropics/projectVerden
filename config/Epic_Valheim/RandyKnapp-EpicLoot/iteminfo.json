@@ -1,6 +1,11 @@
 {
   "ItemInfo": [
     {
+      "Type": "Staffs",
+      "Fallback": "Bows",
+      "Items": ["SageDarkStaff","SageFireStaff","SageHolyStaff","SageIceStaff","SageLightningStaff"]
+    },
+    {
       "Type": "Swords",
       "Fallback": "AxeFlint",
       "Items": [ "SwordBronze", "SwordIron", "SwordSilver", "SwordBlackmetal", "SwordHeavymetal", "SwordFrometal", "SwordFlametal" ]
