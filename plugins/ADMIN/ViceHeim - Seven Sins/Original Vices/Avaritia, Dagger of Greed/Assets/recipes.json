@@ -5,31 +5,31 @@
     "prefabPath": "Assets/CustomItems/Weapons/Sins/GreedDagger.prefab",
     "item": "GreedDagger",
     "descriptionToken": "$item_knife_greed_description",
-    "description": "Rarely used, but always held until the users final moments.",
+    "description": "The dagger still glows with the glistening flesh of Bonemass..",
     "amount": 1,
-    "craftingStation": "piece_artisanstation",
+    "craftingStation": "$piece_forge",
     "minStationLevel": 1,
     "enabled": true,
     "resources": [
       {
         "item": "ElderBark",
-        "amount": 10,
-        "amountPerLevel": 5
+        "amount": 30,
+        "amountPerLevel": 15
       },
       {
-        "item": "Crystal",
-        "amount": 40,
+        "item": "Iron",
+        "amount": 20,
         "amountPerLevel": 10
       },
       {
         "item": "Obsidian",
-        "amount": 40,
-        "amountPerLevel": 10
+        "amount": 5,
+        "amountPerLevel": 2
       },
       {
-        "item": "Coins",
-        "amount": 900,
-        "amountPerLevel": 100
+        "item": "TrophyBonemass",
+        "amount": 1,
+        "amountPerLevel": 0
       }
     ]
   }
