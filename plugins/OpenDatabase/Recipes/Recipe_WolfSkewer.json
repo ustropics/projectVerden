@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_WolfSkewer",
+	"result_item_id": "WolfMeatSkewer",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "WolfMeat",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Mushroom",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Onion",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"recipe_id": "Recipe_Goose",
+	"result_item_id": "Goose_Bom",
+	"result_amount": 1,
+	"RepairStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Wood",
+			"amount": 6
+		},
+		{
+			"id": "Stone",
+			"amountPerLevel": 5
+		}
+	]
+}

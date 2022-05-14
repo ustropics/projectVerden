@@ -1,0 +1,19 @@
+{
+	"recipe_id": "Recipe_WolfJerky",
+	"result_item_id": "WolfJerky",
+	"result_amount": 2,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 3,
+	"ingredients": [
+		{
+			"id": "WolfMeat",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Honey",
+			"amount": 1,
+			"amountPerLevel": 1
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_ShocklateSmoothie",
+	"result_item_id": "ShocklateSmoothie",
+	"result_amount": 1,
+	"CraftingStation": "$piece_cauldron",
+	"minStationLevel": 2,
+	"ingredients": [
+		{
+			"id": "Ooze",
+			"amount": 1,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Raspberry",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Blueberries",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}

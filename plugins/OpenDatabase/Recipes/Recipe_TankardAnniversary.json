@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_TankardAnniversary",
+	"result_item_id": "TankardAnniversary",
+	"result_amount": 1,
+	"CraftingStation": "$piece_workbench",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "Bronze",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "TrollHide",
+			"amount": 2,
+			"amountPerLevel": 1
+		},
+		{
+			"id": "Iron",
+			"amount": 2,
+			"amountPerLevel": 1
+		}
+	]
+}
