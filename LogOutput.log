@@ -1,0 +1,476 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (4/15/2022 11:07:27 PM)
+[Info   :   BepInEx] Running under Unity v2019.4.31.12409535
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [OpenDatabase 1.0]
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
+[Error  : Unity Log] ArgumentException: Undefined target method for patch method static void OpenDatabase.Patches::ConsoleTextInput()
+Stack trace:
+HarmonyLib.PatchClassProcessor.PatchWithAttributes (System.Reflection.MethodBase& lastOriginal) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.PatchClassProcessor.Patch () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+Rethrow as HarmonyException: Patching exception in method null
+HarmonyLib.PatchClassProcessor.ReportException (System.Exception exception, System.Reflection.MethodBase original) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.PatchClassProcessor.Patch () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.<PatchAll>b__11_0 (System.Type type) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.CollectionExtensions.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.PatchAll (System.Reflection.Assembly assembly) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.PatchAll () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+OpenDatabase.OpenDatabase.Awake () (at <803aca523ca74a76b6321a8c0853398b>:0)
+UnityEngine.GameObject:AddComponent(Type)
+BepInEx.Bootstrap.Chainloader:Start()
+UnityEngine.Application:.cctor()
+
+[Info   :   BepInEx] Loading [TheFarmer 0.0.3]
+[Info   : Unity Log] 05/14/2022 04:54:22: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:22: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:22: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:22: Loaded localization CSV:localization_extra language:English
+
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9.8]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.9.9.8] is up to date.
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 05/14/2022 04:54:25: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 05/14/2022 04:54:32: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:32: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Using steam_appid.txt
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Using steam APPID:892970
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Steam initialized, persona:Phortwenty
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Using default prefs
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Valheim version:0.208.1@0.9.9.8
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Loaded localization CSV:localization_extra language:English
+
+[Warning: Unity Log] 05/14/2022 04:54:33: Missing audio clip in music respawn
+
+[Info   : Unity Log] 05/14/2022 04:54:33: Checking for installed DLCs
+
+[Info   : Unity Log] 05/14/2022 04:54:33: DLC:beta installed:False
+
+[Info   : Unity Log] 05/14/2022 04:54:34: Failed to find item prefab SageHoodGreen
+
+[Info   : Unity Log] 05/14/2022 04:54:34: Failed to find item prefab IronHeavyGreatSwordHTD
+
+[Info   : Unity Log] 05/14/2022 04:54:34: Failed to find item prefab DustMagic
+
+[Info   : Unity Log] 05/14/2022 04:54:34: Failed to find item prefab apple
+
+[Info   : Unity Log] 05/14/2022 04:54:34: Failed to find item prefab RRRM_SkeletonWarriorIce_Custom_SkeletonSwordBronze_12
+
+[Info   : Unity Log] 05/14/2022 04:54:34: Failed to find item prefab SageRobeGray
+
+[Info   : Unity Log] 05/14/2022 04:54:34: Failed to find item prefab SagePants
+
+[Info   : Unity Log] 05/14/2022 04:54:34: Failed to find item prefab SageHoodGray
+
+[Info   : Unity Log] 05/14/2022 04:54:34: Failed to find item prefab RunestoneMagic
+
+[Info   : Unity Log] 05/14/2022 04:54:34: Failed to find item prefab salt
+
+[Info   : Unity Log] 05/14/2022 04:54:34: UI Group status changed Menu = True
+
+[Info   : Unity Log] 05/14/2022 04:54:36: UI Group status changed Menu = True
+
+[Info   : Unity Log] 05/14/2022 04:55:03: FOund selected Start game
+
+[Info   : Unity Log] 05/14/2022 04:55:03: show character selection
+
+[Info   : Unity Log] 05/14/2022 04:55:04: OnCharacterStart
+
+[Info   : Unity Log] 05/14/2022 04:55:07: Steam initialized, persona:Phortwenty
+
+[Info   : Unity Log] 05/14/2022 04:55:07: Using default prefs
+
+[Info   : Unity Log] 05/14/2022 04:55:07: Loading player profile test
+
+[Info   : Unity Log] 05/14/2022 04:55:07: Zonesystem Awake 1925
+
+[Info   : Unity Log] 05/14/2022 04:55:07: DungeonDB Awake 1925
+
+[Info   : Unity Log] 05/14/2022 04:55:07: Steam initialized, persona:Phortwenty
+
+[Info   : Unity Log] Registered 'marlthon.TheFarmer ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.TheFarmer PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.TheFarmer CreatureManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] 05/14/2022 04:55:12: Audioman already exist, destroying self
+
+[Info   : Unity Log] 05/14/2022 04:55:12: Checking for installed DLCs
+
+[Info   : Unity Log] 05/14/2022 04:55:12: DLC:beta installed:False
+
+[Info   : Unity Log] 05/14/2022 04:55:15: Zonesystem Start 1925
+
+[Info   : Unity Log] 05/14/2022 04:55:15: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+
+[Info   : Unity Log] 05/14/2022 04:55:15: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+
+[Info   : Unity Log] 05/14/2022 04:55:15: DungeonDB Start 1925
+
+[Info   : Unity Log] 05/14/2022 04:55:16: Load world DevServer
+
+[Info   : Unity Log] 05/14/2022 04:55:16: Loading 85104 zdos , my id 2098830356 data version:28
+
+[Info   : Unity Log] 05/14/2022 04:55:16: Loaded 100000 dead zdos
+
+[Info   : Unity Log] 05/14/2022 04:55:16: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 05/14/2022 04:55:16: Loaded 8820 locations
+
+[Info   : Unity Log] 05/14/2022 04:55:16: Starting respawn
+
+[Info   : Unity Log] 05/14/2022 04:55:27: Unpacking compressed mapdata 8770
+
+[Info   : Unity Log] 05/14/2022 04:55:27: tip:$loadscreen_tip25
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Destroyed invalid predab ZDO:256988158:31101
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageRobeRed
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageHoodRed
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageRobeWhite
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageHoodBlue
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageHoodBrown
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageHoodBrown
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageHoodRed
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageRobeBlack
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageTunicBlack
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageHoodRed
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageHoodBlack
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageHoodGray
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageRobeRed
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageRobeRed
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab CorruptedSlothStaff
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab CorruptedWrath
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab Staff_2H_02_FA
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab WrathGreatsword
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab PrototypeT7
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab Staff_2H_04_FA
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab Staff_2H_03_FA
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab Sword_1H_05_FA
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab Scythe2H_01_FA
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab CoreMaceHTD
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab IronHeavyGreatSwordHTD
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab IronGreatSwordHTD
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SageHolyStaff
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab GreatSwordHeavymetal
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SilverGreatSwordHTD
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab SkeletonSwordIron
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab RunestoneMagic
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Failed to find item prefab salt
+
+[Info   : Unity Log] 05/14/2022 04:55:30: Destroyed invalid predab ZDO:1653875109:108476
+
+[Warning: Unity Log] 05/14/2022 04:55:30: Missing location:-587616592
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:1683
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:1684
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:1682
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:3676
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:8728
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:8727
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Failed to find item prefab RunestoneRare
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:8809
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:2143715249:81540
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:8807
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:2996
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:2994
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:3677
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:2995
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:2993
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:9136
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:948
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:8482
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:8808
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:4207
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:1228
+
+[Info   : Unity Log] 05/14/2022 04:55:31: Destroyed invalid predab ZDO:826153136:5447
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:8481
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:5146
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:8483
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:1226
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:1227
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:9137
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:949
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:8407
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:5449
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:5448
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:4475
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:5445
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:8115
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:4473
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:8113
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:8405
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:2232
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:5446
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:11169
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:1949
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:4474
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:8406
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:2231
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:1948
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:11170
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:8114
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:1950
+
+[Info   : Unity Log] 05/14/2022 04:55:32: Destroyed invalid predab ZDO:826153136:2230
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Spawned after 8.019994
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Failed to find item prefab SageHoodGreen
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Failed to find item prefab IronHeavyGreatSwordHTD
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Failed to find item prefab DustMagic
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Failed to find item prefab apple
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Failed to find item prefab RRRM_SkeletonWarriorIce_Custom_SkeletonSwordBronze_12
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Failed to find item prefab SageRobeGray
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Failed to find item prefab SagePants
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Failed to find item prefab SageHoodGray
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Failed to find item prefab RunestoneMagic
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Failed to find item prefab salt
+
+[Info   : Unity Log] 05/14/2022 04:55:35: Minimap: Adding unique location (-122.7, 47.8, 5.1)
+
+[Info   : Unity Log] 05/14/2022 04:55:37: Resumed music meadows at 0
+
+[Info   : Unity Log] 05/14/2022 04:55:47: Setting selected recipe 0
+
+[Info   : Unity Log] 05/14/2022 04:55:47: UI Group status changed root = True
+
+[Info   : Unity Log] 05/14/2022 04:55:47: UI Group status changed Player = True
+
+[Info   : Unity Log] 05/14/2022 04:55:49: Stopped music meadows at 526847
+
+[Info   : Unity Log] 05/14/2022 04:55:49: Resumed music home at 0
+
+[Info   : Unity Log] 05/14/2022 04:55:53: Stopped music home at 160876
+
+[Info   : Unity Log] 05/14/2022 04:55:53: Resumed music meadows at 526847
+
