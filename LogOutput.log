@@ -27,18 +27,11 @@
 [Info   :HookGenPatcher] Already ran for this version, reusing that file.
 [Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
 [Info   :HookGenPatcher] Already ran for this version, reusing that file.
-[Message:This Goes Here] ThisGoesHere Updating & Replacing ***Epic Valheim*** configuration to version 3.6.4
-[Message:This Goes Here] Copying 'config\Epic_Valheim\CustomArmorStats' to 'plugins\NexusUploads-CustomArmorStats\CustomArmorStats'
-[Message:This Goes Here] Copying 'config\Epic_Valheim\RecipeCustomization' to 'plugins\NexusUploads-RecipeCustomization\RecipeCustomization'
-[Message:This Goes Here] Copying 'config\Epic_Valheim\OpenDatabase' to 'plugins\OdinPlus-OpenDatabase\OpenDatabase'
-[Message:This Goes Here] Copying 'config\Epic_Valheim\RandyKnapp-EpicLoot' to 'plugins\RandyKnapp-EpicLoot'
-[Message:This Goes Here] Copying 'config\Epic_Valheim\WackyMole-WackysDatabase' to 'plugins\WackyMole-WackysDatabase'
-[Message:This Goes Here] Copying content of 'config\Epic_Valheim\config' to 'config'
 [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 105 plugins to load
+[Info   :   BepInEx] 108 plugins to load
 [Info   :   BepInEx] Loading [PlantEverything 1.10.1]
 [Info   :   BepInEx] Loading [Compass 0.9.1]
 [Info   :   BepInEx] Loading [Custom Armor Stats 0.3.0]
@@ -56,28 +49,28 @@
 [Info   :   BepInEx] Loading [Recipe Customization 0.5.2]
 [Info   :   BepInEx] Loading [Terrain Reset 0.7.0]
 [Info   :   BepInEx] Loading [VALKEA 1.0.0]
-[Info   : Unity Log] 05/11/2022 10:15:12: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:04:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:15:12: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:04:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:15:12: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:04:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:15:12: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:04:38: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Custom Raids 1.5.3]
 [Info   :Custom Raids] Loading configurations...
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.5]
-[Info   : Unity Log] 05/11/2022 10:15:13: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:04:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:15:13: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:04:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:15:13: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:04:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:15:13: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:04:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:15:13: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:04:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:15:13: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:04:39: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Project Auga 1.0.10]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
@@ -87,6 +80,9 @@
 [Info   :   BepInEx] Loading [Spawn That! 1.0.5]
 [Info   :   BepInEx] Loading [Drop That! 2.3.3]
 [Message:Drop That!] Loading general configuration from C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\drop_that.cfg.
+[Info   :   BepInEx] Loading [Sell That! 1.2.0]
+[Info   :Sell That!] Loading configurations...
+[Info   :Sell That!] Configurations loaded.
 [Info   :   BepInEx] Loading [BalrondBarrell 1.0.1]
 [Info   :   BepInEx] Loading [BalrondOreBasket 1.0.0]
 [Info   :   BepInEx] Loading [BalrondShelf 1.0.0]
@@ -153,6 +149,7 @@
 [Info   : Unity Log] FantasyArmoury: 2H Staff
 [Info   : Unity Log] FantasyArmoury: 1H Axe
 [Info   : Unity Log] FantasyArmoury: 1H Sword
+[Info   :   BepInEx] Loading [FarmyardAnimals 0.0.11]
 [Info   :   BepInEx] Loading [ThemedBuildPieces 0.0.1]
 [Info   : Unity Log] Themed Build Pieces: Loading and Creating Assets
 [Info   : Unity Log] TBP: 0
@@ -226,6 +223,7 @@
 [Info   :EpicValheimsAdditions.Core] Updated configs
 [Info   :   BepInEx] Loading [Better Archery 1.7.6]
 [Info   :   BepInEx] Loading [OdinShip 0.0.5]
+[Info   :   BepInEx] Loading [TheFarmer 0.0.2]
 [Info   :   BepInEx] Loading [BetterTrader 2.0.5.0]
 [Info   :   BepInEx] Loading [ReelySpecTackleLure 0.1.7]
 [Info   : Unity Log] ReelySpecTackleLure ReelySpecTackleLure awake
@@ -249,23 +247,62 @@
 [Info   : Unity Log]  Loading key increaseScrollSpeed
 [Info   : Unity Log]  Loading key decreaseScrollSpeed
 [Info   : Unity Log] Loading config section AdvancedEditingMode
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key enterAdvancedEditingMode
+[Info   : Unity Log]  Loading key resetAdvancedEditingMode
+[Info   : Unity Log]  Loading key abortAndExitAdvancedEditingMode
+[Info   : Unity Log]  Loading key confirmPlacementOfAdvancedEditingMode
+[Info   : Unity Log]  Loading key copyObjectRotation
+[Info   : Unity Log]  Loading key pasteObjectRotation
+[Info   : Unity Log]  Loading key increaseScrollSpeed
+[Info   : Unity Log]  Loading key decreaseScrollSpeed
 [Info   : Unity Log] Loading config section Bed
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Beehive
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Building
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
 [Info   : Unity Log] Loading config section Deconstruct
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Inventory
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key mergeWithExistingStacks
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key blackmetalChestColumns
+[Info   : Unity Log]  Loading key blackmetalChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
 [Info   : Unity Log] Loading config section Items
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key noTeleportPrevention
+[Info   : Unity Log]  Loading key baseItemWeightReduction
+[Info   : Unity Log]  Loading key itemStackMultiplier
+[Info   : Unity Log]  Loading key droppedItemOnGroundDurationInSeconds
+[Info   : Unity Log]  Loading key itemsFloatInWater
 [Info   : Unity Log] Loading config section Fermenter
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section FireSource
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key torches
+[Info   : Unity Log]  Loading key fires
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
 [Info   : Unity Log] Loading config section Food
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Smelter
@@ -283,7 +320,30 @@
 [Info   : Unity Log] Loading config section Map
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Player
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key autoUnequipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key dontUnequipItemsWhenSwimming
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log]  Loading key autoPickUpWhenEncumbered
 [Info   : Unity Log] Loading config section Server
 [Info   : Unity Log]  Loading key maxPlayers
 [Info   : Unity Log]  Loading key disableServerPassword
@@ -295,7 +355,10 @@
 [Info   : Unity Log] Loading config section StaminaUsage
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Workbench
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key workbenchRange
+[Info   : Unity Log]  Loading key workbenchEnemySpawnRange
+[Info   : Unity Log]  Loading key workbenchAttachmentRange
+[Info   : Unity Log]  Loading key disableRoofCheck
 [Info   : Unity Log] Loading config section Time
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Ward
@@ -305,15 +368,27 @@
 [Info   : Unity Log] Loading config section Tameable
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Hud
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key showRequiredItems
+[Info   : Unity Log]  Loading key experienceGainedNotifications
+[Info   : Unity Log]  Loading key removeDamageFlash
+[Info   : Unity Log]  Loading key displayBowAmmoCounts
 [Info   : Unity Log] Loading config section Experience
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Camera
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Game
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key gameDifficultyDamageScale
+[Info   : Unity Log]  Loading key gameDifficultyHealthScale
+[Info   : Unity Log]  Loading key extraPlayerCountNearby
+[Info   : Unity Log]  Loading key setFixedPlayerCountTo
+[Info   : Unity Log]  Loading key difficultyScaleRange
+[Info   : Unity Log]  Loading key disablePortals
+[Info   : Unity Log]  Loading key disableConsole
+[Info   : Unity Log]  Loading key bigPortalNames
+[Info   : Unity Log]  Loading key disableFog
 [Info   : Unity Log] Loading config section Wagon
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key wagonExtraMassFromItems
+[Info   : Unity Log]  Loading key wagonBaseMass
 [Info   : Unity Log] Loading config section Gathering
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Pickable
@@ -331,7 +406,13 @@
 [Info   : Unity Log] Loading config section GridAlignment
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section CraftFromChest
-[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log]  Loading key allowCraftingFromCarts
+[Info   : Unity Log]  Loading key allowCraftingFromShips
 [Info   : Unity Log] Loading config section ValheimPlus
 [Info   : Unity Log]  Loading key mainMenuLogo
 [Info   : Unity Log]  Loading key serverBrowserAdvertisement
@@ -412,7 +493,7 @@
 [Info   : Unity Log] WackysDatabase Loaded files
 [Info   :   BepInEx] Loading [MassFarming 1.0]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 05/11/2022 10:16:18: Starting to load scene:start
+[Info   : Unity Log] 05/14/2022 04:05:49: Starting to load scene:start
 
 [Info   :Smart Containers Mod] parsed PrefixedItemGroups : [trophy,mead,arrow,armor,cape,helmet,atgeir,bow,battleaxe,knife,mace,shield,sledge,spear,sword,tankard,club,mushroom] (18)
 [Info   :Smart Containers Mod] parsed PostfixedItemGroups: [cone,seeds,pelt,hide,berries] (5)
@@ -427,98 +508,120 @@
 [Info   :Smart Containers Mod] parsed items group 'vegetables': [carrot,turnip] (2)
 [Info   :Smart Containers Mod] parsed items group 'wood': [wood,finewood,corewood,elderbark,roundlog] (5)
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:56: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:56: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:28: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:57: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Using steam_appid.txt
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Using steam APPID:892970
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Steam initialized, persona:Phortwenty
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Using default prefs
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:29: Valheim version:0.208.1@0.9.9.8
+[Info   : Unity Log] 05/14/2022 04:05:58: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 05/14/2022 04:05:58: Using steam_appid.txt
+
+[Info   : Unity Log] 05/14/2022 04:05:58: Using steam APPID:892970
+
+[Info   : Unity Log] 05/14/2022 04:05:58: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 05/14/2022 04:05:58: Steam initialized, persona:Phortwenty
+
+[Info   : Unity Log] 05/14/2022 04:05:59: Using default prefs
+
+[Info   : Unity Log] 05/14/2022 04:05:59: Valheim version:0.208.1@0.9.9.8
 
 [Info   :Jotunn.Managers.CommandManager] Adding 3 commands to the Console
-[Info   : Unity Log] 05/11/2022 10:16:29: Render threading mode:MultiThreaded
+[Info   : Unity Log] 05/14/2022 04:05:59: Render threading mode:MultiThreaded
 
-[Warning: Unity Log] 05/11/2022 10:16:30: Missing audio clip in music respawn
+[Warning: Unity Log] 05/14/2022 04:05:59: Missing audio clip in music respawn
 
-[Info   : Unity Log] 05/11/2022 10:16:30: Checking for installed DLCs
+[Info   : Unity Log] 05/14/2022 04:05:59: Checking for installed DLCs
 
-[Info   : Unity Log] 05/11/2022 10:16:30: DLC:beta installed:False
+[Info   : Unity Log] 05/14/2022 04:05:59: DLC:beta installed:False
 
 [Info   : Unity Log] CustomTextures Clutter system awake
 [Info   : Unity Log] CustomTextures Checking 17 clutters
 [Info   : Unity Log] CustomTextures Clutter System RunTime 00:00:00.00
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 05/11/2022 10:16:31: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 05/14/2022 04:06:01: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 05/11/2022 10:16:31: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 05/14/2022 04:06:01: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Warning:RRRMonsters] True
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_BJORKSNAS]/[BJORKSNAS] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_HideCow]/[HideCow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_HideSheep]/[HideSheep] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_HideGoat]/[HideGoat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_Chicken_Bom]/[FarmBomb] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_PoultryMeat]/[PoultryMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_PoultryMeatCook]/[PoultryRoast] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_FarmMeat]/[FarmMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_FarmMeatCoock]/[FarmMeatCoock] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_RabbitMeat]/[RabbitMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_RabbitMeatCoocked]/[RabbitMeatCoocked] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_armor_t1_pchaosbody]/[HalfPlateHarness] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_t1pchaosplate]/[TuskPlateHelm] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_t1pchaoslegs]/[BatteredPlateLeggings] and added it to ObjectDBCache!!
@@ -558,7 +661,7 @@
 [Info   : Unity Log] Load vfx_SageTerra_hit
 [Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
 [Message:Boneappetit.BoneAppetit] Load Complete. Bone Appetit yall.
-[Info   :Jotunn.Managers.ItemManager] Adding 297 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 327 custom items to the ObjectDB
 [Warning:RRRMonsters] True
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
 [Warning: Unity Log] [PrefabCreator] Could not find crafting station (SilverRing): piece_forge
@@ -987,6 +1090,32 @@
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_sword1h_03_fa]/[TheSpellblade] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_sword1h_04_fa]/[DivineLight] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_sword1h_05_fa]/[Ravenblade] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_quartersm_fya]/[Itemquartersmfya] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_piecesm_fya]/[PieceOfACarcass] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_poultry_fya]/[PoultryCarcass] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_burgermeat_fya]/[BurgerMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chop_fya]/[Chop] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_steaksmall_fya]/[SmallSteak] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_steak_fya]/[Steak] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meatchunks_fya]/[MeatChunksX4] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_meatroll_fya]/[MeatRoll] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_rawpoultry_fya]/[WholePoultry] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_rawpoultrybreast_fya]/[PoultryBreast] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_rawpoultryleg_fya]/[PoultryLeg] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cookedpoultry_fya]/[RoastedPoultry] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cookedpoultrybreast_fya]/[CookedBreast] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cookedpoultryleg_fya]/[Drumstick] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_joint_fya]/[RoastedJoint] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_friedmeat_fya]/[FiredMeat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_steakfried_fya]/[FiredSteak] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_steakcooked_fya]/[CookedSteak] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cookedchop_fya]/[CookedChop] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_burgerround_fya]/[CookedBurger] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_butcheraxe_fya]/[Itembutcheraxefya] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chicken_baa]/[AChicken] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_cow_fya]/[ACow] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_goat_fya]/[AGoat] and added it to ObjectDBCache!!
+[Info   : Unity Log] [Better Trader] Loaded conversion [$item_milk_fya]/[Milk] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_tbphammer_tp]/[ThemedHammer] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal]/[Heavymetal] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [Frometal]/[Frometal] and added it to ObjectDBCache!!
@@ -1250,14 +1379,16 @@
 [Info   : Unity Log] [Better Trader] Loaded conversion [Undying Devotion]/[UndyingDevotion] and added it to ObjectDBCache!!
 [Info   : Unity Log] CustomTextures SetupObjectDB postfix
 [Info   : Unity Log] CustomTextures got atlass at item: Acorn
-[Info   : Unity Log] CustomTextures Replacing textures for 1020 objects
-[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.71
+[Info   : Unity Log] CustomTextures Replacing textures for 1067 objects
+[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.72
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   : Unity Log] 05/11/2022 10:16:42: UI Group status changed Menu = False
+[Info   : Unity Log] 05/14/2022 04:06:10: Failed to find item prefab RRRM_SkeletonWarriorIce_Custom_SkeletonSwordBronze_12
 
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   : Unity Log] 05/11/2022 10:16:43: Failed to find item prefab ArrowBone
+[Info   : Unity Log] 05/14/2022 04:06:11: UI Group status changed Menu = False
+
+[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/14/2022 04:06:12: Failed to find item prefab ArrowBone
 
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
@@ -1265,38 +1396,53 @@
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/14/2022 04:06:14: Failed to find item prefab RRRM_SkeletonWarriorIce_Custom_SkeletonSwordBronze_12
+
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
-[Info   : Unity Log] 05/11/2022 10:16:46: UI Group status changed Menu = True
+[Info   : Unity Log] 05/14/2022 04:06:14: Failed to find item prefab RRRM_SkeletonWarriorIce_Custom_SkeletonSwordBronze_12
 
-[Info   : Unity Log] 05/11/2022 10:16:47: FOund selected StartGame
+[Info   : Unity Log] 05/14/2022 04:06:15: UI Group status changed Menu = True
 
-[Info   : Unity Log] 05/11/2022 10:16:47: show character selection
+[Info   : Unity Log] 05/14/2022 04:06:16: FOund selected StartGame
 
-[Info   : Unity Log] 05/11/2022 10:16:48: OnCharacterStart
+[Info   : Unity Log] 05/14/2022 04:06:16: show character selection
+
+[Info   : Unity Log] 05/14/2022 04:06:18: OnCharacterStart
+
+[Info   : Unity Log] 05/14/2022 04:06:39: show character selection
+
+[Info   : Unity Log] 05/14/2022 04:06:39: UI Group status changed SelectCharacter = True
+
+[Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
+[Info   : Unity Log] 05/14/2022 04:06:40: Failed to find item prefab RRRM_SkeletonWarriorIce_Custom_SkeletonSwordBronze_12
+
+[Info   : Unity Log] 05/14/2022 04:06:42: OnCharacterStart
+
+[Info   : Unity Log] 05/14/2022 04:06:42: UI Group status changed Panel = True
 
 [Message:Spawn That!] Loading local spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.0238343
+[Message:Spawn That!] Config loading took: 00:00:00.0297025
 [Message:Spawn That!] Loading simple configurations
 [Message:Spawn That!] Loading world spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.4159432
+[Message:Spawn That!] Config loading took: 00:00:00.4096718
 [Message:Drop That!] Loading general configuration from C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\drop_that.cfg.
 [Message:Drop That!] Loading character drop lists
 [Message:Drop That!] Loading character drop configurations
 [Message:Drop That!] Loading drop table lists
 [Message:Drop That!] Loading drop table configurations
-[Info   : Unity Log] 05/11/2022 10:18:07: Steam initialized, persona:Phortwenty
+[Info   : Unity Log] 05/14/2022 04:08:00: Steam initialized, persona:Phortwenty
 
-[Info   : Unity Log] 05/11/2022 10:18:07: Using default prefs
+[Info   : Unity Log] 05/14/2022 04:08:00: Using default prefs
 
 [Info   :Jotunn.Managers.CommandManager] Adding 3 commands to the Console
-[Info   : Unity Log] 05/11/2022 10:18:07: Loading player profile test
+[Info   : Unity Log] 05/14/2022 04:08:00: Loading player profile test
 
 [Info   : Unity Log] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
-[Info   : Unity Log] 05/11/2022 10:18:07: Zonesystem Awake 463
+[Info   : Unity Log] 05/14/2022 04:08:00: Zonesystem Awake 1869
 
-[Info   : Unity Log] 05/11/2022 10:18:07: DungeonDB Awake 463
+[Info   : Unity Log] 05/14/2022 04:08:00: DungeonDB Awake 1869
 
-[Info   : Unity Log] 05/11/2022 10:18:07: Steam initialized, persona:Phortwenty
+[Info   : Unity Log] 05/14/2022 04:08:00: Steam initialized, persona:Phortwenty
 
 [Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'asetia.VALKEA ConfigSync' RPC - waiting for incoming connections
@@ -1306,6 +1452,8 @@
 [Info   : Unity Log] Registered 'htd.armory ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'marlthon.OdinShip ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'marlthon.OdinShip PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.TheFarmer ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.TheFarmer PieceManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'org.bepinex.plugins.blacksmithing ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'org.bepinex.plugins.building ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'org.bepinex.plugins.cooking ConfigSync' RPC - waiting for incoming connections
@@ -1322,11 +1470,12 @@
 [Info   : Unity Log] Registered 'gravebear.odinsfoodbarrels PieceManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'ReepusDeepusDelmeepus4902761.ChaosArmor ItemManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] CustomTextures ZNetScene awake
-[Info   : Unity Log] CustomTextures Checking 2526 prefabs
-[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:01.92
+[Info   : Unity Log] CustomTextures Checking 2573 prefabs
+[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:01.94
 [Info   : Unity Log] CustomTextures Reloading Environment textures
 [Info   : Unity Log] CustomTextures Reloading 9 Environment textures
-[Info   :Jotunn.Managers.PrefabManager] Adding 756 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.PrefabManager] Adding 853 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.CreatureManager] Adding 30 custom creatures
 [Info   :OpenDatabase] Loaded Item BlackSoup
 [Info   :OpenDatabase] Loaded Item BloodPudding
 [Info   :OpenDatabase] Loaded Item Blueberries
@@ -1469,8 +1618,8 @@
 [Info   :OpenDatabase] Loaded Item rune_travel
 [Info   :OpenDatabase] Loaded Item rune_warmth
 [Info   :OpenDatabase] Found 4 Crafting/Repair-Stations. [$piece_forge, $piece_workbench, $piece_cauldron, $piece_stonecutter]
-[Info   :Jotunn.Managers.ItemManager] Adding 297 custom items to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 245 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 327 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 257 custom recipes to the ObjectDB
 [Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_fragmented_staff_sloth: System.Exception: Mock prefab 0 could not be resolved
   at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x00095] in D:\coding\vs_workspace\Jotunn\JotunnLib\Managers\MockManager.cs:140 
   at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in D:\coding\vs_workspace\Jotunn\JotunnLib\Extensions\MockExtensions.cs:132 
@@ -1483,7 +1632,12 @@
   at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x0042c] in D:\coding\vs_workspace\Jotunn\JotunnLib\Extensions\MockExtensions.cs:223 
   at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in D:\coding\vs_workspace\Jotunn\JotunnLib\Extensions\MockExtensions.cs:24 
   at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in D:\coding\vs_workspace\Jotunn\JotunnLib\Managers\ItemManager.cs:450 
-[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_knife_greed: System.Exception: Mock prefab $piece_forge could not be resolved
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_knife_greed: System.Exception: Mock prefab piece_forge could not be resolved
+  at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x00095] in D:\coding\vs_workspace\Jotunn\JotunnLib\Managers\MockManager.cs:140 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in D:\coding\vs_workspace\Jotunn\JotunnLib\Extensions\MockExtensions.cs:132 
+  at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in D:\coding\vs_workspace\Jotunn\JotunnLib\Extensions\MockExtensions.cs:24 
+  at Jotunn.Managers.ItemManager.RegisterCustomRecipes (ObjectDB objectDB) [0x0005d] in D:\coding\vs_workspace\Jotunn\JotunnLib\Managers\ItemManager.cs:450 
+[Warning:Jotunn.Managers.ItemManager] Error caught while adding recipe $item_blade_gluttony: System.Exception: Mock prefab piece_forge could not be resolved
   at Jotunn.Managers.MockManager.GetRealPrefabFromMock (UnityEngine.Object unityObject, System.Type mockObjectType) [0x00095] in D:\coding\vs_workspace\Jotunn\JotunnLib\Managers\MockManager.cs:140 
   at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix, System.Int32 depth) [0x00113] in D:\coding\vs_workspace\Jotunn\JotunnLib\Extensions\MockExtensions.cs:132 
   at Jotunn.PrefabExtension.FixReferences (System.Object objectToFix) [0x00000] in D:\coding\vs_workspace\Jotunn\JotunnLib\Extensions\MockExtensions.cs:24 
@@ -1535,7 +1689,7 @@
 [Warning:RRRMonsters] True
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
 [Warning: Unity Log] [PrefabCreator] Could not find crafting station (SilverRing): piece_forge
-[Info   : Unity Log] [PrefabCreator] Available Stations: forge, piece_workbench, piece_cauldron, piece_stonecutter, rk_prep, opalchemy, piece_thorsforge, piece_alchemystation, piece_artisanstation, rk_grill, rk_griddle
+[Info   : Unity Log] [PrefabCreator] Available Stations: forge, piece_workbench, piece_cauldron, piece_stonecutter, rk_prep, opalchemy, ButchersBench_FYA, piece_thorsforge, piece_alchemystation, piece_artisanstation, rk_grill, rk_griddle
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
@@ -1545,7 +1699,7 @@
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
-[Info   :Jotunn.Managers.PieceManager] Adding 392 custom pieces to the PieceTables
+[Info   :Jotunn.Managers.PieceManager] Adding 398 custom pieces to the PieceTables
 [Info   : Unity Log] [PrefabCreator] Skipped recipe: LeatherQuiver
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
@@ -2064,11 +2218,11 @@
 [Info   : Unity Log] [Better Trader] Loaded conversion [RRRN_wildbanditgiant@ArmorLeatherLegs@@@]/[Rrrnwildbanditgiantarmorleatherlegs] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [RRRN_wildbanditgiant@ArmorLeatherChest@@@]/[Rrrnwildbanditgiantarmorleatherchest] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [RRRN_wildbanditgiant@npcunarmed@@@]/[Rrrnwildbanditgiantnpcunarmed] and added it to ObjectDBCache!!
-[Info   : Unity Log] 05/11/2022 10:18:23: Audioman already exist, destroying self
+[Info   : Unity Log] 05/14/2022 04:08:15: Audioman already exist, destroying self
 
-[Info   : Unity Log] 05/11/2022 10:18:23: Checking for installed DLCs
+[Info   : Unity Log] 05/14/2022 04:08:15: Checking for installed DLCs
 
-[Info   : Unity Log] 05/11/2022 10:18:23: DLC:beta installed:False
+[Info   : Unity Log] 05/14/2022 04:08:15: DLC:beta installed:False
 
 [Info   : Unity Log] [Better Trader] Initializing UI!
 [Info   : Unity Log] [Better Trader] Trader's coins were loaded from Player Prefs with a value of 5000
@@ -2089,12 +2243,12 @@ InstantiatePrefab:Awake()
 [Info   :Smart Containers Mod] Cleaned up UI extensions.
 [Info   : Unity Log] CustomTextures Starting ZoneSystem Location prefab replacement
 [Info   : Unity Log] CustomTextures ZoneSystem Locations RunTime 00:00:00.00
-[Info   : Unity Log] 05/11/2022 10:18:27: Zonesystem Start 463
+[Info   : Unity Log] 05/14/2022 04:08:19: Zonesystem Start 1869
 
 [Message:Custom Raids] Writing random events (raids) for specific locations, eg. caves, to file C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\Debug\default_location_random_events.txt.
-[Info   : Unity Log] 05/11/2022 10:18:28: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+[Info   : Unity Log] 05/14/2022 04:08:20: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
 
-[Info   : Unity Log] 05/11/2022 10:18:28: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+[Info   : Unity Log] 05/14/2022 04:08:20: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
 
 [Warning:Jotunn.Managers.PrefabManager] Prefab 'Pickable_Pepper' already exists
 [Warning:Jotunn.Managers.PrefabManager] Prefab 'Pickable_Bell_Pepper' already exists
@@ -2119,17 +2273,17 @@ InstantiatePrefab:Awake()
 [Info   :jtv_biomes.jtv_biomes] Adding Locations
 [Info   :Jotunn.Managers.ZoneManager] Injecting 36 custom locations
 [Info   :Jotunn.Managers.ZoneManager] Injecting 19 custom vegetation
-[Info   : Unity Log] 05/11/2022 10:18:28: DungeonDB Start 463
+[Info   : Unity Log] 05/14/2022 04:08:20: DungeonDB Start 1869
 
-[Info   : Unity Log] 05/11/2022 10:18:28: Load world DevServer
+[Info   : Unity Log] 05/14/2022 04:08:21: Load world DevServer
 
-[Info   : Unity Log] 05/11/2022 10:18:28: Loading 39490 zdos , my id 2143715249 data version:28
+[Info   : Unity Log] 05/14/2022 04:08:21: Loading 85104 zdos , my id 1374615291 data version:28
 
-[Info   : Unity Log] 05/11/2022 10:18:29: Loaded 29760 dead zdos
+[Info   : Unity Log] 05/14/2022 04:08:21: Loaded 100000 dead zdos
 
-[Info   : Unity Log] 05/11/2022 10:18:29: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 05/14/2022 04:08:21: Removed 0 OLD generated ZDOS
 
-[Info   : Unity Log] 05/11/2022 10:18:29: Loaded 8820 locations
+[Info   : Unity Log] 05/14/2022 04:08:21: Loaded 8820 locations
 
 [Error  : Unity Log] Exception: Could not find child objects for KeyHints
 Stack trace:
@@ -2137,11 +2291,11 @@ Jotunn.Managers.KeyHintManager.GetBaseGameObjects (KeyHints self) (at D:/coding/
 Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at D:/coding/vs_workspace/Jotunn/JotunnLib/Managers/KeyHintManager.cs:79)
 (wrapper dynamic-method) KeyHints.DMD<KeyHints::Start>(KeyHints)
 
-[Info   : Unity Log] 05/11/2022 10:18:29: Starting respawn
+[Info   : Unity Log] 05/14/2022 04:08:22: Starting respawn
 
-[Info   : Unity Log] 05/11/2022 10:18:41: Unpacking compressed mapdata 8346
+[Info   : Unity Log] 05/14/2022 04:08:33: Unpacking compressed mapdata 8770
 
-[Info   : Unity Log] 05/11/2022 10:18:41: tip:$loadscreen_tip19
+[Info   : Unity Log] 05/14/2022 04:08:33: tip:$loadscreen_tip17
 
 [Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
 [Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
@@ -2274,8 +2428,6 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Info   : Unity Log] RecipeCustomization got crafting station Prep Table
 [Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
 [Info   : Unity Log] RecipeCustomization got crafting station Prep Table
-[Info   : Unity Log] RecipeCustomization Removing recipe for rk_griddle from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for rk_grill from the game
 [Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
 [Info   : Unity Log] RecipeCustomization got crafting station Prep Table
 [Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
@@ -2287,143 +2439,14 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Info   : Unity Log] RecipeCustomization Removing recipe for rk_moochi from the game
 [Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
 [Info   : Unity Log] RecipeCustomization got crafting station Prep Table
-[Info   : Unity Log] RecipeCustomization Removing recipe for rk_oven from the game
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
-[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
-[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Prep Table
-[Info   : Unity Log] RecipeCustomization got crafting station Prep Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Removing recipe for rune_chain_lightning from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for rune_firebolt from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for rune_force from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for rune_frostbolt from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for rune_frostnova from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for rune_glacial_spike from the game
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Removing recipe for rune_immolate from the game
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Removing recipe for SageDarkStaff from the game
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Removing recipe for SageIceStaff from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for SageLightningStaff from the game
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Removing recipe for Scythe2H_01_FA from the game
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Removing recipe for Shield_01_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Shield_02_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Shield_03_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Shield_04_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Shield_05_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Shield_06_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Shield_07_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Shield_08_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Shield_09_FA from the game
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Removing recipe for Staff_2H_01_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Staff_2H_02_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Staff_2H_03_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Staff_2H_04_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Staff_2H_05_FA from the game
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization got crafting station Inscription Table
-[Info   : Unity Log] RecipeCustomization Removing recipe for Sword_1H_02_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Sword_1H_03_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Sword_1H_04_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Sword_1H_05_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Sword_2H_01_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Sword_2H_02_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Sword_2H_03_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Sword_2H_04_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Sword_2H_05_FA from the game
-[Info   : Unity Log] RecipeCustomization Removing recipe for Sword_2H_06_FA from the game
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization got crafting station Thors Forge
-[Info   : Unity Log] RecipeCustomization Looking for crafting station $piece_forge
-[Info   : Unity Log] RecipeCustomization got crafting station $piece_forge
-[Info   : Unity Log] RecipeCustomization Removing recipe for YmirsSoulEssence from the game
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+RecipeCustomization.BepInExPlugin.SetPieceRecipeData (RecipeCustomization.RecipeData data) (at <710f51c72a894c9dbebf7622b577f995>:0)
+RecipeCustomization.BepInExPlugin.SetRecipeData (RecipeCustomization.RecipeData data) (at <710f51c72a894c9dbebf7622b577f995>:0)
+RecipeCustomization.BepInExPlugin.LoadAllRecipeData (System.Boolean reload) (at <710f51c72a894c9dbebf7622b577f995>:0)
+RecipeCustomization.BepInExPlugin+<DelayedLoadRecipes>d__13.MoveNext () (at <710f51c72a894c9dbebf7622b577f995>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <7ed9544a6e86489c87771c638baaad47>:0)
+
 [Warning:WackysDatabase] You Will be kicked from Multiplayer Servers! 0.0.1
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for ArrowFire2 
 [Info   : Unity Log] WackysDatabase Added prefab ArrowFire2
@@ -2482,649 +2505,67 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Info   : Unity Log] WackysDatabase Setting Recipe for EliteChaosPlateHelm
 [Info   : Unity Log] WackysDatabase Setting Recipe for EliteChaosPlateLegs
 [Info   : Unity Log] WackysDatabase Setting Recipe for TridentDeepAbyss
-[Info   : Unity Log] 05/11/2022 10:18:50: Spawned after 8.019994
+[Info   : Unity Log] 05/14/2022 04:08:42: Spawned after 8.019994
 
 [Info   :Jotunn.Managers.SkillManager] Registering 3 custom skills
 [Info   :      VNEI] Index prefabs
 [Info   :      VNEI] Index recipes
 [Info   :      VNEI] Index prefabs recipes
-[Info   :      VNEI] Loaded 2398 items
-[Info   : Unity Log] 05/11/2022 10:18:52: Minimap: Adding unique location (-122.7, 47.8, 5.1)
+[Info   :      VNEI] Loaded 2503 items
+[Info   : Unity Log] 05/14/2022 04:08:44: Minimap: Adding unique location (-122.7, 47.8, 5.1)
 
-[Info   : Unity Log] 05/11/2022 10:18:54: Resumed music meadows at 0
+[Info   : Unity Log] 05/14/2022 04:09:21: Resumed music home at 0
 
-[Info   : Unity Log] 05/11/2022 10:22:38: Setting selected recipe 0
+[Info   : Unity Log] 05/14/2022 04:09:21: Stopped music home at 20697
 
-[Info   : Unity Log] 05/11/2022 10:22:38: Setting selected recipe 0
+[Info   : Unity Log] CustomWeaponStats pre damage 0
+[Info   : Unity Log] CustomWeaponStats post damage 0
+[Info   : Unity Log] 05/14/2022 04:09:48: Setting selected recipe 0
 
-[Info   : Unity Log] 05/11/2022 10:22:38: UI Group status changed root = True
+[Info   : Unity Log] 05/14/2022 04:09:48: Setting selected recipe 0
 
-[Info   : Unity Log] 05/11/2022 10:22:38: UI Group status changed Player = True
+[Info   : Unity Log] 05/14/2022 04:09:49: Resumed music home at 20697
 
-[Info   : Unity Log] 05/11/2022 10:22:38: UI Group status changed QuickSlotGrid = False
+[Info   : Unity Log] 05/14/2022 04:09:49: UI Group status changed root = True
 
-[Info   : Unity Log] 05/11/2022 10:22:38: UI Group status changed EquipmentSlotGrid = False
+[Info   : Unity Log] 05/14/2022 04:09:49: UI Group status changed Player = True
 
-[Info   : Unity Log] 05/11/2022 10:22:41: Stopped music meadows at 303006
+[Info   : Unity Log] 05/14/2022 04:09:49: UI Group status changed QuickSlotGrid = False
 
-[Info   : Unity Log] 05/11/2022 10:22:41: Resumed music home at 0
+[Info   : Unity Log] 05/14/2022 04:09:49: UI Group status changed EquipmentSlotGrid = False
 
-[Info   : Unity Log] 05/11/2022 10:28:09: Stopped music home at 6339266
+[Info   : Unity Log] 05/14/2022 04:09:51: Setting selected recipe 3
 
-[Info   : Unity Log] 05/11/2022 10:28:55: Resumed music home at 6339266
+[Info   : Unity Log] 05/14/2022 04:11:25: Stopped music home at 4274053
 
-[Info   : Unity Log] 05/11/2022 10:37:11: Stopped music home at 3781699
+[Info   : Unity Log] 05/14/2022 04:11:33: UI Group status changed MenuRoot = True
 
-[Info   : Unity Log] 05/11/2022 10:37:45: Resumed music home at 3781699
+[Info   : Unity Log] 05/14/2022 04:11:34: UI Group status changed MenuRoot = False
 
-[Info   : Unity Log] 05/11/2022 10:38:45: Uncompressed size 8388617
+[Info   : Unity Log] 05/14/2022 04:11:35: Game - OnApplicationQuit
 
-[Info   : Unity Log] 05/11/2022 10:38:45: Compressed size 8346
+[Info   : Unity Log] 05/14/2022 04:11:35: Shuting down
 
-[Info   : Unity Log] 05/11/2022 10:38:45: clone 196
+[Info   : Unity Log] 05/14/2022 04:11:36: Uncompressed size 8388617
 
-[Info   : Unity Log] 05/11/2022 10:58:12: Stopped music home at 887950
-
-[Info   : Unity Log] 05/11/2022 10:58:47: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 10:58:47: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 10:58:47: clone 47
-
-[Info   : Unity Log] 05/11/2022 10:58:58: Resumed music home at 887950
-
-[Info   : Unity Log] 05/11/2022 11:07:14: Stopped music home at 6480377
-
-[Info   : Unity Log] 05/11/2022 11:07:48: Resumed music home at 6480377
-
-[Info   : Unity Log] 05/11/2022 11:18:49: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 11:18:49: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 11:18:49: clone 46
-
-[Info   : Unity Log] 05/11/2022 11:28:15: Stopped music home at 3584746
-
-[Info   : Unity Log] 05/11/2022 11:29:01: Resumed music home at 3584746
-
-[Info   : Unity Log] 05/11/2022 11:37:17: Stopped music home at 1024356
-
-[Info   : Unity Log] 05/11/2022 11:37:50: Resumed music home at 1024356
-
-[Info   : Unity Log] 05/11/2022 11:38:52: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 11:38:52: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 11:38:52: clone 47
-
-[Info   : Unity Log] 05/11/2022 11:41:02: Random event set:forestbaset1
-
-[Info   : Unity Log] 05/11/2022 11:41:05: Stopped music home at 1473273
-
-[Info   : Unity Log] 05/11/2022 11:41:05: Spawned Greyling x 2
-
-[Info   : Unity Log] 05/11/2022 11:41:05: Spawned Greyling x 2
-
-[Info   : Unity Log] 05/11/2022 11:41:05: Spawned Greyling x 2
-
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] 05/11/2022 11:42:35: Stopped music CombatEventL1 at 55663
-
-[Info   : Unity Log] 05/11/2022 11:42:35: Resumed music home at 1473273
-
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] 05/11/2022 11:42:52: Stopped music home at 2218386
-
-[Info   : Unity Log] 05/11/2022 11:42:52: Resumed music home at 2218386
-
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] 05/11/2022 11:43:14: Stopped music home at 3193054
-
-[Info   : Unity Log] 05/11/2022 11:43:14: Resumed music home at 3193054
-
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] 05/11/2022 11:58:17: Stopped music home at 2297252
-
-[Info   : Unity Log] 05/11/2022 11:58:53: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 11:58:53: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 11:58:53: clone 47
-
-[Info   : Unity Log] 05/11/2022 11:59:03: Resumed music home at 2297252
-
-[Info   : Unity Log] 05/11/2022 12:07:20: Stopped music home at 7900968
-
-[Info   : Unity Log] 05/11/2022 12:07:54: Resumed music home at 7900968
-
-[Info   : Unity Log] 05/11/2022 12:18:55: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 12:18:55: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 12:18:55: clone 47
-
-[Info   : Unity Log] 05/11/2022 12:28:20: Stopped music home at 4994047
-
-[Info   : Unity Log] 05/11/2022 12:29:06: Resumed music home at 4994047
-
-[Info   : Unity Log] 05/11/2022 12:37:22: Stopped music home at 2431776
-
-[Info   : Unity Log] 05/11/2022 12:37:56: Resumed music home at 2431776
-
-[Info   : Unity Log] 05/11/2022 12:38:57: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 12:38:57: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 12:38:57: clone 46
-
-[Info   : Unity Log] 05/11/2022 12:58:22: Stopped music home at 7660738
-
-[Info   : Unity Log] 05/11/2022 12:58:59: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 12:58:59: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 12:58:59: clone 186
-
-[Info   : Unity Log] 05/11/2022 12:59:08: Resumed music home at 7660738
-
-[Info   : Unity Log] 05/11/2022 13:07:25: Stopped music home at 5131395
-
-[Info   : Unity Log] 05/11/2022 13:07:59: Resumed music home at 5131395
-
-[Info   : Unity Log] 05/11/2022 13:19:00: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 13:19:01: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 13:19:01: clone 48
-
-[Info   : Unity Log] 05/11/2022 13:21:08: Random event set:undeadbaset1
-
-[Info   : Unity Log] 05/11/2022 13:21:10: Spawned RRRM_SkeletonT1 x 3
-
-[Info   : Unity Log] 05/11/2022 13:21:10: Spawned RRRM_SkeletonT1 x 4
-
-[Info   : Unity Log] 05/11/2022 13:21:10: Spawned RRRM_SkeletonT1 x 2
-
-[Info   : Unity Log] 05/11/2022 13:21:11: Stopped music home at 7520710
-
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] 05/11/2022 13:22:11: Stopped music CombatEventL1 at 2643647
-
-[Info   : Unity Log] 05/11/2022 13:22:11: Resumed music home at 7520710
-
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] 05/11/2022 13:28:25: Stopped music home at 7724234
-
-[Info   : Unity Log] 05/11/2022 13:29:11: Resumed music home at 7724234
-
-[Info   : Unity Log] 05/11/2022 13:37:27: Stopped music home at 5162903
-
-[Info   : Unity Log] 05/11/2022 13:38:01: Resumed music home at 5162903
-
-[Info   : Unity Log] 05/11/2022 13:39:02: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 13:39:02: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 13:39:02: clone 47
-
-[Info   : Unity Log] 05/11/2022 13:58:27: Stopped music home at 2254101
-
-[Info   : Unity Log] 05/11/2022 13:59:04: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 13:59:04: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 13:59:04: clone 186
-
-[Info   : Unity Log] 05/11/2022 13:59:14: Resumed music home at 2254101
-
-[Info   : Unity Log] 05/11/2022 14:07:30: Stopped music home at 7867225
-
-[Info   : Unity Log] 05/11/2022 14:08:04: Resumed music home at 7867225
-
-[Info   : Unity Log] 05/11/2022 14:19:06: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 14:19:06: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 14:19:06: clone 47
-
-[Info   : Unity Log] 05/11/2022 14:28:30: Stopped music home at 4960304
-
-[Info   : Unity Log] 05/11/2022 14:29:17: Resumed music home at 4960304
-
-[Info   : Unity Log] 05/11/2022 14:37:32: Stopped music home at 2397092
-
-[Info   : Unity Log] 05/11/2022 14:38:06: Resumed music home at 2397092
-
-[Info   : Unity Log] 05/11/2022 14:39:07: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 14:39:08: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 14:39:08: clone 188
-
-[Info   : Unity Log] 05/11/2022 14:58:33: Stopped music home at 7645810
-
-[Info   : Unity Log] 05/11/2022 14:59:10: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 14:59:10: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 14:59:10: clone 47
-
-[Info   : Unity Log] 05/11/2022 14:59:19: Resumed music home at 7645810
-
-[Info   : Unity Log] 05/11/2022 15:07:35: Stopped music home at 5106118
-
-[Info   : Unity Log] 05/11/2022 15:08:09: Resumed music home at 5106118
-
-[Info   : Unity Log] 05/11/2022 15:19:11: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 15:19:11: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 15:19:11: clone 48
-
-[Info   : Unity Log] 05/11/2022 15:21:36: Random event set:undeadbaset1
-
-[Info   : Unity Log] 05/11/2022 15:21:37: Spawned RRRM_SkeletonT1 x 3
-
-[Info   : Unity Log] 05/11/2022 15:21:37: Spawned RRRM_SkeletonT1 x 3
-
-[Info   : Unity Log] 05/11/2022 15:21:39: Stopped music home at 124421
-
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] 05/11/2022 15:22:39: Stopped music CombatEventL1 at 2642707
-
-[Info   : Unity Log] 05/11/2022 15:22:39: Resumed music home at 124421
-
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] CustomWeaponStats pre damage 3
-[Info   : Unity Log] CustomWeaponStats post damage 3
-[Info   : Unity Log] 05/11/2022 15:23:23: Stopped music home at 2024836
-
-[Info   : Unity Log] 05/11/2022 15:23:23: Resumed music home at 2024836
-
-[Info   : Unity Log] 05/11/2022 15:28:36: Stopped music home at 7694252
-
-[Info   : Unity Log] 05/11/2022 15:29:22: Resumed music home at 7694252
-
-[Info   : Unity Log] 05/11/2022 15:37:38: Stopped music home at 5131040
-
-[Info   : Unity Log] 05/11/2022 15:38:12: Resumed music home at 5131040
-
-[Info   : Unity Log] 05/11/2022 15:39:13: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 15:39:13: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 15:39:13: clone 48
-
-[Info   : Unity Log] 05/11/2022 15:58:38: Stopped music home at 2228823
-
-[Info   : Unity Log] 05/11/2022 15:59:15: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 15:59:15: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 15:59:15: clone 48
-
-[Info   : Unity Log] 05/11/2022 15:59:24: Resumed music home at 2228823
-
-[Info   : Unity Log] 05/11/2022 16:07:41: Stopped music home at 7823131
-
-[Info   : Unity Log] 05/11/2022 16:08:14: Resumed music home at 7823131
-
-[Info   : Unity Log] 05/11/2022 16:19:16: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 16:19:17: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 16:19:17: clone 47
-
-[Info   : Unity Log] 05/11/2022 16:28:41: Stopped music home at 4923737
-
-[Info   : Unity Log] 05/11/2022 16:29:27: Resumed music home at 4923737
-
-[Info   : Unity Log] 05/11/2022 16:37:43: Stopped music home at 2363347
-
-[Info   : Unity Log] 05/11/2022 16:38:17: Resumed music home at 2363347
-
-[Info   : Unity Log] 05/11/2022 16:39:18: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 16:39:18: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 16:39:18: clone 48
-
-[Info   : Unity Log] 05/11/2022 16:58:44: Stopped music home at 7612065
-
-[Info   : Unity Log] 05/11/2022 16:59:20: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 16:59:20: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 16:59:20: clone 46
-
-[Info   : Unity Log] 05/11/2022 16:59:30: Resumed music home at 7612065
-
-[Info   : Unity Log] 05/11/2022 17:01:47: Random event set:forestbaset1
-
-[Info   : Unity Log] 05/11/2022 17:01:50: Spawned Greyling x 2
-
-[Info   : Unity Log] 05/11/2022 17:01:50: Spawned Greyling x 3
-
-[Info   : Unity Log] 05/11/2022 17:01:50: Stopped music home at 5642185
-
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] CustomWeaponStats pre damage 5
-[Info   : Unity Log] CustomWeaponStats post damage 5
-[Info   : Unity Log] 05/11/2022 17:03:20: Stopped music CombatEventL1 at 57544
-
-[Info   : Unity Log] 05/11/2022 17:03:20: Resumed music home at 5642185
-
-[Info   : Unity Log] 05/11/2022 17:07:46: Stopped music home at 1098433
-
-[Info   : Unity Log] 05/11/2022 17:08:20: Resumed music home at 1098433
-
-[Info   : Unity Log] 05/11/2022 17:19:23: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 17:19:23: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 17:19:23: clone 53
-
-[Info   : Unity Log] 05/11/2022 17:28:47: Stopped music home at 6358441
-
-[Info   : Unity Log] 05/11/2022 17:29:33: Resumed music home at 6358441
-
-[Info   : Unity Log] 05/11/2022 17:37:49: Stopped music home at 3800874
-
-[Info   : Unity Log] 05/11/2022 17:38:23: Resumed music home at 3800874
-
-[Info   : Unity Log] 05/11/2022 17:39:24: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 17:39:24: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 17:39:24: clone 47
-
-[Info   : Unity Log] 05/11/2022 17:58:49: Stopped music home at 891131
-
-[Info   : Unity Log] 05/11/2022 17:59:26: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 17:59:26: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 17:59:26: clone 48
-
-[Info   : Unity Log] 05/11/2022 17:59:36: Resumed music home at 891131
-
-[Info   : Unity Log] 05/11/2022 18:07:52: Stopped music home at 6490143
-
-[Info   : Unity Log] 05/11/2022 18:08:26: Resumed music home at 6490143
-
-[Info   : Unity Log] 05/11/2022 18:19:28: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 18:19:28: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 18:19:28: clone 47
-
-[Info   : Unity Log] 05/11/2022 18:28:52: Stopped music home at 3586986
-
-[Info   : Unity Log] 05/11/2022 18:29:38: Resumed music home at 3586986
-
-[Info   : Unity Log] 05/11/2022 18:37:54: Stopped music home at 1024715
-
-[Info   : Unity Log] 05/11/2022 18:38:28: Resumed music home at 1024715
-
-[Info   : Unity Log] 05/11/2022 18:39:30: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 18:39:30: Compressed size 8346
-
-[Info   : Unity Log] 05/11/2022 18:39:30: clone 46
-
-[Info   : Unity Log] 05/11/2022 18:45:23: UI Group status changed MenuRoot = True
-
-[Info   : Unity Log] 05/11/2022 18:45:26: UI Group status changed MenuRoot = False
-
-[Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 5000
-[Info   : Unity Log] 05/11/2022 18:45:28: Game - OnApplicationQuit
-
-[Info   : Unity Log] 05/11/2022 18:45:28: Shuting down
-
-[Info   : Unity Log] 05/11/2022 18:45:28: Uncompressed size 8388617
-
-[Info   : Unity Log] 05/11/2022 18:45:28: Compressed size 8346
+[Info   : Unity Log] 05/14/2022 04:11:36: Compressed size 8770
 
 [Warning:WackysDatabase] Logoff? So reset - character will look empty if using clone gear
 [Info   : Unity Log] WackysDatabase All cloned Objects destoryed
-[Info   : Unity Log] 05/11/2022 18:45:28: ZNet Shutdown
+[Info   : Unity Log] 05/14/2022 04:11:36: ZNet Shutdown
 
-[Info   : Unity Log] 05/11/2022 18:45:28: clone 48
+[Info   : Unity Log] 05/14/2022 04:11:36: clone 243
 
-[Info   : Unity Log] 05/11/2022 18:45:29: Sending disconnect msg
+[Info   : Unity Log] 05/14/2022 04:11:36: Sending disconnect msg
 
-[Info   : Unity Log] 05/11/2022 18:45:31: Steam manager on destroy
+[Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 5000
+[Info   : Unity Log] 05/14/2022 04:11:39: ZNet OnDestroy
+
+[Info   : Unity Log] 05/14/2022 04:11:39: Net scene destroyed
+
+[Warning: Unity Log] 05/14/2022 04:11:40: Local player destroyed
+
+[Info   : Unity Log] 05/14/2022 04:11:40: Steam manager on destroy
 
 [Info   : Unity Log] Compass Destroying plugin
 [Info   : Unity Log] CustomArmorStats Transpiling UpdateEnvStatusEffects
@@ -3142,10 +2583,3 @@ Jotunn.Managers.KeyHintManager+Patches.KeyHints_Start (KeyHints __instance) (at 
 [Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
 [Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
-[Warning:WackysDatabase] Calling the Destoryer of Worlds -End Game
-[Info   : Unity Log] 05/11/2022 18:45:44: ZNet OnDestroy
-
-[Info   : Unity Log] 05/11/2022 18:45:44: Net scene destroyed
-
-[Warning: Unity Log] 05/11/2022 18:45:45: Local player destroyed
-

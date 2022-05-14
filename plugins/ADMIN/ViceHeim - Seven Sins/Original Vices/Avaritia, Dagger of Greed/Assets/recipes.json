@@ -7,7 +7,7 @@
     "descriptionToken": "$item_knife_greed_description",
     "description": "The dagger still glows with the glistening flesh of Bonemass..",
     "amount": 1,
-    "craftingStation": "$piece_forge",
+    "craftingStation": "piece_forge",
     "minStationLevel": 1,
     "enabled": true,
     "resources": [

@@ -1,1 +1,13 @@
-{"name":"rk_griddle","craftingStation":"","minStationLevel":1,"amount":1,"disabled":true,"reqs":["Stone:10:0:True"]}
+{
+  "name": "rk_griddle",
+  "craftingStation": "",
+  "minStationLevel": 1,
+  "amount": 1,
+  "disabled": false,
+  "reqs": [
+    "Stone:20:0:True",
+    "FineWood:10:0:True",
+    "Copper:5:0:True",
+    "SurtlingCore:2:0:True"
+  ]
+}

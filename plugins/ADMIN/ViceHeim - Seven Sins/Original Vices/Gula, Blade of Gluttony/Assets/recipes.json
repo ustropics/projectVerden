@@ -7,7 +7,7 @@
     "descriptionToken": "$item_blade_gluttony_description",
     "description": "The disire to consume outweights all. Enough to sacrafice anything that matters.",
     "amount": 1,
-    "craftingStation": "piece_artisanstation",
+    "craftingStation": "piece_forge",
     "minStationLevel": 1,
     "enabled": true,
     "resources": [
@@ -30,7 +30,6 @@
         "item": "BlackMetal",
         "amount": 20,
         "amountPerLevel": 5
-
       }
     ]
   }

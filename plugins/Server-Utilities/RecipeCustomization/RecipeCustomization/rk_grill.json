@@ -1,1 +1,13 @@
-{"name":"rk_grill","craftingStation":"$piece_forge","minStationLevel":1,"amount":1,"disabled":true,"reqs":["Stone:10:0:True","Iron:2:0:True"]}
+{
+  "name": "rk_grill",
+  "craftingStation": "",
+  "minStationLevel": 1,
+  "amount": 1,
+  "disabled": false,
+  "reqs": [
+    "RoundLog:30:0:True",
+    "Stone:20:0:True",
+    "Iron:10:0:True",
+    "SurtlingCore:5:0:True"
+  ]
+}

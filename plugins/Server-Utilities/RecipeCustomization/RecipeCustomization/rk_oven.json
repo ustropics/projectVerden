@@ -1,1 +1,13 @@
-{"name":"rk_oven","craftingStation":"Thors Forge","minStationLevel":1,"amount":1,"disabled":true,"reqs":["SurtlingCore:2:0:True","TrophySurtling:1:0:True","Stone:10:0:True"]}
+{
+  "name": "rk_oven",
+  "craftingStation": "",
+  "minStationLevel": 1,
+  "amount": 1,
+  "disabled": false,
+  "reqs": [
+    "AncientBark:30:0:True",
+    "Stone:30:0:True",
+    "Silver:10:0:True",
+    "SurtlingCore:15:0:True"
+  ]
+}

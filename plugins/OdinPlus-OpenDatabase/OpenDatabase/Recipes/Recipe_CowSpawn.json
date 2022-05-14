@@ -1,0 +1,24 @@
+{
+	"recipe_id": "Recipe_CowSpawn",
+	"result_item_id": "Cow_Bom",
+	"result_amount": 1,
+	"CraftingStation": "$piece_forge",
+	"minStationLevel": 1,
+	"ingredients": [
+		{
+			"id": "FineWood",
+			"amount": 4,
+			"amountPerLevel": 0
+		},
+		{
+			"id": "Iron",
+			"amount": 4,
+			"amountPerLevel": 0
+		},
+		{
+			"id": "Coal",
+			"amount": 4,
+			"amountPerLevel": 0
+		}
+	]
+}

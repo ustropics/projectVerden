@@ -1,1 +1,13 @@
-{"name":"rk_prep","craftingStation":"","minStationLevel":1,"amount":1,"disabled":false,"reqs":["WorldTreeFragment:15:0:True","FineWood:30:0:True","Bronze:10:0:True","Stone:20:0:True"]}
+{
+  "name": "rk_prep",
+  "craftingStation": "",
+  "minStationLevel": 1,
+  "amount": 1,
+  "disabled": false,
+  "reqs": [
+    "RoundLog:20:0:True",
+    "Stone:20:0:True",
+    "Copper:10:0:True",
+    "SurtlingCore:5:0:True"
+  ]
+}
